@@ -1,17 +1,17 @@
 {
     "fullName": {
-        "message": "SponsorBlock YouTubelle - Ohita sponsoroinnit",
+        "message": "SponorBlock YouTubelle - Ohita sponoroinnit",
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Ohita sponsoroitu mainonta, tilausten kerjääminen ja muuta YouTube-videoissa. Ilmoita katsomasi videoiden sponsorit säästääksesi muilta aikaa.",
+        "message": "Ohita sponoroitu mainonta, tilausten kerjääminen ja muuta YouTube-videoissa. Ilmoita katsomasi videoiden sponorit säästääksesi muilta aikaa.",
         "description": "Description of the extension."
     },
     "400": {
         "message": "Palvelin sanoi tämän pyynnön olevan virheellinen"
     },
     "429": {
-        "message": "Olet lähettänyt liian monta sponsorointiaikaa tälle yhdelle videolle. Oletko varma, että niitä on näin monta?"
+        "message": "Olet lähettänyt liian monta sponorointiaikaa tälle yhdelle videolle. Oletko varma, että niitä on näin monta?"
     },
     "409": {
         "message": "Tämä on jo lähetetty aiemmin"
@@ -123,7 +123,7 @@
         "message": "Tyhjennä osiot"
     },
     "openPopup": {
-        "message": "Avaa SponsorBlock-ponnahdusikkuna"
+        "message": "Avaa SponorBlock-ponnahdusikkuna"
     },
     "closePopup": {
         "message": "Sulje ponnahdusikkuna"
@@ -277,7 +277,7 @@
         "message": "Kaikki haalistuneet ohitusilmoitukset"
     },
     "longDescription": {
-        "message": "SponsorBlockin avulla voit ohittaa sponsorit, introt, outrot, tilausmuistutukset ja muut ärsyttävät osat YouTube-videoissa. SponsorBlock on käyttäjälähteinen selainlaajennus, jonka avulla kuka tahansa voi lähettää Youtube-videoiden sponsoroitujen ja muiden osioiden aloitus- ja päättymisajat. Kun yksi henkilö on lähettänyt tämän tiedon, kaikki muut, joilla on tämä laajennus, ohittavat sponsoroidun osion. Voit myös ohittaa musiikkivideoiden musiikittomat osat.",
+        "message": "SponsorBlockin avulla voit ohittaa sponorit, introt, outrot, tilausmuistutukset ja muut ärsyttävät osat YouTube-videoissa. SponorBlock on käyttäjälähteinen selainlaajennus, jonka avulla kuka tahansa voi lähettää Youtube-videoiden sponoroitujen ja muiden osioiden aloitus- ja päättymisajat. Kun yksi henkilö on lähettänyt tämän tiedon, kaikki muut, joilla on tämä laajennus, ohittavat sponoroidun osion. Voit myös ohittaa musiikkivideoiden musiikittomat osat.",
         "description": "Full description of the extension on the store pages."
     },
     "website": {
@@ -346,7 +346,7 @@
     },
     "full": {
         "message": "Koko video",
-        "description": "Used for the name of the option to label an entire video as sponsor or self promotion."
+        "description": "Used for the name of the option to label an entire video as sponor or self promotion."
     },
     "skip_category": {
         "message": "Ohita {0}?"
@@ -360,11 +360,11 @@
     },
     "skipped": {
         "message": "{0} ohitettu",
-        "description": "Example: Sponsor Skipped"
+        "description": "Example: Sponor Skipped"
     },
     "muted": {
         "message": "{0} Mykistetty",
-        "description": "Example: Sponsor Muted"
+        "description": "Example: Sponor Muted"
     },
     "skipped_to_category": {
         "message": "Ohitettiin kohtaan: {0}",
@@ -473,7 +473,7 @@
         "message": "Käytä manuaalista ohitusta, kun video on merkitty \"Koko video\" osiolla"
     },
     "whatManualSkipOnFullVideo": {
-        "message": "Niille, jotka haluavat katsella täysin sponsoroitua sisältöä tai julkaisijan omaa markkinointia sisältävät videot keskeytyksettä."
+        "message": "Niille, jotka haluavat katsella täysin sponoroitua sisältöä tai julkaisijan omaa markkinointia sisältävät videot keskeytyksettä."
     },
     "skipNoticeDuration": {
         "message": "Ohitusilmoituksen kesto (sekuntia):"
@@ -494,7 +494,7 @@
         "message": "SponsorBlock-palvelimen osoite"
     },
     "customServerAddressDescription": {
-        "message": "Osoite, jota SponsorBlock käyttää lähettääkseen kutsuja palvelimelle.\nEllei sinulla ole omaa palvelininstanssia, tätä ei pitäisi muuttaa."
+        "message": "Osoite, jota SponorBlock käyttää lähettääkseen kutsuja palvelimelle.\nEllei sinulla ole omaa palvelininstanssia, tätä ei pitäisi muuttaa."
     },
     "dataFetchingServerAddress": {
         "message": "Tiedot hakevan palvelimen osoite"
@@ -749,7 +749,7 @@
         "message": "Nimetyt kappaleet, jotka kuvaavat videon merkittäviä osia."
     },
     "category_chapter_guideline1": {
-        "message": "Älä mainitse sponsoreiden nimiä"
+        "message": "Älä mainitse sponoreiden nimiä"
     },
     "category_chapter_guideline2": {
         "message": "Käytä yleisille osille suurempia kappaleita"
@@ -798,11 +798,11 @@
     },
     "fullVideoSegments": {
         "message": "Näytä kuvake, kun video on kokonaan mainos",
-        "description": "Referring to the category pill that is now shown on videos that are entirely sponsor or entirely selfpromo"
+        "description": "Referring to the category pill that is now shown on videos that are entirely sponor or entirely selfpromo"
     },
     "fullVideoLabelsOnThumbnails": {
         "message": "Näytä tunnisteet myös videoiden pienoiskuvissa",
-        "description": "Referring to the category pill that is shown on videos that are entirely sponsor or entirely selfpromo on recommended videos, in searches or on the homepage."
+        "description": "Referring to the category pill that is shown on videos that are entirely sponor or entirely selfpromo on recommended videos, in searches or on the homepage."
     },
     "previewColor": {
         "message": "Lähettämättömien väri",
@@ -882,7 +882,7 @@
         "message": "Käyttöoikeuspyyntö epäonnistui, klikkasitko kiellä?"
     },
     "adblockerIssueWhitelist": {
-        "message": "Jos et pysty ratkaisemaan tätä, poista käytöstä asetus 'Pakota kanavan tarkistus ennen ohittamista', koska SponsorBlock ei pysty noutamaan tämän videon kanavatietoja"
+        "message": "Jos et pysty ratkaisemaan tätä, poista käytöstä asetus 'Pakota kanavan tarkistus ennen ohittamista', koska SponorBlock ei pysty noutamaan tämän videon kanavatietoja"
     },
     "forceChannelCheck": {
         "message": "Pakota kanavan tarkistus ennen ohittamista"
@@ -907,7 +907,7 @@
         "message": "Vaihda kategoria"
     },
     "nonMusicCategoryOnMusic": {
-        "message": "Tämä video on luokiteltu musiikiksi. Oletko varma, että siinä on sponsori? Jos tämä on oikeasti \"Musiikiton osio\", avaa laajennuksen asetukset ja ota tämä kategoria käyttöön. Sitten voit lähettää tämän osion oikeassa kategoriassa. Lue säännöt, jos olet vielä hämilläsi."
+        "message": "Tämä video on luokiteltu musiikiksi. Oletko varma, että siinä on sponori? Jos tämä on oikeasti \"Musiikiton osio\", avaa laajennuksen asetukset ja ota tämä kategoria käyttöön. Sitten voit lähettää tämän osion oikeassa kategoriassa. Lue säännöt, jos olet vielä hämilläsi."
     },
     "multipleSegments": {
         "message": "Useita osioita"
@@ -979,7 +979,7 @@
         "message": "Tumma tila asetussivulla"
     },
     "helpPageThanksForInstalling": {
-        "message": "Kiitos, että asensit SponsorBlockin."
+        "message": "Kiitos, että asensit SponorBlockin."
     },
     "helpPageReviewOptions": {
         "message": "Tarkista alla olevat vaihtoehdot kiitos"
@@ -1003,7 +1003,7 @@
         "message": "Lähettäminen voidaan tehdä joko ponnahdusikkunassa painamalla \"Osio alkaa nyt\" -painiketta, tai videosoittimessa olevilla painikkeilla."
     },
     "helpPageSubmitting2": {
-        "message": "Toistopainikkeen klikkaaminen osoittaa osion alun ja pysäytyskuvakkeen klikkaaminen sen lopun. Voit valmistella useita sponsoreita ennen kuin painat lähetä. Lähetä-painikkeen klikkaaminen lähettää osion. Roskakorin klikkaaminen poistaa."
+        "message": "Toistopainikkeen klikkaaminen osoittaa osion alun ja pysäytyskuvakkeen klikkaaminen sen lopun. Voit valmistella useita sponoreita ennen kuin painat lähetä. Lähetä-painikkeen klikkaaminen lähettää osion. Roskakorin klikkaaminen poistaa."
     },
     "Editing": {
         "message": "Muokkaus"
@@ -1015,7 +1015,7 @@
         "message": "Tämä on liian hidasta"
     },
     "helpPageTooSlow1": {
-        "message": "Voit käyttää pikanäppäimiä jos haluat. Paina puolipiste näppäintä merkitäksesi sponsori osion alun/lopun, ja paina heittomerkkiä lähettääksesi sen. Nämä voidaan vaihtaa asetuksista. Jos et käytä QWERTYä, sinun varmaan kannattaisi vaihtaa pikanäppäimet."
+        "message": "Voit käyttää pikanäppäimiä jos haluat. Paina puolipiste näppäintä merkitäksesi sponori osion alun/lopun, ja paina heittomerkkiä lähettääksesi sen. Nämä voidaan vaihtaa asetuksista. Jos et käytä QWERTYä, sinun varmaan kannattaisi vaihtaa pikanäppäimet."
     },
     "helpPageCopyOfDatabase": {
         "message": "Voinko saada kopion tietokannasta? Mitä tapahtuu, jos katoat?"
@@ -1075,7 +1075,7 @@
         "message": "Käytä hiiren rullaa samalla kun osoitin on muokkauslaatikon päällä säätääksesi aikaa nopeasti. Ctrl- tai Shift-näppäimen yhdistelmiä voi käyttää muutoksien hienosäätelyyn."
     },
     "categoryPillNewFeature": {
-        "message": "Uutta! Näe, kun video on kokonaan sponsoroitu tai itsensä mainostusta"
+        "message": "Uutta! Näe, kun video on kokonaan sponoroitu tai itsensä mainostusta"
     },
     "yearAbbreviation": {
         "message": "v",
@@ -1335,7 +1335,7 @@
         "message": "Kun lähetettyä pienoiskuvaa ei ole"
     },
     "whatThumbnailFallbackOption": {
-        "message": "Satunnaista kohtaa valittaessa, vältetään markkinointiosioiden valinta hyödyntämällä SponsorBlockin tietoja.",
+        "message": "Satunnaista kohtaa valittaessa, vältetään markkinointiosioiden valinta hyödyntämällä SponorBlockin tietoja.",
         "description": "Describing the option for the crowdsourced thumbnail system if no thumbnail has been submitted. It can use a random time instead."
     },
     "RandomTime": {
@@ -1495,7 +1495,7 @@
         "description": "Tip about submitting titles to DeArrow"
     },
     "dearrowHelpSponsorBlockImported": {
-        "message": "Huomioi: SponsorBlock-asetuksesi on tuotu automaattisesti!"
+        "message": "Huomioi: SponorBlock-asetuksesi on tuotu automaattisesti!"
     },
     "howItWorks": {
         "message": "Näin se toimii"
@@ -1623,7 +1623,7 @@
         "message": "Twemojiin pohjautuva logo CC-BY 4.0 -lisenssillä"
     },
     "zoomToFillUnsupported": {
-        "message": "SponsorBlock ei ole yhteensopiva \"Zoom to Fill\" -laajennuksen kanssa. Voit sen sijaan käyttää monia muita ongelmitta toimivia laajennuksia."
+        "message": "SponorBlock ei ole yhteensopiva \"Zoom to Fill\" -laajennuksen kanssa. Voit sen sijaan käyttää monia muita ongelmitta toimivia laajennuksia."
     },
     "freeTrialStarted": {
         "message": "Ilmainen kokeilu on aloitettu. Testaa sitä käymällä YouTubessa."

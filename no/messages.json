@@ -1,17 +1,17 @@
 {
     "fullName": {
-        "message": "SponsorBlock for YouTube - Hopp over sponsinger",
+        "message": "SponorBlock for YouTube - Hopp over sponsinger",
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Hopp over sponsinger, abonnementstigging og mer på YouTube-videoer. Rapporter inn sponsorer på videoer du ser på for å spare andre sin tid.",
+        "message": "Hopp over sponsinger, abonnementstigging og mer på YouTube-videoer. Rapporter inn sponorer på videoer du ser på for å spare andre sin tid.",
         "description": "Description of the extension."
     },
     "400": {
         "message": "Tjeneren sa at denne forespørselen var ugyldig"
     },
     "429": {
-        "message": "Du har sendt inn for mange sponsortidspunkter på denne ene videoen, er du sikker på at det er såpass mange?"
+        "message": "Du har sendt inn for mange sponortidspunkter på denne ene videoen, er du sikker på at det er såpass mange?"
     },
     "409": {
         "message": "Dette har allerede blitt sendt inn tidligere"
@@ -68,7 +68,7 @@
         "message": "Er du sikker på at du vil tømme dette?\n\n"
     },
     "Unknown": {
-        "message": "Det oppstod en feil under innsending av sponsortidene dine, vennligst prøv igjen senere."
+        "message": "Det oppstod en feil under innsending av sponortidene dine, vennligst prøv igjen senere."
     },
     "sponsorFound": {
         "message": "Denne videoen har segmenter i databasen!"
@@ -107,7 +107,7 @@
         "message": "Tøm segmenter"
     },
     "openPopup": {
-        "message": "Åpne SponsorBlock-oppsprett"
+        "message": "Åpne SponorBlock-oppsprett"
     },
     "closePopup": {
         "message": "Lukk oppsprett"
@@ -231,7 +231,7 @@
         "message": "Alle tonede hopp over-varsler"
     },
     "longDescription": {
-        "message": "SponsorBlock lar deg hoppe over sponsorer, introer, outro-er, abonnementspåminnelser, og andre irriterende deler av YouTube-videoer. SponsorBlock er en fellesskapsdrevet nettleserutvidelser som lar alle sende inn start- og sluttidspunktene til sponsede segmenter og andre segmenter i YouTube-videoer. Når en person sender inn denne informasjonen, vil alle andre med denne utvidelsen hoppe rett over det sponsede segmentet. Du kan også hoppe over ikke-musikk-seksjoner i musikkvideoer.",
+        "message": "SponorBlock lar deg hoppe over sponorer, introer, outro-er, abonnementspåminnelser, og andre irriterende deler av YouTube-videoer. SponorBlock er en fellesskapsdrevet nettleserutvidelser som lar alle sende inn start- og sluttidspunktene til sponsede segmenter og andre segmenter i YouTube-videoer. Når en person sender inn denne informasjonen, vil alle andre med denne utvidelsen hoppe rett over det sponsede segmentet. Du kan også hoppe over ikke-musikk-seksjoner i musikkvideoer.",
         "description": "Full description of the extension on the store pages."
     },
     "website": {
@@ -292,7 +292,7 @@
     },
     "full": {
         "message": "Full video",
-        "description": "Used for the name of the option to label an entire video as sponsor or self promotion."
+        "description": "Used for the name of the option to label an entire video as sponor or self promotion."
     },
     "skip_category": {
         "message": "Vil du hoppe over {0}?"
@@ -306,11 +306,11 @@
     },
     "skipped": {
         "message": "{0} hoppet over",
-        "description": "Example: Sponsor Skipped"
+        "description": "Example: Sponor Skipped"
     },
     "muted": {
         "message": "{0} lydløs",
-        "description": "Example: Sponsor Muted"
+        "description": "Example: Sponor Muted"
     },
     "skipped_to_category": {
         "message": "Hoppet til {0}",
@@ -421,7 +421,7 @@
         "message": "SponsorBlock-tjeneradresse"
     },
     "customServerAddressDescription": {
-        "message": "Adressen som SponsorBlock bruker til å kalle på tjeneren.\nMed mindre du har din egen tjenerinstans, burde du ikke endre på det."
+        "message": "Adressen som SponorBlock bruker til å kalle på tjeneren.\nMed mindre du har din egen tjenerinstans, burde du ikke endre på det."
     },
     "save": {
         "message": "Lagre"
@@ -607,7 +607,7 @@
     },
     "fullVideoSegments": {
         "message": "Vis et ikon når en video utelukkende er reklame",
-        "description": "Referring to the category pill that is now shown on videos that are entirely sponsor or entirely selfpromo"
+        "description": "Referring to the category pill that is now shown on videos that are entirely sponor or entirely selfpromo"
     },
     "previewColor": {
         "message": "Ikke innsendt-farge",
@@ -674,7 +674,7 @@
         "message": "Tillatelsesforespørselen mislyktes, klikket du på Avvis?"
     },
     "adblockerIssueWhitelist": {
-        "message": "Om du ikke er i stand til å løse dette, forsøk å deaktiver innstillingen 'Fremtving kanalsjekk før hopp', siden SponsorBlock ikke kan hente kanalinformasjon for denne videoen"
+        "message": "Om du ikke er i stand til å løse dette, forsøk å deaktiver innstillingen 'Fremtving kanalsjekk før hopp', siden SponorBlock ikke kan hente kanalinformasjon for denne videoen"
     },
     "forceChannelCheck": {
         "message": "Fremtving kanalsjekk før hopp"
@@ -692,7 +692,7 @@
         "message": "Endre kategori"
     },
     "nonMusicCategoryOnMusic": {
-        "message": "Denne videoen er kategorisert som musikk. Er du sikker på at dette har en sponsor? Hvis det egentlig er et \"Ikke-musikk-segment\", åpne opp innstillingene til utvidelsen og skru på denne kategorien. Deretter kan du sende dette segmentet som \"Ikke-musikk\" i stedet for som sponsing. Vennligst les retningslinjene hvis du er forvirret."
+        "message": "Denne videoen er kategorisert som musikk. Er du sikker på at dette har en sponor? Hvis det egentlig er et \"Ikke-musikk-segment\", åpne opp innstillingene til utvidelsen og skru på denne kategorien. Deretter kan du sende dette segmentet som \"Ikke-musikk\" i stedet for som sponsing. Vennligst les retningslinjene hvis du er forvirret."
     },
     "multipleSegments": {
         "message": "Flere segmenter"
@@ -743,7 +743,7 @@
         "message": "Mørk modus på instillingssiden"
     },
     "helpPageThanksForInstalling": {
-        "message": "Takk for at du installerte SponsorBlock."
+        "message": "Takk for at du installerte SponorBlock."
     },
     "helpPageReviewOptions": {
         "message": "Vennligst se gjennom innstillingene nedenfor"
@@ -767,7 +767,7 @@
         "message": "Innsending kan enten gjøres i oppsprettsvinduet ved å klikke på \"Segmentet starter nå\"-knappen eller i videoavspilleren ved å klikke på knappene på avspilleren."
     },
     "helpPageSubmitting2": {
-        "message": "Klikk på avspillingsknappen angir starten av et segment og klikk på stopp-ikonet angir slutten. Du kan gjøre klar flere sponsorer før du sender inn. Klikk på opplastningsknappen for å sende inn. Klikk på papirkurven for å slette."
+        "message": "Klikk på avspillingsknappen angir starten av et segment og klikk på stopp-ikonet angir slutten. Du kan gjøre klar flere sponorer før du sender inn. Klikk på opplastningsknappen for å sende inn. Klikk på papirkurven for å slette."
     },
     "Editing": {
         "message": "Redigering"
@@ -779,7 +779,7 @@
         "message": "Dette er for tidkrevende"
     },
     "helpPageTooSlow1": {
-        "message": "Om du vil kan du bruke hurtigtaster. Trykk på semikolon-tasten for å angi start/stopp av et sponsorsegment og klikk på apostrof for å sende inn. Disse kan endres i innstillinger. Om du ikke bruker QWERTY bør du sannsynligvis endre hurtigtastene."
+        "message": "Om du vil kan du bruke hurtigtaster. Trykk på semikolon-tasten for å angi start/stopp av et sponorsegment og klikk på apostrof for å sende inn. Disse kan endres i innstillinger. Om du ikke bruker QWERTY bør du sannsynligvis endre hurtigtastene."
     },
     "helpPageCopyOfDatabase": {
         "message": "Kan jeg få en kopi av databasen? Hva hender hvis du forsvinner?"

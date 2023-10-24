@@ -1,10 +1,10 @@
 {
     "fullName": {
-        "message": "SponsorBlock pour YouTube - Supprime les publicités intégrées",
+        "message": "SponorBlock pour YouTube - Supprime les publicités intégrées",
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Ignorez les sponsors, les rappels d'interaction et plus encore sur les vidéos YouTube. Signalez les sponsors sur les vidéos que vous regardez pour sauver le temps des autres.",
+        "message": "Ignorez les sponors, les rappels d'interaction et plus encore sur les vidéos YouTube. Signalez les sponors sur les vidéos que vous regardez pour sauver le temps des autres.",
         "description": "Description of the extension."
     },
     "400": {
@@ -123,7 +123,7 @@
         "message": "Effacer les segments"
     },
     "openPopup": {
-        "message": "Ouvrir l'encart SponsorBlock"
+        "message": "Ouvrir l'encart SponorBlock"
     },
     "closePopup": {
         "message": "Fermer l'encart"
@@ -220,7 +220,7 @@
         "message": "Activer le suivi du nombre de sauts de segments"
     },
     "whatViewTracking": {
-        "message": "Cette fonctionnalité enregistre les segments que vous avez sautés afin d'informer leur auteur à quel point leur soumission a été utile. Elle est aussi utilisée en complément des votes positifs pour empêcher la soumission de spams dans la base de données. SponsorBlock envoie un message au serveur à chaque fois que vous passez un segment. Nous espérons que la plupart des utilisateurs ne modifieront pas ce paramètre afin de conserver des statistiques aussi représentatives que possible. :)"
+        "message": "Cette fonctionnalité enregistre les segments que vous avez sautés afin d'informer leur auteur à quel point leur soumission a été utile. Elle est aussi utilisée en complément des votes positifs pour empêcher la soumission de spams dans la base de données. SponorBlock envoie un message au serveur à chaque fois que vous passez un segment. Nous espérons que la plupart des utilisateurs ne modifieront pas ce paramètre afin de conserver des statistiques aussi représentatives que possible. :)"
     },
     "enableViewTrackingInPrivate": {
         "message": "Activer le décompte du nombre de segments sautés dans les onglets de navigation privée/incognito"
@@ -244,7 +244,7 @@
         "message": "Récupérer les segments sur les nouvelles vidéos"
     },
     "whatRefetchWhenNotFound": {
-        "message": "Si la vidéo vient de sortir et qu'aucun segment n'a été encore trouvé, SponsorBlock en cherchera durant la lecture de la vidéo."
+        "message": "Si la vidéo vient de sortir et qu'aucun segment n'a été encore trouvé, SponorBlock en cherchera durant la lecture de la vidéo."
     },
     "enableShowCategoryWithoutPermission": {
         "message": "Afficher les catégories dans le menu des contributions, même celles sans autorisation"
@@ -277,7 +277,7 @@
         "message": "Toute les notifications de passage sont estompées"
     },
     "longDescription": {
-        "message": "SponsorBlock vous permet de passer les messages sponsorisés, les introductions, les postfaces, les rappels d'abonnement et autres passages ennuyeux des vidéos YouTube. SponsorBlock est une extension de navigateur web qui permet à tout le monde de soumettre les temps de début et de fin des passages sponsorisés et d'autres segments de vidéos YouTube. Dès que quelqu'un-e soumet ces informations, toutes les autres personnes possédant l'extension passeront directement les segments sponsorisés. Vous pouvez également sauter les sections non musicales des vidéos musicales.",
+        "message": "SponorBlock vous permet de passer les messages sponorisés, les introductions, les postfaces, les rappels d'abonnement et autres passages ennuyeux des vidéos YouTube. SponorBlock est une extension de navigateur web qui permet à tout le monde de soumettre les temps de début et de fin des passages sponorisés et d'autres segments de vidéos YouTube. Dès que quelqu'un-e soumet ces informations, toutes les autres personnes possédant l'extension passeront directement les segments sponorisés. Vous pouvez également sauter les sections non musicales des vidéos musicales.",
         "description": "Full description of the extension on the store pages."
     },
     "website": {
@@ -346,7 +346,7 @@
     },
     "full": {
         "message": "Vidéo entière",
-        "description": "Used for the name of the option to label an entire video as sponsor or self promotion."
+        "description": "Used for the name of the option to label an entire video as sponor or self promotion."
     },
     "skip_category": {
         "message": "Passer {0} ?"
@@ -360,11 +360,11 @@
     },
     "skipped": {
         "message": "{0} ignoré",
-        "description": "Example: Sponsor Skipped"
+        "description": "Example: Sponor Skipped"
     },
     "muted": {
         "message": "{0} mis en sourdine",
-        "description": "Example: Sponsor Muted"
+        "description": "Example: Sponor Muted"
     },
     "skipped_to_category": {
         "message": "Sauté à {0}",
@@ -418,7 +418,7 @@
         "message": "Importer/Exporter Votre ID privé d'utilisateur"
     },
     "whatChangeUserID": {
-        "message": "Cela doit rester privé. À l'instar d'un mot de passe, il ne doit être partagé avec personne. Si une autre personne est en possession de cette donnée, elle peut usurper votre identité SponsorBlock. Si vous cherchez votre UserID public, cliquez sur l'icône du presse-papiers dans l'encart."
+        "message": "Cela doit rester privé. À l'instar d'un mot de passe, il ne doit être partagé avec personne. Si une autre personne est en possession de cette donnée, elle peut usurper votre identité SponorBlock. Si vous cherchez votre UserID public, cliquez sur l'icône du presse-papiers dans l'encart."
     },
     "setUserID": {
         "message": "Définir l'ID privé d'utilisateur"
@@ -473,7 +473,7 @@
         "message": "Utiliser le saut manuel quand une étiquette vidéo complète existe"
     },
     "whatManualSkipOnFullVideo": {
-        "message": "Pour les personnes qui veulent regarder la vidéo sans interruptions si elle est complétement sponsorisée ou auto-promu."
+        "message": "Pour les personnes qui veulent regarder la vidéo sans interruptions si elle est complétement sponorisée ou auto-promu."
     },
     "skipNoticeDuration": {
         "message": "Durée de l'affichage de la notification de saut de segment (en secondes) :"
@@ -491,10 +491,10 @@
         "message": "Afficher le bouton de téléversement"
     },
     "customServerAddress": {
-        "message": "Adresse du serveur SponsorBlock"
+        "message": "Adresse du serveur SponorBlock"
     },
     "customServerAddressDescription": {
-        "message": "L'adresse que SponsorBlock utilise pour faire des appels au serveur.\nCe réglage ne doit pas être modifié à moins que vous hébergiez votre propre instance."
+        "message": "L'adresse que SponorBlock utilise pour faire des appels au serveur.\nCe réglage ne doit pas être modifié à moins que vous hébergiez votre propre instance."
     },
     "dataFetchingServerAddress": {
         "message": "Adresse du Serveur de Collecte des Données"
@@ -575,7 +575,7 @@
         "message": "Impossible de copier dans le presse-papiers"
     },
     "copyDebugInformationOptions": {
-        "message": "Copie les informations dans le presse-papiers de manière à les fournir à l'équipe de développement dans un rapport de bug ou si on vous le demande. Les informations personnelles telles que le UserID privé, les chaînes sur liste blanche ou l'adresse du serveur personnalisé sont retirées des données copiées. Cependant, des informations telles que votre user-agent, votre navigateur web, votre système d'exploitation ou le numéro de version d'extension de SponsorBlock font partie des données copiées. "
+        "message": "Copie les informations dans le presse-papiers de manière à les fournir à l'équipe de développement dans un rapport de bug ou si on vous le demande. Les informations personnelles telles que le UserID privé, les chaînes sur liste blanche ou l'adresse du serveur personnalisé sont retirées des données copiées. Cependant, des informations telles que votre user-agent, votre navigateur web, votre système d'exploitation ou le numéro de version d'extension de SponorBlock font partie des données copiées. "
     },
     "copyDebugInformationComplete": {
         "message": "Les informations de débogage ont été copiées dans le presse-papiers. N'hésitez pas à supprimer toute information que vous ne souhaitez pas partager. Enregistrez-les dans un fichier texte ou collez-les dans le rapport de bug."
@@ -598,7 +598,7 @@
         "message": "Jouer comme si rien n'avait été passé"
     },
     "category_sponsor": {
-        "message": "Message sponsorisé"
+        "message": "Message sponorisé"
     },
     "category_sponsor_description": {
         "message": "Promotion rémunérée, parrainage rémunéré et publicité directe. Ne concerne pas l'autopromotion ou le partage gratuit de causes, créateurices, sites web ou produits appréciés."
@@ -628,7 +628,7 @@
         "message": "Accès exclusif"
     },
     "category_exclusive_access_description": {
-        "message": "Sert uniquement à étiqueter les vidéos entièrement sponsorisées. Utilisé quand une vidéo présente un produit, un service ou un emplacement pour lesquels un accès gratuit ou subventionné a été reçu."
+        "message": "Sert uniquement à étiqueter les vidéos entièrement sponorisées. Utilisé quand une vidéo présente un produit, un service ou un emplacement pour lesquels un accès gratuit ou subventionné a été reçu."
     },
     "category_exclusive_access_pill": {
         "message": "Cette vidéo présente un produit, un service ou un lieu pour lequel un accès gratuit ou subventionné a été reçu",
@@ -749,7 +749,7 @@
         "message": "Noms de chapitres personnalisés décrivant les sections importantes d'une vidéo."
     },
     "category_chapter_guideline1": {
-        "message": "Ne pas mentionner les marques du sponsor"
+        "message": "Ne pas mentionner les marques du sponor"
     },
     "category_chapter_guideline2": {
         "message": "Utiliser de plus grands chapitres pour les sections générales"
@@ -798,11 +798,11 @@
     },
     "fullVideoSegments": {
         "message": "Afficher une icône lorsqu'une vidéo est entièrement promotionnelle",
-        "description": "Referring to the category pill that is now shown on videos that are entirely sponsor or entirely selfpromo"
+        "description": "Referring to the category pill that is now shown on videos that are entirely sponor or entirely selfpromo"
     },
     "fullVideoLabelsOnThumbnails": {
         "message": "Afficher également les étiquettes sur les vignettes de la vidéo",
-        "description": "Referring to the category pill that is shown on videos that are entirely sponsor or entirely selfpromo on recommended videos, in searches or on the homepage."
+        "description": "Referring to the category pill that is shown on videos that are entirely sponor or entirely selfpromo on recommended videos, in searches or on the homepage."
     },
     "previewColor": {
         "message": "Couleur non soumise",
@@ -882,7 +882,7 @@
         "message": "La demande de permission a échoué, avez-vous cliqué sur refuser ?"
     },
     "adblockerIssueWhitelist": {
-        "message": "Si vous ne parvenez pas à résoudre ce problème, désactivez le paramètre \"Forcer la vérification de la chaîne avant de passer\" car SponsorBlock ne parvient pas à récupérer les informations de la chaine pour cette vidéo"
+        "message": "Si vous ne parvenez pas à résoudre ce problème, désactivez le paramètre \"Forcer la vérification de la chaîne avant de passer\" car SponorBlock ne parvient pas à récupérer les informations de la chaine pour cette vidéo"
     },
     "forceChannelCheck": {
         "message": "Forcer la vérification de la chaîne avant de passer"
@@ -907,7 +907,7 @@
         "message": "Changer de catégorie"
     },
     "nonMusicCategoryOnMusic": {
-        "message": "Cette vidéo est catégorisée comme musicale. Êtes-vous sûr-e qu'elle est sponsorisée ? S'il s'agit d'un segment non musical, activez cette catégorie dans les options de SponsorBlock. Vous pourez ensuite soumettre ce segment en tant que \"segment non musical\" plutôt que \"message commercial\". Lisez les instructions pour plus de détails."
+        "message": "Cette vidéo est catégorisée comme musicale. Êtes-vous sûr-e qu'elle est sponorisée ? S'il s'agit d'un segment non musical, activez cette catégorie dans les options de SponorBlock. Vous pourez ensuite soumettre ce segment en tant que \"segment non musical\" plutôt que \"message commercial\". Lisez les instructions pour plus de détails."
     },
     "multipleSegments": {
         "message": "Plusieurs segments"
@@ -979,7 +979,7 @@
         "message": "Page options affichée en mode sombre"
     },
     "helpPageThanksForInstalling": {
-        "message": "Merci d'avoir installé SponsorBlock."
+        "message": "Merci d'avoir installé SponorBlock."
     },
     "helpPageReviewOptions": {
         "message": "Veuillez vérifier les options ci-dessous"
@@ -1015,7 +1015,7 @@
         "message": "Ceci est trop lent"
     },
     "helpPageTooSlow1": {
-        "message": "Il y a des raccourcis clavier si vous voulez les utiliser. Appuyez sur la touche point-virgule pour indiquer le début et la fin d'un segment sponsorisé, et cliquez sur l'apostrophe pour soumettre. Vous pouvez les modifier dans les options. Si vous n'utilisez pas un clavier QWERTY, vous devriez probablement changer les racourcis par défaut."
+        "message": "Il y a des raccourcis clavier si vous voulez les utiliser. Appuyez sur la touche point-virgule pour indiquer le début et la fin d'un segment sponorisé, et cliquez sur l'apostrophe pour soumettre. Vous pouvez les modifier dans les options. Si vous n'utilisez pas un clavier QWERTY, vous devriez probablement changer les racourcis par défaut."
     },
     "helpPageCopyOfDatabase": {
         "message": "Puis-je obtenir une copie de la base de données ? Que se passe-t-il si vous disparaissez ?"
@@ -1075,7 +1075,7 @@
         "message": "Utilisez la molette de votre souris en survolant la boîte d'édition pour ajuster rapidement le minutage. Les combinaisons de touches ctrl ou maj peuvent être utilisées pour affiner les modifications."
     },
     "categoryPillNewFeature": {
-        "message": "Nouveau ! Soyez prévenu-e quand une vidéo est entièrement sponsorisée ou autopromotionnelle"
+        "message": "Nouveau ! Soyez prévenu-e quand une vidéo est entièrement sponorisée ou autopromotionnelle"
     },
     "dayAbbreviation": {
         "message": "j",
@@ -1331,7 +1331,7 @@
         "message": "Quand aucune miniature soumise n'existe"
     },
     "whatThumbnailFallbackOption": {
-        "message": "Lors de la sélection d'une heure aléatoire, il utilisera les données de SponsorBlock pour s'assurer qu'une heure est située dans un segment promotionnel n'est pas sélectionnée.",
+        "message": "Lors de la sélection d'une heure aléatoire, il utilisera les données de SponorBlock pour s'assurer qu'une heure est située dans un segment promotionnel n'est pas sélectionnée.",
         "description": "Describing the option for the crowdsourced thumbnail system if no thumbnail has been submitted. It can use a random time instead."
     },
     "RandomTime": {
@@ -1482,7 +1482,7 @@
         "description": "Tip about submitting titles to DeArrow"
     },
     "dearrowHelpSponsorBlockImported": {
-        "message": "Note : vos paramètres SponsorBlock ont été automatiquement importés !"
+        "message": "Note : vos paramètres SponorBlock ont été automatiquement importés !"
     },
     "howItWorks": {
         "message": "Comment ça marche"
@@ -1610,7 +1610,7 @@
         "message": "Logo basé sur Twemoji sous licence CC-BY 4.0"
     },
     "zoomToFillUnsupported": {
-        "message": "SponsorBlock n'est pas compatible avec l'extension \"Zoom to Fill\". Il existe de nombreuses alternatives que vous pouvez utiliser à la place qui fonctionneront correctement."
+        "message": "SponorBlock n'est pas compatible avec l'extension \"Zoom to Fill\". Il existe de nombreuses alternatives que vous pouvez utiliser à la place qui fonctionneront correctement."
     },
     "freeTrialStarted": {
         "message": "Votre essai gratuit a démarré avec succès. Allez sur YouTube pour le tester"

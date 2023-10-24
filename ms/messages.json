@@ -1,10 +1,10 @@
 {
     "fullName": {
-        "message": "SponsorBlock untuk YouTube - Lewati Sponsor",
+        "message": "SponorBlock untuk YouTube - Lewati Sponor",
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Lewati sponsor, meminta subscriber dan lain-lain di video YouTube. Laporkan sponsor di video yang anda tonton untuk menghemat waktu orang lain.",
+        "message": "Lewati sponor, meminta subscriber dan lain-lain di video YouTube. Laporkan sponor di video yang anda tonton untuk menghemat waktu orang lain.",
         "description": "Description of the extension."
     },
     "400": {
@@ -274,7 +274,7 @@
         "message": "Semua Pudar Notis Langkau"
     },
     "longDescription": {
-        "message": "SponsorBlock membolehkan anda melewati penaja, intro, outro, peringatan langganan, dan bahagian lain dari video YouTube yang menjengkelkan. SponsorBlock adalah pelanjutan penyemak imbas yang banyak untuk membolehkan sesiapa sahaja menghantar segmen tajaan dan masa tayangan dari segmen video YouTube yang lain. Setelah satu orang menyerahkan maklumat ini, semua orang yang mempunyai pelanjutan ini akan melangkau segmen yang ditaja. Anda juga boleh melangkau bahagian muzik video muzik bukan.",
+        "message": "SponorBlock membolehkan anda melewati penaja, intro, outro, peringatan langganan, dan bahagian lain dari video YouTube yang menjengkelkan. SponorBlock adalah pelanjutan penyemak imbas yang banyak untuk membolehkan sesiapa sahaja menghantar segmen tajaan dan masa tayangan dari segmen video YouTube yang lain. Setelah satu orang menyerahkan maklumat ini, semua orang yang mempunyai pelanjutan ini akan melangkau segmen yang ditaja. Anda juga boleh melangkau bahagian muzik video muzik bukan.",
         "description": "Full description of the extension on the store pages."
     },
     "website": {
@@ -343,7 +343,7 @@
     },
     "full": {
         "message": "Seluruh Video",
-        "description": "Used for the name of the option to label an entire video as sponsor or self promotion."
+        "description": "Used for the name of the option to label an entire video as sponor or self promotion."
     },
     "skip_category": {
         "message": "Langkau {0}?"
@@ -357,11 +357,11 @@
     },
     "skipped": {
         "message": "{0} Melangkau",
-        "description": "Example: Sponsor Skipped"
+        "description": "Example: Sponor Skipped"
     },
     "muted": {
         "message": "{0} Diredam",
-        "description": "Example: Sponsor Muted"
+        "description": "Example: Sponor Muted"
     },
     "skipped_to_category": {
         "message": "Melangkau kepada {0}",
@@ -484,10 +484,10 @@
         "message": "Tunjukkan Butang Muat Naik"
     },
     "customServerAddress": {
-        "message": "Alamat Pelayan Sponsorblock"
+        "message": "Alamat Pelayan Sponorblock"
     },
     "customServerAddressDescription": {
-        "message": "Alamat yang digunakan SponsorBlock untuk membuat panggilan ke pelayan.\nKecuali anda mempunyai contoh pelayan anda sendiri, ini tidak boleh diubah."
+        "message": "Alamat yang digunakan SponorBlock untuk membuat panggilan ke pelayan.\nKecuali anda mempunyai contoh pelayan anda sendiri, ini tidak boleh diubah."
     },
     "save": {
         "message": "Simpan"
@@ -782,7 +782,7 @@
     },
     "fullVideoSegments": {
         "message": "Tunjukkan ikon apabila video ialah iklan sepenuhnya",
-        "description": "Referring to the category pill that is now shown on videos that are entirely sponsor or entirely selfpromo"
+        "description": "Referring to the category pill that is now shown on videos that are entirely sponor or entirely selfpromo"
     },
     "previewColor": {
         "message": "Warna Belum Diserahkan",
@@ -859,7 +859,7 @@
         "message": "Permintaan kebenaran gagal, adakah anda menekan menafikan?"
     },
     "adblockerIssueWhitelist": {
-        "message": "Jika anda tidak dapat menyelesaikan perkara ini, kemudian lumpuhkan tetapan 'Paksa Semak Saluran Sebelum Langkau', kerana SponsorBlock tidak dapat mengambil semula maklumat saluran untuk video ini"
+        "message": "Jika anda tidak dapat menyelesaikan perkara ini, kemudian lumpuhkan tetapan 'Paksa Semak Saluran Sebelum Langkau', kerana SponorBlock tidak dapat mengambil semula maklumat saluran untuk video ini"
     },
     "forceChannelCheck": {
         "message": "Pakai Pemeriksaan Saluran Sebelum Melangkau"
@@ -950,7 +950,7 @@
         "message": "Mod Gelap Di Halaman Pilihan"
     },
     "helpPageThanksForInstalling": {
-        "message": "Terima kasih kerana memasang SponsorBlock."
+        "message": "Terima kasih kerana memasang SponorBlock."
     },
     "helpPageReviewOptions": {
         "message": "Tolong semak pilihan di bawah"
@@ -974,7 +974,7 @@
         "message": "Menghantar boleh dilakukan sama ada di dalam pop timbul dengan menekan butang \"Segmen Bermula Sekarang\" atau di dalam pemain video dengan menggunakan butang di pemain."
     },
     "helpPageSubmitting2": {
-        "message": "Menekan butang main menunjukkan permulaan segmen dan menekan ikon berhenti menunjukkan tamat. Anda boleh sediakan berbilang sponsor sebelum menekan hantar. Menekan butang muat turun akan hantar. Menekan tong sampah akan padam."
+        "message": "Menekan butang main menunjukkan permulaan segmen dan menekan ikon berhenti menunjukkan tamat. Anda boleh sediakan berbilang sponor sebelum menekan hantar. Menekan butang muat turun akan hantar. Menekan tong sampah akan padam."
     },
     "Editing": {
         "message": "Menyunting"

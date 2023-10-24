@@ -1,10 +1,10 @@
 {
     "fullName": {
-        "message": "SponsorBlock per YouTube - Omet els Sponsorships",
+        "message": "SponorBlock per YouTube - Omet els Sponorships",
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Omet els sponsorships, pregant per una subscripció i mes en videos de YouTube. Informa dels patrocinadors a els vídeos que mires per estalviar temps als altres.",
+        "message": "Omet els sponorships, pregant per una subscripció i mes en videos de YouTube. Informa dels patrocinadors a els vídeos que mires per estalviar temps als altres.",
         "description": "Description of the extension."
     },
     "400": {
@@ -107,7 +107,7 @@
         "message": "Esborra els segments"
     },
     "openPopup": {
-        "message": "Obrir finestra de SponsorBlock"
+        "message": "Obrir finestra de SponorBlock"
     },
     "closePopup": {
         "message": "Tanca la finestra"

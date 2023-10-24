@@ -1,1668 +1,1326 @@
 {
     "fullName": {
-        "message": "SponsorBlock для YouTube - Пропускайте спонсорские вставки",
+        "message": "SponorBlock pentru YouTube - Sari peste sponorizări",
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Пропускайте спонсорские вставки, просьбы подписаться и другое в видео на YouTube. Отправляйте информацию о спонсорах в видео, чтобы экономить другим время.",
+        "message": "Treci peste sponorizări, cereri de abonare și multe altele pe videoclipuri de pe YouTube. Raportează sponorii pe videoclipurile pe care le urmărești pentru a economisi timp altora.",
         "description": "Description of the extension."
     },
     "400": {
-        "message": "Сервер отклонил этот запрос"
+        "message": "Serverul a spus că această cerere este invalidă"
     },
     "429": {
-        "message": "Вы отправили слишком много сегментов для этого видео. Вы уверены, что их так много?"
+        "message": "Ai trimis prea multe timpuri ale sponorizărilor pentru acest videoclip, sunteți sigur că sunt atât de multe?"
     },
     "409": {
-        "message": "Этот запрос был отправлен ранее"
+        "message": "Acest lucru a fost deja trimis înainte"
     },
     "channelWhitelisted": {
-        "message": "Канал добавлен в белый список!"
+        "message": "Canalul a fost adăugat la excepții!"
     },
     "Segment": {
-        "message": "сегмент"
+        "message": "segment"
     },
     "Segments": {
-        "message": "сегментов"
+        "message": "segmente"
     },
     "SegmentsCap": {
-        "message": "Сегменты"
+        "message": "Segmente"
     },
     "Chapters": {
-        "message": "Эпизоды"
+        "message": "Capitolele"
     },
     "renderAsChapters": {
-        "message": "Отображать сегменты как эпизоды",
+        "message": "Randarea segmentelor ca, capitole",
         "description": "Refers to drawing segments on the YouTube seek bar as split up chapters, similar to the existing chapter system"
     },
     "showSegmentNameInChapterBar": {
-        "message": "Показывать название текущего сегмента рядом со временем"
+        "message": "Arată ora video din segmentul curent"
     },
     "upvoteButtonInfo": {
-        "message": "Проголосовать за этот сегмент"
+        "message": "Votează această înregistrare"
     },
     "reportButtonTitle": {
-        "message": "Пожаловаться"
+        "message": "Raportează"
     },
     "reportButtonInfo": {
-        "message": "Сообщить об ошибке в этом сегменте."
+        "message": "Raportează această înregistrare ca fiind incorectă."
     },
     "Dismiss": {
-        "message": "Закрыть"
+        "message": "Renunță"
     },
     "Loading": {
-        "message": "Загрузка..."
+        "message": "Se încarcă..."
     },
     "Hide": {
-        "message": "Больше не показывать"
+        "message": "Nu mai afișa niciodată"
     },
     "hitGoBack": {
-        "message": "Нажмите «Назад», чтобы вернуться обратно."
+        "message": "Apasă unskip pentru a reveni."
     },
     "unskip": {
-        "message": "Назад"
+        "message": "Unskip"
     },
     "reskip": {
-        "message": "Пропустить"
+        "message": "Sari peste"
     },
     "unmute": {
-        "message": "Включить звук"
+        "message": "Activare sunet"
     },
     "paused": {
-        "message": "Пауза"
+        "message": "Pauză"
     },
     "manualPaused": {
-        "message": "Таймер остановлен"
+        "message": "Cronometru oprit"
     },
     "confirmMSG": {
-        "message": "Чтобы изменить или удалить отдельные значения, нажмите кнопку «Информация» или откройте всплывающее окно расширения, щелкнув на значок расширения в правом верхнем углу."
+        "message": "Pentru a edita sau a șterge valori individuale, apasă butonul de informații sau deschide popup-ul extensiei apăsând iconița extensiei din colțul dreapta sus."
     },
     "clearThis": {
-        "message": "Вы уверены, что хотите это удалить?\n\n"
+        "message": "Ești sigur că vrei să ștergi asta?\n\n"
     },
     "Unknown": {
-        "message": "При отправке сегмента произошла ошибка. Попытайтесь отправить его позже."
+        "message": "A apărut o eroare în trimiterea timpilor sponorizărilor, încearcă din nou mai târziu."
     },
     "sponsorFound": {
-        "message": "В базе есть сегменты для этого видео!"
+        "message": "Acest videoclip are segmente în baza de date!"
     },
     "sponsor404": {
-        "message": "Сегменты не найдены"
+        "message": "Nici un segment găsit"
     },
     "sponsorStart": {
-        "message": "Сегмент начинается отсюда"
+        "message": "Segmentul începe acum"
     },
     "sponsorEnd": {
-        "message": "Сегмент заканчивается здесь"
+        "message": "Segmentul se termină acum"
     },
     "sponsorCancel": {
-        "message": "Отменить создание сегмента"
+        "message": "Anulare creare segment"
     },
     "noVideoID": {
-        "message": "Видео YouTube не найдено.\nЕсли это не так, обновите вкладку."
+        "message": "Nu s-a găsit niciun videoclip YouTube.\nDacă acest lucru este incorect, actualizați fila."
     },
     "refreshSegments": {
-        "message": "Обновить сегменты"
+        "message": "Reîmprospătare segmente"
     },
     "success": {
-        "message": "Успех!"
+        "message": "Succes!"
     },
     "voted": {
-        "message": "Голос засчитан!"
+        "message": "Votat!"
     },
     "serverDown": {
-        "message": "Кажется, сервер не отвечает. Свяжитесь с разработчиком."
+        "message": "Se pare că serverul este oprit. Contactează imediat dezvoltatorul."
     },
     "connectionError": {
-        "message": "Ошибка соединения. Код ошибки: "
+        "message": "A apărut o eroare de conexiune. Cod de eroare: "
     },
     "segmentsStillLoading": {
-        "message": "Сегменты всё ещё загружаются..."
+        "message": "Încă se încarcă segmentele..."
     },
     "clearTimes": {
-        "message": "Очистить сегменты"
+        "message": "Curăță segmentele"
     },
     "openPopup": {
-        "message": "Открыть всплывающее окно SponsorBlock"
+        "message": "Deschide Popup-ul SponorBlock"
     },
     "closePopup": {
-        "message": "Закрыть окно"
+        "message": "Închide pop-up"
     },
     "closeIcon": {
-        "message": "Кнопка закрытия"
+        "message": "Închide pictograma"
     },
     "OpenSubmissionMenu": {
-        "message": "Открыть меню отправки"
+        "message": "Deschide Meniul de Trimitere"
     },
     "sortSegments": {
-        "message": "Сортировать сегменты"
+        "message": "Sortare Segmente"
     },
     "submitCheck": {
-        "message": "Вы уверены, что хотите это отправить?"
+        "message": "Sunteți sigur că doriți să trimiteți asta?"
     },
     "whitelistChannel": {
-        "message": "Добавить канал в белый список"
+        "message": "Adaugă canalul la excepții"
     },
     "removeFromWhitelist": {
-        "message": "Удалить канал из белого списка"
+        "message": "Șterge canalul de la excepții"
     },
     "voteOnTime": {
-        "message": "Проголосовать за сегмент"
+        "message": "Votează pe un Segment"
     },
     "Submissions": {
-        "message": "Отправлено сегментов"
+        "message": "Submisii"
     },
     "savedPeopleFrom": {
-        "message": "Вы помогли людям пропустить "
+        "message": "Tu ai salvat alte persoane de la "
     },
     "viewLeaderboard": {
-        "message": "Доска почёта"
+        "message": "Clasament"
     },
     "recordTimesDescription": {
-        "message": "Отправить"
+        "message": "Trimite"
     },
     "submissionEditHint": {
-        "message": "Редактирование сегментов появится после нажатия на кнопку «Отправить»",
+        "message": "Editând secțiunea va apărea după ce faceți clic trimiteți",
         "description": "Appears in the popup to inform them that editing has been moved to the video player."
     },
     "popupHint": {
-        "message": "Подсказка: Вы можете настроить сочетания клавиш для отправки в настройках"
+        "message": "Sugestie: Puteți configura combinații de taste pentru trimitere în opțiuni"
     },
     "clearTimesButton": {
-        "message": "Очистить время"
+        "message": "Șterge Timpii"
     },
     "Username": {
-        "message": "Имя пользователя"
+        "message": "Nume de utilizator"
     },
     "setUsername": {
-        "message": "Установить имя пользователя"
+        "message": "Setează Numele De Utilizator"
     },
     "copyPublicID": {
-        "message": "Копировать публичный UserID"
+        "message": "Copiază ID-Utilizator Public"
     },
     "copySegmentID": {
-        "message": "Копировать ID сегмента"
+        "message": "Copiază ID-ul Segmentului"
     },
     "hideThis": {
-        "message": "Скрыть это"
+        "message": "Ascunde asta"
     },
     "Options": {
-        "message": "Настройки"
+        "message": "Opţiuni"
     },
     "showButtons": {
-        "message": "Показывать кнопки в плеере YouTube"
+        "message": "Arată Butoanele Pe Playerul De YouTube"
     },
     "hideButtons": {
-        "message": "Скрыть кнопки в плеере YouTube"
+        "message": "Ascunde Butoanele Pe Playerul De YouTube"
     },
     "hideButtonsDescription": {
-        "message": "Эта настройка скрывает кнопки для отправки сегментов, расположенные в плеере YouTube."
+        "message": "Asta ascunde butoanele ce apar pe playerul de YouTube pentru a trimite segmente."
     },
     "showSkipButton": {
-        "message": "Не скрывать кнопку «Пропустить до важного» в плеере YouTube"
+        "message": "Păstrează Butonul de Sari Peste Secțiunea Evidențiată În Player"
     },
     "showInfoButton": {
-        "message": "Показывать кнопку информации в плеере YouTube"
+        "message": "Arată Butoanele De Informații Pe Playerul De YouTube"
     },
     "hideInfoButton": {
-        "message": "Скрыть кнопку информации в плеере YouTube"
+        "message": "Ascunde Butoanele De Informații Pe Playerul De YouTube"
     },
     "autoHideInfoButton": {
-        "message": "Автоматически скрывать кнопку информации"
+        "message": "Ascunde Automat Butonul De Info"
     },
     "hideDeleteButton": {
-        "message": "Скрыть кнопку удаления в плеере YouTube"
+        "message": "Ascunde Butonul De Ștergere Pe Playerul De YouTube"
     },
     "showDeleteButton": {
-        "message": "Показывать кнопку удаления в плеере YouTube"
+        "message": "Arată Butonul De Ștergere Pe Playerul De YouTube"
     },
     "enableViewTracking": {
-        "message": "Включить отслеживание количества пропусков сегментов"
+        "message": "Activează Urmărirea Săriturilor"
     },
     "whatViewTracking": {
-        "message": "Эта возможность отслеживает, какие сегменты Вы пропустили, чтобы помочь пользователям узнать, насколько их вклад помог другим, и, наряду с голосами, используется как метрика, чтобы убедиться, что спам не попадает в базу данных. Расширение отправляет сообщение на сервер каждый раз, когда Вы пропускаете сегмент. Надеемся, большая часть пользователей не поменяет эту настройку, так что у нас будет точная статистика просмотров. :)"
+        "message": "Acest lucru urmărește peste ce segmente ai sărit pentru a informa utilizatorii cât de mult înregistrările lor i-au ajutat pe alții și este folosit ca un contor împreună cu upvoturile pentru a ne asigura că spamul nu pătrunde în baza de date. Extensia trimite un mesaj serverului de fiecare dată când sari peste un segment. Sperăm că majoritatea oamenilor nu vor schimba această setare astfel că numerele să fie exacte. :)"
     },
     "enableViewTrackingInPrivate": {
-        "message": "Включить отслеживание пропусков во вкладках инкогнито"
+        "message": "Activează Monitorizarea Numărului de Segmente Omise în Ferestre Private/Incognito"
     },
     "enableTrackDownvotes": {
-        "message": "Хранить отрицательные оценки сегментов"
+        "message": "Stochează Segmente Downvotuite"
     },
     "whatTrackDownvotes": {
-        "message": "Все сегменты, которым вы поставите отрицательную оценку, будут скрыты даже после обновления страницы"
+        "message": "Segmentele la care ați dat downvote vor rămâne ascunse chiar si după reîncărcarea paginii"
     },
     "trackDownvotesWarning": {
-        "message": "Предупреждение: Отключение этой настройки удалит все ранее сохранённые оценки"
+        "message": "Atenție: Dezactivarea acestei opțiuni va șterge toate downvote-urile stocate anterior"
     },
     "enableQueryByHashPrefix": {
-        "message": "Запрос по префиксу хэша"
+        "message": "Interogare după Prefix Hash"
     },
     "whatQueryByHashPrefix": {
-        "message": "Вместо отправки на сервер ID видео, для получения сегментов будут использоваться первые 4 символа хэша ID. Сервер вернёт данные для всех видео с похожими хэшами."
+        "message": "În loc să solicite segmente de pe server folosind ID-ul video, primele 4 caractere ale hash-ului ID-ul videoului sunt trimise. Acest server va trimite înapoi date pentru toate videoclipurile cu hash-uri similare."
     },
     "enableRefetchWhenNotFound": {
-        "message": "Перепроверять сегменты в новых видео"
+        "message": "Refacere segmente pe videoclipuri noi"
     },
     "whatRefetchWhenNotFound": {
-        "message": "Если видео новое и для него не найдено сегментов, то информация о них будет обновляться каждые пару минут, пока вы смотрите видео."
+        "message": "Dacă videoclipul este nou și nu sunt segmente găsite, va continua să se refeteze la fiecare câteva minute în timp ce vizionați."
     },
     "enableShowCategoryWithoutPermission": {
-        "message": "Показывать категории в меню отправки даже без разрешения на публикацию"
+        "message": "Arată categoriile în meniul de adăugare chiar fără permisiunea de adăugare"
     },
     "whatShowCategoryWithoutPermission": {
-        "message": "Некоторые категории требуют разрешения для отправки из-за минимальных требований к репутации"
+        "message": "Unele categorii necesită permisiunea de a depune din cauza cerințelor minime de reputație"
     },
     "showNotice": {
-        "message": "Показать уведомление снова"
+        "message": "Arată Notificarea Din Nou"
     },
     "showSkipNotice": {
-        "message": "Показывать уведомление после пропуска сегмента"
+        "message": "Arată o notificare după ce un segment este sărit"
     },
     "showCategoryGuidelines": {
-        "message": "Показать справку для категории"
+        "message": "Afișează Categoria de Ajutor"
     },
     "noticeVisibilityMode0": {
-        "message": "Полноразмерные уведомления о пропусках"
+        "message": "Notificări de Omiteri de Dimensiune Originală"
     },
     "noticeVisibilityMode1": {
-        "message": "Уменьшенные уведомления для автоматических пропусков"
+        "message": "Notificări de Omiteri de Dimensiune Mică Pentru Omiteri Automate"
     },
     "noticeVisibilityMode2": {
-        "message": "Все уведомления уменьшенного размера"
+        "message": "Toate Notificările de Omiteri de Dimensiune Mică"
     },
     "noticeVisibilityMode3": {
-        "message": "Полупрозрачные уведомления для автоматических пропусков"
+        "message": "Notificări Estompate pentru Omiteri Automate"
     },
     "noticeVisibilityMode4": {
-        "message": "Полупрозрачные уведомления для всех пропусков"
+        "message": "Toate Notificările de Omiteri Estompate"
     },
     "longDescription": {
-        "message": "SponsorBlock позволяет пропускать спонсорские вставки, начальные и конечные заставки, просьбы подписаться и другое в видео на YouTube. SponsorBlock — коллективное расширение, которое позволяет каждому отправить время начала и конца подобных сегментов в видео. После того, как кто-нибудь отправляет эту информацию, все остальные пользователи расширения будут автоматически пропускать эти сегменты. Так же можно пропускать части клипов без музыки.",
+        "message": "SponorBlock vă permite să săriți peste sponori, intro, outros, memento-uri pentru abonament și alte părți enervante ale videoclipurilor YouTube SponorBlock este o extensie crowdsourced de browser, care hai să trimită oricui timpul de început și de sfârșit pentru segmente sponorizate și alte segmente de videoclipuri YouTube. Odată ce o persoană transmite aceste informații, toți ceilalți cu această extensie vor sări peste segmentul sponorizat. De asemenea, poți sări peste secțiunile non-muzicale ale videoclipurilor.",
         "description": "Full description of the extension on the store pages."
     },
     "website": {
-        "message": "Сайт",
+        "message": "Website",
         "description": "Used on Firefox Store Page"
     },
     "sourceCode": {
-        "message": "Исходный код",
+        "message": "Cod Sursă",
         "description": "Used on Firefox Store Page"
     },
     "noticeUpdate": {
-        "message": "Уведомление было обновлено!",
+        "message": "Notificarea a fost actualizată!",
         "description": "The first line of the message displayed after the notice was upgraded."
     },
     "noticeUpdate2": {
-        "message": "Если оно Вам всё равно не нравится, нажмите \"не показывать\".",
+        "message": "Dacă nu îți place, apasă butonul nu mai arăta niciodată.",
         "description": "The second line of the message displayed after the notice was upgraded."
     },
     "setSkipShortcut": {
-        "message": "Пропустить сегмент",
+        "message": "Sari peste segment",
         "description": "Keybind label"
     },
     "setStartSponsorShortcut": {
-        "message": "Начало/конец сегмента",
+        "message": "Pornește/oprește segmentul",
         "description": "Keybind label"
     },
     "setSubmitKeybind": {
-        "message": "Отправить сегменты",
+        "message": "Predă segmentele",
         "description": "Keybind label"
     },
     "nextChapterKeybind": {
-        "message": "Следующий эпизод",
+        "message": "Capitolul următor",
         "description": "Keybind label"
     },
     "previousChapterKeybind": {
-        "message": "Предыдущий эпизод",
+        "message": "Capitolul anterior",
         "description": "Keybind label"
     },
     "keybindDescription": {
-        "message": "Нажмите на любую кнопку, чтобы выбрать её, а так же выберите модификаторы, если нужно."
+        "message": "Selectează o tastă prin a o tasta, și alege orice taste modificatoare pe care dorești să o folosești."
     },
     "0": {
-        "message": "Время ожидания подключения превышено. Проверьте ваше соединение с интернетом. Если ваш интернет работает, сервер, скорее всего, перегружен или отключён."
+        "message": "Eroare de Conexiune. Verifică-ți conexiunea la internet. Daca internetul functionează, serverul este probabil supraîncărcat sau a căzut."
     },
     "disableSkipping": {
-        "message": "Пропуск включен"
+        "message": "Omiterea este activată"
     },
     "enableSkipping": {
-        "message": "Пропуск выключен"
+        "message": "Omiterea este dezactivată"
     },
     "yourWork": {
-        "message": "Ваша работа",
+        "message": "Munca Ta",
         "description": "Used to describe the section that will show you the statistics from your submissions."
     },
     "502": {
-        "message": "Похоже, сервер перегружен. Попробуйте ещё раз через несколько секунд."
+        "message": "Serverul pare să fie supraîncărcat. Încercați din nou în câteva secunde."
     },
     "errorCode": {
-        "message": "Код ошибки: "
+        "message": "Codul Erorii: "
     },
     "skip": {
-        "message": "Пропустить"
+        "message": "Sari"
     },
     "mute": {
-        "message": "Заглушить"
+        "message": "Mut"
     },
     "full": {
-        "message": "Всё видео",
-        "description": "Used for the name of the option to label an entire video as sponsor or self promotion."
+        "message": "Video complet",
+        "description": "Used for the name of the option to label an entire video as sponor or self promotion."
     },
     "skip_category": {
-        "message": "Пропустить {0}?"
+        "message": "Omiteți {0}?"
     },
     "mute_category": {
-        "message": "Заглушить {0}?"
+        "message": "Mut {0}?"
     },
     "skip_to_category": {
-        "message": "Пропустить до {0}?",
+        "message": "Sari la {0}?",
         "description": "Used for skipping to things (Skip to Highlight)"
     },
     "skipped": {
-        "message": "Пропущено: {0}",
-        "description": "Example: Sponsor Skipped"
+        "message": "Sărit peste {0}",
+        "description": "Example: Sponor Skipped"
     },
     "muted": {
-        "message": "{0} заглушен",
-        "description": "Example: Sponsor Muted"
+        "message": "{0} pus pe mut",
+        "description": "Example: Sponor Muted"
     },
     "skipped_to_category": {
-        "message": "Пропущено до {0}",
+        "message": "Sărit la {0}",
         "description": "Used for skipping to things (Skipped to Highlight)"
     },
     "disableAutoSkip": {
-        "message": "Отключить автоматический пропуск"
+        "message": "Dezactivează Autoskip"
     },
     "enableAutoSkip": {
-        "message": "Включить автоматический пропуск"
+        "message": "Activează Autoskip"
     },
     "audioNotification": {
-        "message": "Аудио уведомление при пропуске"
+        "message": "Notificare Audio Când Sari"
     },
     "audioNotificationDescription": {
-        "message": "Звуковое уведомление при пропуске будет воспроизводиться каждый раз, когда сегмент пропущен. Если отключено (или автоматический пропуск отключён), звук не будет воспроизводиться."
+        "message": "Notificarea audio va reda un sunet atunci când sari peste o sponorizare. Dacă este dezactivat (sau autoskip este dezactivat), niciun sunet va fi redat."
     },
     "showTimeWithSkips": {
-        "message": "Показывать длительность без сегментов"
+        "message": "Arată timpul cu săriturile eliminate"
     },
     "showTimeWithSkipsDescription": {
-        "message": "Длительность отображается в скобках после фактической под полосой прокрутки. Показывает длительность видео без сегментов. Включает сегменты, для которых выбрано \"Отображать в полосе прокрутки\"."
+        "message": "Acest timp apare în paranteze lângă ora curentă sub bara de progres. Aceasta arată durata totală a videoclipului minus orice segment. Aceasta include segmente marcate doar ca \"Afișare în Seekbar\"."
     },
     "youHaveSkipped": {
-        "message": "Вы пропустили "
+        "message": "Ai omis "
     },
     "minLower": {
-        "message": "минуту"
+        "message": "minut"
     },
     "minsLower": {
-        "message": "минут"
+        "message": "minute"
     },
     "hourLower": {
-        "message": "час"
+        "message": "oră"
     },
     "hoursLower": {
-        "message": "часов"
+        "message": "ore"
     },
     "youHaveSavedTime": {
-        "message": "Вы сэкономили людям",
+        "message": "Tu ai salvat alte persoane",
         "description": "You've saved people from 887,362 segments (236d 15h 5.3 minutes of their lives)."
     },
     "youHaveSavedTimeEnd": {
-        "message": " их жизней",
+        "message": " din viața lor",
         "description": "You've saved people from 887,362 segments (236d 15h 5.3 minutes of their lives)."
     },
     "statusReminder": {
-        "message": "Смотрите состояние сервера на status.sponsor.ajay.app."
+        "message": "Verificați status.sponsor.ajay.app pentru starea serverului."
     },
     "changeUserID": {
-        "message": "Импорт/Экспорт приватного UserID"
+        "message": "Importă/Exportă UserID-ul tău Privat"
     },
     "whatChangeUserID": {
-        "message": "Держите его в тайне. Относитесь к нему как к паролю и не передавайте никому. Если кто-то им завладеет, то сможет выдать себя за вас. Если вы ищете публичный ID пользователя, нажмите значок буфера обмена во всплывающем окне."
+        "message": "Aceste informații sunt private și nu ar trebui să fie dezvăluite nimănui. Dacă cineva are aceste informații, pot fi folosite pentru a vă imita. În cazul în care vă căutați ID-ul public de utilizator, dați click pe icoana de clipboard din popup."
     },
     "setUserID": {
-        "message": "Установить приватный UserID"
+        "message": "Setare UserID privat"
     },
     "userIDChangeWarning": {
-        "message": "Внимание: изменение приватного UserID необратимо. Вы действительно хотите это сделать? Сделайте резервную копию на всякий случай."
+        "message": "Avertisment: Modificarea Id-ului de utilizator privat este permanentă. Sunteți sigur că doriți să faceți acest lucru? Asigurați-vă că ați făcut o copie de rezervă pe cea veche, pentru orice eventualitate."
     },
     "createdBy": {
-        "message": "Создано"
+        "message": "Creat De"
     },
     "supportOtherSites": {
-        "message": "Поддерживать сторонние YouTube-сайты"
+        "message": "Sprijină Site-uri YouTube 3rd Party"
     },
     "supportOtherSitesDescription": {
-        "message": "Поддержка сторонних клиентов YouTube. Чтобы включить поддержку, вы должны принять дополнительные разрешения.",
+        "message": "Susține clienții YouTube terți. Pentru a activa asistența, trebuie să accepți permisiunile suplimentare.",
         "description": "This replaces the 'supports Invidious' option because it now works on other YouTube sites such as Cloudtube"
     },
     "supportedSites": {
-        "message": "Поддерживаемые сайты: "
+        "message": "Site-uri cu Sprijin: "
     },
     "optionsInfo": {
-        "message": "Включить поддержку Invidious, выключить автоматический пропуск, скрыть кнопки и не только."
+        "message": "Activează suportul Invidious, dezactivează autoskip-ul, ascunde butoanele și altele."
     },
     "addInvidiousInstance": {
-        "message": "Добавить инстанс стороннего клиента"
+        "message": "Adaugă Instanță pentru clienți 3rd-party"
     },
     "addInvidiousInstanceDescription": {
-        "message": "Добавить свой инстанс. Формат: ТОЛЬКО домен. Например, invidious.ajay.app"
+        "message": "Adăugați o instanță personalizată. Aceasta trebuie să fie formatată DOAR cu domeniul. Exemplu: invidious.ajay.app"
     },
     "add": {
-        "message": "Добавить"
+        "message": "Adaugă"
     },
     "addInvidiousInstanceError": {
-        "message": "Это неправильный домен. Введите ТОЛЬКО домен. Например, invidious.ajay.app"
+        "message": "Acesta este un domeniu invalid. Acesta trebuie să includă DOAR partea de domeniu. Exemplu: invidious.ajay.app"
     },
     "resetInvidiousInstance": {
-        "message": "Сбросить список инстансов Invidious"
+        "message": "Resetează Lista De Instanțe Invidious"
     },
     "resetInvidiousInstanceAlert": {
-        "message": "Вы собираетесь сбросить список инстансов Invidious"
+        "message": "Sunteți pe cale să resetați lista de instanțe Invidious"
     },
     "currentInstances": {
-        "message": "Текущие инстансы:"
+        "message": "Instanțele curente:"
     },
     "minDuration": {
-        "message": "Минимальная длительность (в секундах):"
+        "message": "Durată minimă (secunde):"
     },
     "minDurationDescription": {
-        "message": "Сегменты короче этого значения не будут пропускаться и не будут показаны в плеере."
+        "message": "Segmentele mai scurte decât valoarea setată nu vor fi omise sau afișate în player."
     },
     "enableManualSkipOnFullVideo": {
-        "message": "Использовать пропуск вручную, когда видео помечено целиком"
+        "message": "Utilizați omiterea manuală atunci când există o etichetă video completă"
     },
     "whatManualSkipOnFullVideo": {
-        "message": "Для тех, кто хочет просматривать полностью проспонсированные или саморекламные видео без автоматических пропусков."
+        "message": "Pentru persoanele care doresc să vizioneze videoclipul neîntrerupt dacă acesta este sponorizat în totalitate sau dacă este autopromovat."
     },
     "skipNoticeDuration": {
-        "message": "Длительность отображения окошка о пропуске (в секундах):"
+        "message": "Durata notificărilor de omitere (secunde):"
     },
     "skipNoticeDurationDescription": {
-        "message": "Окошко о пропуске будет оставаться на экране как минимум в течение этого времени. Может быть активно дольше при пропуске вручную."
+        "message": "Notificarea sări peste va rămâne pe ecran cel puțin atâtea secunde. Pentru omiterea manuală, este posibil să fie vizibilă pentru mai mult timp."
     },
     "shortCheck": {
-        "message": "Следующий диапазон времени короче, чем Ваша настройка минимальной длительности. Это может означать, что он уже был отправлен, и просто игнорируется из-за этой настройки. Вы действительно хотите отправить?"
+        "message": "Următoarea înregistrare este mai mică decât opțiunea voastră de durată minimă. Acest lucru ar putea însemna că a fost deja trimisă și a fost ignorat datorită acestei opțiuni. Sunteți sigur că doriți să trimiteți?"
     },
     "liveOrPremiere": {
-        "message": "Отправка сегментов на стримах или премьерах не допускается. Пожалуйста, дождитесь окончания видео, затем обновите страницу и убедитесь, что сегменты всё ещё верные."
+        "message": "Nu este permisă adăugarea pe un live stream sau pe o primă. Vă rugăm să așteptați până se termină, apoi reîmprospătați pagina și verificați dacă segmentele sunt încă valide."
     },
     "showUploadButton": {
-        "message": "Показывать кнопку отправки"
+        "message": "Arată Butonul De Încărcare"
     },
     "customServerAddress": {
-        "message": "Адрес сервера SponsorBlock"
+        "message": "Adresa Serverului SponorBlock"
     },
     "customServerAddressDescription": {
-        "message": "Адрес, по которому SponsorBlock обращается к серверу.\nМеняйте только если Вы подняли свой сервер."
+        "message": "Adresa SponorBlock este folosită pentru a se efectua apeluri către server.\nDacă nu ai propriul tău server, acesta nu ar trebui modificat."
     },
     "dataFetchingServerAddress": {
-        "message": "Адрес сервера данных"
+        "message": "Adresa serverului pentru preluarea datelor"
     },
     "dataFetchingServerAddressDescription": {
-        "message": "Адрес, по которому расширение обращается к серверу данных.\nНе изменяйте значение, если у вас нет собственного сервера."
-    },
-    "thumbnailCacheServerAddress": {
-        "message": "Адрес сервера для кэширования значков"
+        "message": "Adresa folosită pentru a efectua apeluri către serverul de preluare a datelor.\nDacă nu ai propria ta instanță de server, acest lucru nu ar trebui schimbat."
     },
     "save": {
-        "message": "Сохранить"
+        "message": "Salvează"
     },
     "reset": {
-        "message": "Сбросить"
+        "message": "Resetează"
     },
     "customAddressError": {
-        "message": "Этот адрес неправильного формата. Убедитесь, что он начинается с http:// или https://, и что на конце нет слэшей."
+        "message": "Adresa nu este în forma corectă. Asigurați-vă că http:// sau https:// se află la început."
     },
     "areYouSureReset": {
-        "message": "Вы действительно хотите это сбросить?"
+        "message": "Sunteți sigur că doriți să resetați asta?"
     },
     "mobileUpdateInfo": {
-        "message": "m.youtube.com теперь поддерживается"
+        "message": "m.youtube.com este acum suportat"
     },
     "exportOptions": {
-        "message": "Импорт/Экспорт всех настроек"
+        "message": "Importă/Exportă Toate Opțiunile"
     },
     "exportOptionsCopy": {
-        "message": "Редактировать/скопировать"
+        "message": "Editare/Copiere"
     },
     "exportOptionsDownload": {
-        "message": "Сохранить в файл"
+        "message": "Salvează în Fișier"
     },
     "exportOptionsUpload": {
-        "message": "Загрузить из файла"
+        "message": "Încarcă din fișier"
     },
     "whatExportOptions": {
-        "message": "Все настройки в формате JSON. Этот файл содержит Ваш приватный UserID, будьте осторожны когда делитесь этими данными."
+        "message": "Aceasta este întreaga configurație în format JSON. Asta include si ID-ul tău privat de utilizator, așa că fi sigur să împărtășești asta cu înțelepciune."
     },
     "setOptions": {
-        "message": "Параметры установки"
+        "message": "Setează Opțiuni"
     },
     "exportOptionsWarning": {
-        "message": "Внимание: изменение настроек необратимо и может сломать расширение. Вы действительно хотите это сделать? Сделайте резервную копию на всякий случай."
+        "message": "Atenție: Schimbarea acestei opțiuni este permanentă și poate strica instalarea. Sunteți sigur că doriți să faceți asta? Asigurati-vă că ați făcut o copie de rezervă."
     },
     "incorrectlyFormattedOptions": {
-        "message": "JSON-файл некорректно отформатирован. Ваши настройки не были изменены."
+        "message": "Acest JSON nu este formatat corect. Opțiunile dumneavoastră nu au fost modificate."
     },
     "confirmNoticeTitle": {
-        "message": "Отправить сегмент"
+        "message": "Trimite Segment"
     },
     "submit": {
-        "message": "Отправить"
+        "message": "Trimite"
     },
     "cancel": {
-        "message": "Отмена"
+        "message": "Anulează"
     },
     "delete": {
-        "message": "Удалить"
+        "message": "Șterge"
     },
     "preview": {
-        "message": "Предпросмотр"
+        "message": "Previzualizare"
     },
     "unsubmitted": {
-        "message": "Неопубликованный"
+        "message": "Nepredat"
     },
     "inspect": {
-        "message": "Исследовать"
+        "message": "Inspectează"
     },
     "edit": {
-        "message": "Редактировать"
+        "message": "Editare"
     },
     "copyDebugInformation": {
-        "message": "Скопировать отладочную информацию в буфер обмена"
+        "message": "Copiază Informațiile de Depanare În Clipboard"
     },
     "copyDebugInformationFailed": {
-        "message": "Не удалось скопировать в буфер"
+        "message": "Eroare la scrierea în clipboard"
     },
     "copyDebugInformationOptions": {
-        "message": "Копирует в буфер обмена информацию, которая будет предоставлена разработчику при возникновении ошибки / по запросу разработчика. Такие сведения, как ID пользователя, список разрешенных каналов и адрес пользовательского сервера не передаются. Однако, отправляются ваш user agent, браузер, операционная система и номер версии расширения. "
+        "message": "Copiază informația în clipboard pentru a fi furnizată dezvoltatorului când se găsește o eroare / când un dezvoltator o cere. Informațiile sensibile precum ID-ul de utilizator, canale exceptate, și adresa serverului personalizat au fost șterse. Însă conține informații precum useragent-ul, browser-ul, sistemul de operare, și numărul versiunii extensiei. "
     },
     "copyDebugInformationComplete": {
-        "message": "Отладочная информация скопирована в буфер обмена. Вы можете удалить любую информацию, которой не хотите делиться. Сохраните ее в текстовом файле или вставьте в отчет об ошибке."
+        "message": "Informația de depanare a fost copiată în clipboard. Puteți elimina orice informație pe care nu doriți să o partajați. Salvați într-un fișier sau lipiți-o în raportul de erori."
     },
     "keyAlreadyUsed": {
-        "message": "Это сочетание клавиш привязано к другому действию. Пожалуйста, выберите другое сочетание."
+        "message": "Această scurtătură este legată de o altă acțiune. Vă rugăm să selectați una diferită."
     },
     "to": {
-        "message": "до",
+        "message": "până la",
         "description": "Used between segments. Example: 1:20 to 1:30"
     },
     "CopiedExclamation": {
-        "message": "Скопировано!",
+        "message": "Copiat!",
         "description": "Used after something has been copied to the clipboard. Example: 'Copied!'"
     },
     "generic_guideline1": {
-        "message": "Содержит плавный переход от одной темы к другой"
+        "message": "Include tranzițiile segmentului"
     },
     "generic_guideline2": {
-        "message": "Пропуск должен произойти незаметно"
+        "message": "Reda ca și cum nimic nu a fost omis"
     },
     "category_sponsor": {
-        "message": "Спонсор"
+        "message": "Sponsor"
     },
     "category_sponsor_description": {
-        "message": "Рекламные интеграции, реферальные ссылки и реклама напрямую. Не для саморекламы или рекомендаций разных событий/создателей/сайтов/продуктов, которые нравятся автору видео."
+        "message": "Promovare plătită, refferali plătiți și reclame directe. Nu pentru autopromovări sau promovări gratis ale cauzelor/creatorilor/website-urilor/produselor."
     },
     "category_sponsor_guideline1": {
-        "message": "Реклама"
+        "message": "Promoții plătite"
     },
     "category_sponsor_guideline2": {
-        "message": "Не для доната или мерчендайза"
+        "message": "Nu este pentru donații sau mărfuri personalizate"
     },
     "category_selfpromo": {
-        "message": "Самореклама/рекомендация"
+        "message": "Promovare neplătită/autopromovare"
     },
     "category_selfpromo_description": {
-        "message": "Похоже на \"Спонсора\", но для бесплатной рекламы и саморекламы. Включает себя вставки про мерчендайз, пожертвования или информацию о тех, вместе с кем было сделано видео."
+        "message": "Similar cu \"sponsorizare\" doar că este neplătit sau autopromovare. Aceasta include secțiuni despre merchandise, donații, sau informații despre cei cu care au colaborat."
     },
     "category_selfpromo_guideline1": {
-        "message": "Донаты, платное членство и мерчендайз"
+        "message": "Donații, abonamente și mărfuri personalizate"
     },
     "category_selfpromo_guideline2": {
-        "message": "Рекомендации, не добавляющие контекста видео"
+        "message": "Mențiuni neplătite care nu ajută videoclipul"
     },
     "category_selfpromo_guideline3": {
-        "message": "Не для корпоративной продукции"
+        "message": "Nu pentru produsele proiectate și merch"
     },
     "category_exclusive_access": {
-        "message": "Эксклюзивный доступ"
+        "message": "Acces Exclusiv"
     },
     "category_exclusive_access_description": {
-        "message": "Категория для всего видео. Используется, когда видео демонстрирует продукт, сервис или местоположение, к которому автор получил бесплатный или проспонсированный доступ."
+        "message": "Doar pentru etichetarea videoclipurilor întregi. Folosit atunci când un video prezintă un produs, serviciu sau o locație la care au primit acces gratuit sau subvenționat."
     },
     "category_exclusive_access_pill": {
-        "message": "Это видео демонстрирует продукт, сервис или местоположение, к которому автор получил бесплатный или проспонсированный доступ",
+        "message": "Acest videoclip prezintă un produs, serviciu sau o locație la care au primit acces gratuit sau subvenționat",
         "description": "Short description for this category"
     },
     "category_exclusive_access_guideline1": {
-        "message": "Всё видео - демонстрация чего-либо, к чему авторам был дан эксклюзивный доступ"
+        "message": "Întreaga înregistrare video prezintă ceva cu acces liber sau subvenționat"
     },
     "category_interaction": {
-        "message": "Напоминание о взаимодействии (подписка)"
+        "message": "Reamintire de Interactiune (Abonare)"
     },
     "category_interaction_description": {
-        "message": "Когда есть краткое напоминание поставить лайк, подписаться на канал или в соцсетях в середине содержимого. Если эта вставка длительная или о чём-то конкретном, она должна классифицироваться как самореклама."
+        "message": "Când există o scurtă remintire pentru like, abonare sau urmărire în mijlocul conținutului. Daca este mai lung sau despre ceva specific, folosiți autopromovarea."
     },
     "category_interaction_guideline1": {
-        "message": "Краткие напоминания поставить лайк, подписаться или нажать на колокольчик"
+        "message": "Scurte memento-uri pentru a vă abona sau urmări"
     },
     "category_interaction_guideline2": {
-        "message": "Включает косвенные предложения оставить комментарий"
+        "message": "Include memento-uri indirecte de comentat"
     },
     "category_interaction_guideline3": {
-        "message": "Не для рекламы, только призывы к действию"
+        "message": "Nu pentru promovare generală, se face apel doar la acțiune"
     },
     "category_interaction_short": {
-        "message": "Напоминание о взаимодействии"
+        "message": "Reamintire de Interacțiune"
     },
     "category_intro": {
-        "message": "Пауза/интро"
+        "message": "Pauză/Animație Intro"
     },
     "category_intro_description": {
-        "message": "Часть видео без значимого контента. Может быть паузой, статическим кадром, повторяющейся анимацией. Это не должно использоваться для переходов, содержащих информацию."
+        "message": "Un interval fără conținut. Poate fi o pauză, un cadru static, o animație care se repeta. Nu ar trebui sa fie folosit pentru tranziții care conțin informații."
     },
     "category_intro_short": {
-        "message": "Заставка"
+        "message": "Pauză"
     },
     "category_intro_guideline1": {
-        "message": "Сегмент без контента"
+        "message": "Interval fără conținut real"
     },
     "category_intro_guideline2": {
-        "message": "Не для переходных сегментов с информацией"
+        "message": "Nu se efectuează tranziții cu informații"
     },
     "category_outro": {
-        "message": "Конечная заставка/титры"
+        "message": "Ecran De Final/Credite"
     },
     "category_outro_description": {
-        "message": "Титры или время появления конечных заставок YouTube. Не для подведения итогов сказанного в видео."
+        "message": "Credite sau atunci când apare ecranul de final YouTube. Nu pentru concluzii cu informații."
     },
     "category_outro_guideline1": {
-        "message": "Не для сегментов с контентом, даже если на видео показываются конечные заставки"
+        "message": "Nu include conținutul, chiar dacă end card-urile sunt pe ecran"
     },
     "category_preview": {
-        "message": "Предпросмотр/краткое содержание"
+        "message": "Previzualizare/Recapitulare"
     },
     "category_preview_description": {
-        "message": "Коллекция клипов, которые показывают, что происходит в этом видео или других эпизодах, все клипы позже повторяются в видео."
+        "message": "Colecția de clipuri care arată ce se află în acest videoclip sau alte videoclipuri într-o serie în care toate informațiile sunt repetate mai târziu în videoclip."
     },
     "category_preview_guideline1": {
-        "message": "Фрагменты, которые появляются позже или в будущем видео"
+        "message": "Clipuri care apar mai târziu sau într-un video viitor"
     },
     "category_preview_guideline2": {
-        "message": "Пересказ предыдущего видео"
+        "message": "Recapitularea unui videoclip anterior"
     },
     "category_preview_guideline3": {
-        "message": "Не для сегментов с дополнительным контентом"
+        "message": "Nu pentru secțiunile care adaugă conținut suplimentar"
     },
     "category_filler": {
-        "message": "Заполнение отвлечёнными темами/шутками"
+        "message": "Glume de Umplutură/Tangențiale"
     },
     "category_filler_description": {
-        "message": "Сегменты, которые увеличивают длительность видео за счёт отвлечённых тем или шуток, но не требуются для понимания основного содержания. Не должно иметь сегментов, объясняющих контекст или предысторию. Это очень агрессивная категория, используется тогда, когда вам не до \"веселья\"."
+        "message": "Scenele tactil adăugate numai pentru umplutură sau umor care nu sunt necesare pentru a înțelege conținutul principal al videoclipului. Aceasta nu ar trebui să includă segmente care să ofere detalii de context sau de fundal. Aceasta este o categorie foarte agresivă, pentru care nu ești în starea de spirit pentru \"distracție\"."
     },
     "category_filler_short": {
-        "message": "Заполнитель"
+        "message": "Materiale de umplutură"
     },
     "category_filler_guideline1": {
-        "message": "Сцены с отвлечёнными темами или шутками"
+        "message": "Scenele tactil numai pentru umplere sau umor"
     },
     "category_filler_guideline2": {
-        "message": "Разговоры не по теме, неудачные дубли, повторы"
+        "message": "Distracții, blooper, reluări"
     },
     "category_filler_guideline3": {
-        "message": "Не для сегментов, необходимых для понимания темы"
+        "message": "Nu sunt necesare scene pentru a înțelege subiectul"
     },
     "category_music_offtopic": {
-        "message": "Музыка: Сегмент без музыки"
+        "message": "Muzică: Secţiune Non-Muzicală"
     },
     "category_music_offtopic_description": {
-        "message": "Только для использования в музыкальных клипах. Используется для сегментов музыкальных клипов, которые не относятся к другой категории."
+        "message": "Doar pentru a fi folosit în videoclipuri muzicale. Acesta ar trebui să fie folosit doar pentru secțiunile de videoclipuri muzicale care nu sunt deja acoperite de o altă categorie."
     },
     "category_music_offtopic_short": {
-        "message": "Без музыки"
+        "message": "Non-Muzical"
     },
     "category_music_offtopic_guideline1": {
-        "message": "Сегменты, не включённые в официальные релизы"
+        "message": "Secțiuni care nu sunt în lansări oficiale"
     },
     "category_music_offtopic_guideline2": {
-        "message": "Сегменты без музыки во время живого выступления"
+        "message": "Fără muzica într-un spectacol in direct"
     },
     "category_poi_highlight": {
-        "message": "Важное"
+        "message": "Momente importante"
     },
     "category_poi_highlight_description": {
-        "message": "Часть видео, которую ищет большинство людей. По сути заменяет комментарии типа \"Видео начинается с x:xx\"."
+        "message": "Partea din videoclip pe care majoritatea oamenilor o caută. Similar cu \"Videoclipul începe de la x\"."
     },
     "category_poi_highlight_guideline1": {
-        "message": "Момент, который будет интересен большинству людей"
+        "message": "Secțiunea pe care majoritatea persoanelor o caută"
     },
     "category_poi_highlight_guideline2": {
-        "message": "Может помочь пропустить контекст"
+        "message": "Poate sări peste context"
     },
     "category_poi_highlight_guideline3": {
-        "message": "Может пропустить до сути названия или значка видео"
+        "message": "Poți sări la titlu sau miniatură"
     },
     "category_chapter": {
-        "message": "Эпизод"
+        "message": "Capitol"
     },
     "category_chapter_description": {
-        "message": "Пользовательские названия эпизодов, описывающие основные разделы видео."
+        "message": "Capitolele cu nume personalizate care descriu secțiuni majore ale unui videoclip."
     },
     "category_chapter_guideline1": {
-        "message": "Не упоминайте названия спонсорских брендов"
+        "message": "Nu menţiona numele de marcă sponor"
     },
     "category_chapter_guideline2": {
-        "message": "Используйте длинные эпизоды для разделов на общие темы"
+        "message": "Folosește capitole mai mari pentru secțiunile generale"
     },
     "category_chapter_guideline3": {
-        "message": "Короткие эпизоды могут быть помещены внутри длинных"
+        "message": "Capitolele mai mici pot fi plasate în interiorul capitolelor mai mari"
     },
     "category_livestream_messages": {
-        "message": "Прямые трансляции: пожертвование/чтение сообщения"
+        "message": "Transmisiune În Direct: Donație/Citirea Mesajelor"
     },
     "category_livestream_messages_short": {
-        "message": "Чтение сообщений"
+        "message": "Citire Mesaj"
     },
     "autoSkip": {
-        "message": "Автоматический пропуск"
+        "message": "Sari Peste Automat"
     },
     "manualSkip": {
-        "message": "Пропускать вручную"
+        "message": "Sari Peste Manual"
     },
     "showOverlay": {
-        "message": "Показывать в полосе прокрутки"
+        "message": "Arată În Bara de Derulare"
     },
     "disable": {
-        "message": "Отключить"
+        "message": "Dezactivare"
     },
     "autoSkip_POI": {
-        "message": "Автоматически пропускать к началу видео"
+        "message": "Omitere automată la început"
     },
     "manualSkip_POI": {
-        "message": "Спрашивать после загрузки видео"
+        "message": "Întreabă când se încarcă videoclipul"
     },
     "showOverlay_POI": {
-        "message": "Показывать в полосе прокрутки"
+        "message": "Arată În Bara de Derulare"
     },
     "showOverlay_full": {
-        "message": "Показывать категорию"
+        "message": "Arată eticheta"
     },
     "showOverlay_chapter": {
-        "message": "Показывать эпизоды"
+        "message": "Afișează Capitolele"
     },
     "autoSkipOnMusicVideos": {
-        "message": "Пропускать все сегменты автоматически при наличии сегмента без музыки"
+        "message": "Omiteți automat toate segmentele atunci când există un segment non-muzical"
     },
     "muteSegments": {
-        "message": "Разрешить сегменты, которые отключают звук вместо пропуска"
+        "message": "Permite segmente care blochează sunetul în loc de a sări peste"
     },
     "fullVideoSegments": {
-        "message": "Показывать иконку, когда всё видео является рекламой",
-        "description": "Referring to the category pill that is now shown on videos that are entirely sponsor or entirely selfpromo"
+        "message": "Arată o icoană atunci când un videoclip este în întregime o reclamă",
+        "description": "Referring to the category pill that is now shown on videos that are entirely sponor or entirely selfpromo"
     },
     "fullVideoLabelsOnThumbnails": {
-        "message": "Также показывать категории на значке видео",
-        "description": "Referring to the category pill that is shown on videos that are entirely sponsor or entirely selfpromo on recommended videos, in searches or on the homepage."
+        "message": "Arată etichetele și în miniaturile video",
+        "description": "Referring to the category pill that is shown on videos that are entirely sponor or entirely selfpromo on recommended videos, in searches or on the homepage."
     },
     "previewColor": {
-        "message": "Цвет неотправленного сегмента",
+        "message": "Culoare Nepredată",
         "description": "Referring to submissions that have not been sent to the server yet."
     },
     "seekBarColor": {
-        "message": "Цвет в полосе прокрутки"
+        "message": "Culoarea Barei de Derulare"
     },
     "category": {
-        "message": "Категория"
+        "message": "Categorie"
     },
     "skipOption": {
-        "message": "Способ пропуска",
+        "message": "Opțiunea Săriturii",
         "description": "Used on the options page to describe the ways to skip the segment (auto skip, manual, etc.)"
     },
     "enableTestingServer": {
-        "message": "Включить сервера для бета-тестов"
+        "message": "Activează Serverul de Teste"
     },
     "whatEnableTestingServer": {
-        "message": "Отправленные вами вставки и голоса НЕ БУДУТ ОТПРАВЛЕНЫ на главный сервер. Используйте только для тестирования."
+        "message": "Înregistrările și voturile dumneavoastră NU VOR FI CONTORIZATE pe serverul principal. Utilizați asta doar pentru teste."
     },
     "testingServerWarning": {
-        "message": "Все отправленные вами вставки и голоса НЕ БУДУТ ОТПРАВЛЕНЫ на главный сервер, пока вы подключены к серверу для тестов. Не забудьте отключить эту настройку, чтобы вновь отправлять на главный сервер."
+        "message": "Toate înregistrările și voturile dumneavoastră NU VOR FI CONTORIZATE pe serverul principal în timp ce vă conectați la serverul de teste. Asigurați-vă că dezactivați asta când vreți să trimiteți înregistrări reale."
     },
     "bracketNow": {
-        "message": "(Сейчас)"
+        "message": "(Acum)"
     },
     "moreCategories": {
-        "message": "Прочие категории"
+        "message": "Mai multe categorii"
     },
     "chooseACategory": {
-        "message": "Выберите категорию"
+        "message": "Alege o categorie"
     },
     "enableThisCategoryFirst": {
-        "message": "Чтобы отправить сегменты категории \"{0}\", вы должны включить её в настройках. Сейчас вы будете туда перенаправлены.",
+        "message": "Pentru a trimite segmente cu categoria \"{0}\", trebuie să o activați în opțiuni. Veți fi redirecționat către opțiuni acum.",
         "description": "Used when submitting segments to only let them select a certain category if they have it enabled in the options."
     },
     "poiOnlyOneSegment": {
-        "message": "Предупреждение: Только один сегмент данного типа может быть активным. Отправка нескольких приведёт к отображению только одного случайно выбранного."
+        "message": "Atenție: Acest tip de segment poate avea un singur segment activ. Predarea mai multor segmente va cauza un segment aleatoriu să fie afișat."
     },
     "youMustSelectACategory": {
-        "message": "Вы должны выбрать категорию для всех сегментов, которые вы отправляете!"
-    },
-    "bracketStart": {
-        "message": "(Начало)"
+        "message": "Trebuie să selectaţi o categorie pentru toate segmentele pe care le trimiteţi!"
     },
     "bracketEnd": {
-        "message": "(Конец)"
+        "message": "(Sfârșit)"
     },
     "End": {
-        "message": "Конец",
+        "message": "Sfârșit",
         "description": "Button that skips to the end of a segment"
     },
     "hiddenDueToDownvote": {
-        "message": "скрыто: проголосовали против"
+        "message": "ascuns: downvote"
     },
     "hiddenDueToDuration": {
-        "message": "скрыто: слишком коротко"
+        "message": "ascuns: prea scurt"
     },
     "manuallyHidden": {
-        "message": "скрыто вручную"
+        "message": "ascuns manual"
     },
     "channelDataNotFound": {
         "description": "This error appears in an alert when they try to whitelist a channel and the extension is unable to determine what channel they are looking at.",
-        "message": "ID канала еще не загружен. Если вы используете встроенное видео, попробуйте вместо этого воспользоваться домашней страницей YouTube. Это также может быть вызвано изменениями в дизайне YouTube, если вы считаете, что это так, оставьте комментарий здесь:"
+        "message": "ID-ul canalului nu este încă încărcat. Dacă utilizați un videoclip încorporat, încercați în schimb să utilizați pagina de pornire YouTube. Acest lucru ar putea fi cauzat și de modificările aduse aspectului YouTube, dacă credeți că faceți un comentariu aici:"
     },
     "invidiousPermissionRefresh": {
-        "message": "Браузер отозвал разрешение, необходимое для работы на Invidious и других сторонних сайтах. Пожалуйста, нажмите на кнопку ниже, чтобы восстановить это разрешение."
+        "message": "Browserul a revocat permisiunea necesară pentru a funcționa pe site-urile Invidioase și pe alte site-uri de 3 părți. Vă rugăm să faceți clic pe butonul de mai jos pentru a reactiva această permisiune."
     },
     "acceptPermission": {
-        "message": "Дать разрешение"
+        "message": "Acceptă permisiunea"
     },
     "permissionRequestSuccess": {
-        "message": "Разрешение получено!"
+        "message": "Solicitarea permisiunii reușită!"
     },
     "permissionRequestFailed": {
-        "message": "Не удалось получить разрешение, вы нажали на \"Блокировать\"?"
+        "message": "Solicitarea permisiunii a eșuat, ai dat clic pe refuz?"
     },
     "adblockerIssueWhitelist": {
-        "message": "Если вы не можете решить эту проблему, попробуйте отключить \"Принудительная проверка каналов перед пропуском\" в настройках, т. к. SponsorBlock не может определить название канала для этого видео"
+        "message": "Dacă nu puteți rezolva acest lucru, apoi dezactivați setarea 'Forțați verificarea canalului înainte de sărit', deoarece SponorBlock nu poate prelua informațiile canalului pentru acest videoclip"
     },
     "forceChannelCheck": {
-        "message": "Принудительная проверка каналов перед пропуском"
+        "message": "Forțează verificarea canalului înainte de a sări"
     },
     "whatForceChannelCheck": {
-        "message": "По умолчанию расширение пропускает сегменты сразу же, не проверяя то, какой это канал. По умолчанию некоторые сегменты в начале видео могут быть пропущены на каналах из белого списка. Включение этой настройки предотвратит это, но все пропуски будут иметь небольшую задержку, так как получение ID канала может занять некоторое время. Эта задержка может быть незаметной, если у вас быстрый интернет."
+        "message": "În mod implicit, va sări peste sponorizări chiar și înainte de a ști ce canal este. În mod implicit, unele segmente la începutul videoclipului poate fi omis din canalele excluse. Activând această opțiune va preveni asta, dar va face ca toate săriturile să aibă o ușoară întârziere, deoarece obținerea ID-ul canalului poate dura ceva timp. Această întărziere poate fi neobservată daca aveți internet rapid."
     },
     "forceChannelCheckPopup": {
-        "message": "Рекомендуем включить \"Принудительная проверка каналов перед пропуском\""
+        "message": "Consideră activarea \"Forțează verificarii canalului înainte de a sări\""
     },
     "downvoteDescription": {
-        "message": "Не нужен/неверно указано время"
+        "message": "Timpi Incorecți/Greșiți"
     },
     "incorrectVote": {
-        "message": "Неверно"
+        "message": "Incorect"
     },
     "harmfulVote": {
-        "message": "Оскорбительно",
+        "message": "Periculos",
         "description": "Used for chapter segments when the text is harmful/offensive to remove it faster"
     },
     "incorrectCategory": {
-        "message": "Изменить категорию"
+        "message": "Schimbare categorie"
     },
     "nonMusicCategoryOnMusic": {
-        "message": "Это видео классифицировано как музыкальное. Вы уверены, что в нём есть спонсоры? Если на самом деле это \"Сегмент без музыки\", откройте параметры расширения и включите эту категорию. Затем вы можете отправить этот сегмент как \"Без музыки\", а не как спонсора. Пожалуйста, прочтите руководство, если вы запутались."
+        "message": "Acest videoclip este categorisit ca muzică. Ești sigur ca există un sponor? Dacă acesta este defapt un segment non-muzical, deschideți opțiunile extensiei și activați această categorie. Apoi, puteți trimite acest segment ca non-muzical în loc de sponsol. Vă rugăm să citiți ghidul dacă sunteți confuz."
     },
     "multipleSegments": {
-        "message": "Несколько сегментов"
+        "message": "Segmente Multiple"
     },
     "guidelines": {
-        "message": "Руководство"
+        "message": "Instrucțiuni"
     },
     "readTheGuidelines": {
-        "message": "Прочитайте руководство!!",
+        "message": "Citește Instrucțiunile!!",
         "description": "Show the first time they submit or if they are \"high risk\""
     },
     "categoryUpdate1": {
-        "message": "Приветствуйте категории!"
+        "message": "Categoriile sunt aici!"
     },
     "categoryUpdate2": {
-        "message": "Откройте настройки, чтобы пропускать начальные и конечные заставки, саморекламу и другое."
+        "message": "Deschide opțiunile pentru a sări peste intro-uri, outro-uri, merch, etc."
     },
     "help": {
-        "message": "Помощь"
+        "message": "Ajutor"
     },
     "GotIt": {
-        "message": "Ясно",
+        "message": "Am înțeles",
         "description": "Used as the button to dismiss a tooltip"
     },
     "fullVideoTooltipWarning": {
-        "message": "Этот сегмент большой. Если в видео только одна тема, то измените значение с «Пропустить» на «Всё видео». Дополнительную информацию смотрите в руководстве."
+        "message": "Acest segment este mare. Dacă întregul videoclip este aproximativ un subiect, atunci schimbați de la \"Săriți\" la \"Videoclip întreg\". Vedeți instrucțiunile pentru mai multe informații."
     },
     "categoryPillTitleText": {
-        "message": "Данная категория применена для всего видео, так как она тесно интегрирована в него"
+        "message": "Acest întreg videoclip este etichetat ca această categorie și este prea strâns integrat pentru a putea separa"
     },
     "chapterNameTooltipWarning": {
-        "message": "Название одного из ваших эпизодов похоже на категорию. Постарайтесь использовать категории когда возможно."
+        "message": "Unul dintre numele capitolelor tale este similar cu o categorie. Ar trebui să folosești categorii atunci când este posibil."
     },
     "experiementOptOut": {
-        "message": "Отказаться от всех будущих экспериментов",
+        "message": "Renunțarea tuturor experimentelor viitoare",
         "description": "This is used in a popup about a new experiment to get a list of unlisted videos to back up since all unlisted videos uploaded before 2017 will be set to private."
     },
     "hideForever": {
-        "message": "Скрыть навсегда"
+        "message": "Ascunde pentru totdeauna"
     },
     "warningChatInfo": {
-        "message": "Мы заметили, что вы совершаете распространенные ошибки. Мы очень ценим вашу работу, но мы стремимся делать всё идеально, так что даже очень маленькие ошибки имеют большое значение :)"
+        "message": "Am observat că faci niște greșeli comune. Apreciem foarte mult munca ta de până acum, însă noi tindem spre perfecțiune aici, așa că fiecare mică greșeală contează :)"
     },
     "questionButton": {
-        "message": "У меня есть вопрос"
-    },
-    "askAQuestion": {
-        "message": "Задать вопрос"
+        "message": "Am o întrebare"
     },
     "warningConfirmButton": {
-        "message": "Я понимаю причину"
+        "message": "Înțeleg motivul"
     },
     "warningError": {
-        "message": "Не удалось подтвердить предупреждение:"
-    },
-    "deArrowMessageRecieved": {
-        "message": "Вы получили сообщение от модератора"
+        "message": "Eroare la încercarea de a confirma avertismentul:"
     },
     "Donate": {
-        "message": "Пожертвовать"
+        "message": "Donează"
     },
     "considerDonating": {
-        "message": "Помогите финансировать разработку"
+        "message": "Ajută la dezvoltarea fondului"
     },
     "hideDonationLink": {
-        "message": "Скрыть ссылку на пожертвование"
+        "message": "Ascunde linkul de donare"
     },
     "darkModeOptionsPage": {
-        "message": "Тёмный режим на странице настроек"
+        "message": "Modul întunecat pe pagina de opțiuni"
     },
     "helpPageThanksForInstalling": {
-        "message": "Спасибо за установку SponsorBlock."
+        "message": "Vă mulțumim pentru instalarea SponorBlock."
     },
     "helpPageReviewOptions": {
-        "message": "Пожалуйста, ознакомьтесь с настройками ниже"
+        "message": "Vă rugăm să analizați opțiunile de mai jos"
     },
     "helpPageFeatureDisclaimer": {
-        "message": "Многие функции по умолчанию отключены. Если вы хотите пропускать начальные и конечные заставки, использовать Invidious и т.д., включите их ниже. Вы также можете скрыть/показать элементы интерфейса."
+        "message": "Multe caracteristici sunt dezactivate în mod implicit. Dacă doriți să săriți peste introduceri, outros, utilizați Invidios, etc., activați-le mai jos. De asemenea, puteți ascunde/afișa elemente UI."
     },
     "helpPageHowSkippingWorks": {
-        "message": "Как работает пропуск"
+        "message": "Cum funcționează omiterea"
     },
     "helpPageHowSkippingWorks1": {
-        "message": "Сегменты видео будут автоматически пропущены, если они находятся в базе данных. Вы можете открыть всплывающее окно, нажав на значок расширения, чтобы посмотреть, какие сегменты добавлены."
+        "message": "Segmentele video vor fi omise automat dacă sunt găsite în baza de date. Poți deschide fereastra pop-up făcând clic pe pictograma extensiei pentru a obține o previzualizare a ceea ce sunt."
     },
     "helpPageHowSkippingWorks2": {
-        "message": "Когда вы будете пропускать сегмент, вы получите уведомление. Если время покажется вам неправильным, проголосуйте против, нажав на палец вниз! Вы также можете проголосовать во всплывающем окне."
+        "message": "Ori de câte ori săriți peste un segment, veți primi observație. Dacă sincronizarea pare greșită votând în jos făcând clic pe vot! De asemenea, poți vota în pop-up."
     },
     "Submitting": {
-        "message": "Отправка"
+        "message": "Se transmite"
     },
     "helpPageSubmitting1": {
-        "message": "Отправка может быть выполнена во всплывающем окне нажатием на кнопку \"Сегмент начинается отсюда\" или кнопками в видеоплеере."
+        "message": "Trimiterea poate fi făcută fie în fereastra pop-up prin apăsarea butonului \"Segmentul Incepe Acum\", fie în video player-ul cu butoanele playerului."
     },
     "helpPageSubmitting2": {
-        "message": "Нажатие на кнопку воспроизведения означает начало сегмента и нажатие на кнопку стоп обозначает его конец. Вы можете обозначить несколько сегментов перед тем, как нажать на кнопку отправки. Нажатие на корзину удалит всё."
+        "message": "Făcând clic pe butonul de redare indică începutul unui segment și apăsând pe pictograma de stop indică sfârșitul. Poți pregăti mai mulți sponori înainte de a apasă pe butonul de încărcare va fi trimis. Click-ul pe gunoi se va șterge."
     },
     "Editing": {
-        "message": "Редактирование"
+        "message": "Editează"
     },
     "helpPageEditing1": {
-        "message": "Если вы сделали что-то не так, вы можете отредактировать или удалить сегменты, нажав на кнопку со стрелкой вверх."
+        "message": "Dacă ai greșit, poți edita sau șterge segmentele după ce dai click pe butonul săgeată în sus."
     },
     "helpPageTooSlow": {
-        "message": "Это слишком медленно"
+        "message": "Acest lucru este prea lent"
     },
     "helpPageTooSlow1": {
-        "message": "Всё это также можно делать при помощи горячих клавиш. Нажмите клавишу \"ж\" для указания начала/конца сегмента, \"э\" для отправки. Клавиши могут быть изменены в настройках. Если вы не используете QWERTY, то стоит сразу поменять горячее клавиши."
+        "message": "Exista scurtături daca dorești sa le folosești. Apăsați tasta cu punct și virgulă pentru a indica începutul/sfârșitul unui segment de sponor și faceți clic pe apostrof pentru a trimite. Acestea pot fi schimbate în opțiuni. Dacă nu utilizați QWERTY, probabil ar trebui să schimbați scurtăturile."
     },
     "helpPageCopyOfDatabase": {
-        "message": "Могу ли я получить копию базы данных? Что если вы пропадёте?"
+        "message": "Pot obține o copie a bazei de date? Ce se întâmplă dacă dispari?"
     },
     "helpPageCopyOfDatabase1": {
-        "message": "База данных доступна для всех здесь:"
+        "message": "Baza de date este publică și disponibilă la adresa"
     },
     "helpPageCopyOfDatabase2": {
-        "message": "Исходный код в открытом доступе, так что даже если что-то случится со мной, ваш вклад не пропадёт."
+        "message": "Codul sursă este disponibil gratuit. Deci, chiar dacă ceva mi se întâmplă mie, trimiterile tale nu sunt pierdute."
     },
     "helpPageNews": {
-        "message": "Новости и как это сделано"
+        "message": "Știri și modul în care este făcut"
     },
     "helpPageSourceCode": {
-        "message": "Где можно получить исходный код?"
+        "message": "Unde pot obține codul sursă?"
     },
     "Credits": {
-        "message": "Авторы"
+        "message": "Contribuții"
     },
     "LearnMore": {
-        "message": "Узнать больше"
+        "message": "Află mai multe"
     },
     "FullDetails": {
-        "message": "Полная информация"
+        "message": "Detalii Complete"
     },
     "CopyDownvoteButtonInfo": {
-        "message": "Голосует против и создаёт локальную копию сегмента для повторной отправки"
+        "message": "Voturi negative și creați o copie locală pentru a retrimite"
     },
     "OpenCategoryWikiPage": {
-        "message": "Открыть вики-страницу этой категории."
+        "message": "Deschide pagina wiki a acestei categorii."
     },
     "CopyAndDownvote": {
-        "message": "Скопировать и проголосовать против"
+        "message": "Copiază și dă downvote"
     },
     "ContinueVoting": {
-        "message": "Продолжить голосование"
+        "message": "Continuă votarea"
     },
     "ChangeCategoryTooltip": {
-        "message": "Это мгновенно применится к вашим сегментам"
+        "message": "Acest lucru se va aplica instantaneu segmentelor dvs"
     },
     "downvote": {
-        "message": "Голос «против»"
+        "message": "Downvote"
     },
     "upvote": {
-        "message": "Голос «за»"
+        "message": "Upvote"
     },
     "hideSegment": {
-        "message": "Скрыть сегмент"
+        "message": "Ascunde segmentul"
     },
     "skipSegment": {
-        "message": "Пропустить сегмент"
+        "message": "Sari peste segment"
     },
     "playChapter": {
-        "message": "Воспроизвести эпизод"
+        "message": "Reda capitolul"
     },
     "SponsorTimeEditScrollNewFeature": {
-        "message": "Наведите курсор на поле редактирования и используйте колесо мыши для быстрой настройки времени. Клавиши Ctrl или Shift могут быть использованы для точной настройки."
+        "message": "Folosește rotița mouse-ului în timp ce ești deasupra casetei de editare pentru a ajusta rapid timpul. Combinațiile dintre ctrl sau Shift pot fi folosite pentru a ajusta modificările."
     },
     "categoryPillNewFeature": {
-        "message": "Новинка! Расширение покажет, когда видео полностью является спонсорским или саморекламой"
-    },
-    "yearAbbreviation": {
-        "message": "г.",
-        "description": "100y"
+        "message": "Nou! Vezi când un videoclip este sponorizat în întregime sau auto-promovat"
     },
     "dayAbbreviation": {
-        "message": "д",
+        "message": "zile",
         "description": "100d"
     },
     "hourAbbreviation": {
-        "message": "ч",
+        "message": "ore",
         "description": "100h"
     },
     "optionsTabBehavior": {
-        "message": "Поведение",
+        "message": "Comportament",
         "description": "Appears in Options as a tab header for options related to categories and skipping behavior. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width)."
     },
     "optionsTabInterface": {
-        "message": "Интерфейс",
+        "message": "Interfață",
         "description": "Appears in Options as a tab header for options related to GUI and sounds. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width)."
     },
     "optionsTabKeyBinds": {
-        "message": "Сочетания клавиш",
+        "message": "Shortcut-uri pentru taste",
         "description": "Appears in Options as a tab header for keybinds. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width)."
     },
     "optionsTabBackup": {
-        "message": "Копия/Восстановление",
+        "message": "Backup/Restaurare",
         "description": "Appears in Options as a tab header for options related to saving/restoring your settings. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width)."
     },
     "optionsTabAdvanced": {
-        "message": "Разное",
+        "message": "Diverse",
         "description": "Appears in Options as a tab header for advanced/niche options. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width)."
     },
     "noticeVisibilityLabel": {
-        "message": "Внешний вид уведомления о пропуске",
+        "message": "Aspectul notificării de omiteri",
         "description": "Option label"
     },
     "unbind": {
-        "message": "Отвязать",
+        "message": "Unbind",
         "description": "Unbind keyboard shortcut"
     },
     "notSet": {
-        "message": "Не задано"
+        "message": "Nesetat"
     },
     "change": {
-        "message": "Изменить"
+        "message": "Schimbă"
     },
     "youtubeKeybindWarning": {
-        "message": "Это сочетание используется на сайте YouTube. Вы уверены, что хотите его использовать?"
+        "message": "Aceasta este o scurtătură YouTube integrată. Ești sigur că vrei să o folosești?"
     },
     "betaServerWarning": {
-        "message": "Используется BETA сервер!"
+        "message": "Serverul BETA este activat!"
     },
     "openOptionsPage": {
-        "message": "Открыть страницу настроек"
+        "message": "Deschide pagina de opțiuni"
     },
     "resetToDefault": {
-        "message": "Восстановить настройки по умолчанию"
+        "message": "Resetați setările la valori implicite"
     },
     "confirmResetToDefault": {
-        "message": "Вы уверены, что вы хотите восстановить настройки по умолчанию? Это действие не может быть отменено."
+        "message": "Ești sigur că vrei sa resetezi toate setările la valorile lor implicite? Această acțiune nu poate fi anulată."
     },
     "exportSegments": {
-        "message": "Экспортировать сегменты"
+        "message": "Exportare segmente"
     },
     "importSegments": {
-        "message": "Импортировать сегменты"
+        "message": "Importare segmente"
     },
     "Import": {
-        "message": "Импортировать",
+        "message": "Importă",
         "description": "Button to initiate importing segments. Appears under the textbox where they paste in the data"
     },
     "redeemSuccess": {
-        "message": "Купон активирован!"
+        "message": "Revendicare cu succes!"
     },
     "redeemFailed": {
-        "message": "Ключ лицензии недействителен"
+        "message": "Cheia de licență nu este validă"
     },
     "hideUpsells": {
-        "message": "Скрыть опции, недоступные без дополнительной платы"
-    },
-    "hideNewFeatureUpdates": {
-        "message": "Скрыть подсказки о новых функциях"
+        "message": "Ascunde opțiunile indisponibile fără o plată suplimentara"
     },
     "chooseACountry": {
-        "message": "Выберите страну"
+        "message": "Selectați țara"
     },
     "noDiscount": {
-        "message": "Вы не подпадаете под условия скидки"
+        "message": "Nu te califici pentru o reducere"
     },
     "discountLink": {
-        "message": "Ссылка на скидку (смотрите розовую цену)"
+        "message": "Link de reducere (Vezi prețul roz)"
     },
     "selectYourCountry": {
-        "message": "Выберите вашу страну"
+        "message": "Selectaţi ţara"
     },
     "cantAfford": {
-        "message": "Если вы не можете позволить себе приобрести лицензию, нажмите {сюда}, чтобы узнать, имеете ли вы право на скидку",
+        "message": "Dacă nu vă puteți permite să achiziționați o licență, faceți clic pe {aici} pentru a vedea dacă sunteți eligibil pentru o reducere",
         "description": "Keep the curly braces. The word 'here' should be translated as well."
     },
     "patreonSignIn": {
-        "message": "Войти через Patreon"
+        "message": "Conectează-te cu Patreon"
     },
     "redeem": {
-        "message": "Использовать"
+        "message": "Folosește"
     },
     "joinOnPatreon": {
-        "message": "Подписаться на Patreon"
+        "message": "Abonează-te pe Patreon"
     },
     "oneTimePurchase": {
-        "message": "Единоразовая покупка"
+        "message": "Achiziție unică"
     },
     "enterLicenseKey": {
-        "message": "Введите лицензионный ключ"
+        "message": "Introdu cheia de licență"
     },
     "unsubmittedSegmentCounts": {
-        "message": "Сейчас у вас есть {0} в {1}",
+        "message": "Ai în prezent {0} pe {1}",
         "description": "Example: You currently have 12 unsubmitted segments on 5 videos"
     },
     "unsubmittedSegmentCountsZero": {
-        "message": "В настоящее время у вас нет неопубликованных сегментов",
+        "message": "În prezent nu aveți segmente netrimise",
         "description": "Replaces 'unsubmittedSegmentCounts' string when there are no unsubmitted segments"
     },
     "unsubmittedSegmentsSingular": {
-        "message": "неопубликованный сегмент",
+        "message": "segment netransmis",
         "description": "Example: You currently have 1 *unsubmitted segment* on 1 video"
     },
     "unsubmittedSegmentsPlural": {
-        "message": "неопубликованных сегмент(-а, -ов)",
+        "message": "segmente netransmise",
         "description": "Example: You currently have 12 *unsubmitted segments* on 5 videos"
     },
     "videosSingular": {
-        "message": "видео",
+        "message": "videoclip",
         "description": "Example: You currently have 3 unsubmitted segments on 1 *video*"
     },
     "videosPlural": {
-        "message": "видео",
+        "message": "videoclipuri",
         "description": "Example: You currently have 12 unsubmitted segments on 5 *videos*"
     },
     "clearUnsubmittedSegments": {
-        "message": "Очистить все сегменты",
+        "message": "Curăță toate segmentele",
         "description": "Label for a button in settings"
     },
     "clearUnsubmittedSegmentsConfirm": {
-        "message": "Вы уверены, что хотите очистить все неопубликованные сегменты?",
+        "message": "Sigur doriți ștergerea tuturor segmentelor netransmise?",
         "description": "Confirmation message for the Clear unsubmitted segments button"
     },
     "showUnsubmittedSegments": {
-        "message": "Показать сегменты",
+        "message": "Arată segmentele",
         "description": "Show/hide button for the unsubmitted segments list"
     },
     "hideUnsubmittedSegments": {
-        "message": "Скрыть сегменты",
+        "message": "Ascunde segmentele",
         "description": "Show/hide button for the unsubmitted segments list"
     },
     "videoID": {
-        "message": "ID видео",
+        "message": "ID videoclip",
         "description": "Header of the unsubmitted segments list"
     },
     "segmentCount": {
-        "message": "Количество сегментов",
+        "message": "Numărul de segmente",
         "description": "Header of the unsubmitted segments list"
     },
     "actions": {
-        "message": "Действия",
+        "message": "Acțiuni",
         "description": "Header of the unsubmitted segments list"
     },
     "exportSegmentsAsURL": {
-        "message": "Поделиться ссылкой"
+        "message": "Distribuie ca URL"
     },
     "segmentFetchFailureWarning": {
-        "message": "Внимание: Сервер ещё не прислал существующие сегменты. Для этого видео уже могут быть существующие сегменты, но вы их ещё не получили из-за проблем с сервером."
+        "message": "Atenție: Serverul nu a răspuns încă cu segmente. Ar putea fi segmente în acest videoclip deja trimise, dar pur și simplu nu le-ai primit din cauza problemelor cu serverul."
     },
     "allowScrollingToEdit": {
-        "message": "Разрешить прокрутку для редактирования времени"
+        "message": "Permite derularea la Editarea Timpilor"
     },
     "NoticeTimeAfterSkip": {
-        "message": "{seconds} с",
+        "message": "{seconds}sec",
         "description": "This is used on the popup to show how much time left. It will look like \"5s\". The word {seconds} will be replaced, so keep it here. Translations should only change the \"s\""
     },
     "deArrowFullName": {
-        "message": "DeArrow - Улучшенные названия и значки видео на YouTube",
+        "message": "DeArrow - Titluri și miniaturi mai bune pe YouTube",
         "description": "Name of the Clickbait extension. The name refers to removing arrows from thumbnails"
     },
     "deArrowDescription": {
-        "message": "Заменяет сенсационные названия и значки видео на более точные, предложенные сообществом",
+        "message": "Titlurile Crowdsourcing și miniaturile vor fi descriptive și nu senzaționale",
         "description": "Description of the Clickbait extension."
     },
     "chooseDescriptive": {
-        "message": "Выберите самое точное"
+        "message": "Alege cel mai descriptiv"
     },
     "Original": {
-        "message": "Оригинал"
+        "message": "Original"
     },
     "OriginalTitle": {
-        "message": "Изначальное название"
+        "message": "Titlu original"
     },
     "CurrentTime": {
-        "message": "Текущее время"
+        "message": "Ora curentă"
     },
     "resetCustomTitle": {
-        "message": "Сбросить название к изначальному"
+        "message": "Resetează titlul înapoi la textul original"
     },
     "resetIcon": {
-        "message": "Сбросить значок"
+        "message": "Resetează Pictogramă"
     },
     "Vote": {
-        "message": "Проголосовать"
+        "message": "Votează"
     },
     "TypeYourOwnTitleHere": {
-        "message": "Введите ваше название здесь"
+        "message": "Scrieți propriul titlu aici"
     },
     "VideoNotReady": {
-        "message": "Видео не готово"
+        "message": "Videoclipul nu este gata"
     },
     "FailedToRender": {
-        "message": "Не удалось отрисовать",
+        "message": "Randare eșuată",
         "description": "Thumbnail preview failed to render"
     },
     "CanvasMissing": {
-        "message": "Отсутствует Canvas",
+        "message": "Lipsește canvas",
         "description": "Canvas is the name of an HTML element used to draw thumbnails onto"
     },
     "ExceptionWhileRendering": {
-        "message": "Исключение при отрисовке",
+        "message": "Excepție în timpul redării",
         "description": "Displayed if there is a general error when trying to render the thumbnail"
     },
     "FailedToLoad": {
-        "message": "Не удалось загрузить",
+        "message": "Încărcare eșuată",
         "description": "Thumbnail failed to load"
     },
     "titleFormatting": {
-        "message": "Формат названия"
+        "message": "Formatul titlului"
     },
     "Disabled": {
-        "message": "Отключено"
+        "message": "Dezactivat"
     },
     "CapitalizeWords": {
-        "message": "Слова с заглавной буквы"
-    },
-    "TitleCase": {
-        "message": "Первая заглавная"
-    },
-    "SentenceCase": {
-        "message": "Как в предложении"
-    },
-    "LowerCase": {
-        "message": "Строчные буквы"
-    },
-    "FirstLetterUppercase": {
-        "message": "Первая буква — заглавная"
-    },
-    "shouldCleanEmojis": {
-        "message": "Убирать эмодзи"
-    },
-    "thumbnailFallbackOption": {
-        "message": "При отсутствии отправленного значка"
-    },
-    "whatThumbnailFallbackOption": {
-        "message": "При выборе случайного кадра будут использоваться данные SponsorBlock для обеспечения того, чтобы кадр был выбран не из рекламного сегмента.",
-        "description": "Describing the option for the crowdsourced thumbnail system if no thumbnail has been submitted. It can use a random time instead."
-    },
-    "RandomTime": {
-        "message": "Показать случайный кадр из видео"
-    },
-    "TheOriginalThumbnail": {
-        "message": "Показать оригинальный значок"
-    },
-    "showABlankBox": {
-        "message": "Показать черный экран"
-    },
-    "AutoGenerated": {
-        "message": "Показывать значок, сгенерированный YouTube",
-        "description": "A DeArrow fallback method that will use the YouTube auto-generated thumbnails instead of a randomly selected time or the original thumbnail"
-    },
-    "Start": {
-        "message": "Начало"
-    },
-    "Middle": {
-        "message": "Середина"
+        "message": "Capitalizează cuvintele"
     },
     "keepUnsubmitted": {
-        "message": "Хранить отправленные оценки"
-    },
-    "ignoreAbThumbnails": {
-        "message": "Никогда не использовать значки, проверенные A/B тестами"
-    },
-    "ignoreAbThumbnailsDescription": {
-        "message": "Владельцы каналов могут запускать тесты на своих видео, при которых YouTube будет показывать разные значки разным пользователям. Эта опция всегда будет использовать первоначальный значок ради сохранения согласованности."
-    },
-    "abThumbnailsWarning": {
-        "message": "Предупреждение: На этом видео проводится A/B тест значка. Это означает, что значок может поменяться. В связи с этим не рекомендуется голосовать за исходный значок."
+        "message": "Stochează voturile trimise"
     },
     "whatKeepUnsubmitted": {
-        "message": "Хранить отправленные оценки, чтобы показывались выбранные вами название и значок, а не топ по голосам на сервере."
-    },
-    "keepUnsubmittedInPrivate": {
-        "message": "Хранить отправленные голоса из вкладок инкогнито"
-    },
-    "useThumbnailGenerationService": {
-        "message": "Использовать сервис создания значков"
-    },
-    "titleMaxLines": {
-        "message": "Максимальное количество строк для названий"
-    },
-    "titleMaxLinesDescription": {
-        "message": "Предложенные названия видео будут расположены на этом количестве строк."
-    },
-    "onAllPages": {
-        "message": "На всех страницах",
-        "description": "Setting for when the server-side thumbnail generator should be used for the thumbnail replacement feature."
-    },
-    "onAllPagesExceptVideo": {
-        "message": "На всех страницах, кроме страниц с видео",
-        "description": "Setting for when the server-side thumbnail generator should be used for the thumbnail replacement feature."
-    },
-    "Never": {
-        "message": "Никогда"
-    },
-    "thumbnailGeneratorDescription1": {
-        "message": "Сервис создания значков значительно ускоряет процесс, отправляя анонимный запрос с идентификатором видео на удаленный сервер. После этого значок будет сгенерирован или извлечён из кэша, если он уже был создан."
-    },
-    "thumbnailGeneratorDescription2": {
-        "message": "Если используется на страницах с видео, это потенциально может привести к утечке идентификаторов видео, доступных только по ссылке, на сервер. Установка этого параметра на \"На всех страницах, кроме страниц с видео\" позволит избежать этой проблемы. Другой вариант – разместить собственный сервис создания значков."
-    },
-    "thumbnailGeneratorDescription3": {
-        "message": "Если использование сервиса генерации значков отключено, все запросы будут использовать систему k-анонимности, что затрудняет прогнозирование того, какие видео были извлечены, а так же будет использоваться более медленный сервис генерации значков.",
-        "description": "https://en.wikipedia.org/wiki/K-anonymity is a system used to anonymise requests."
-    },
-    "thumbnailGeneratorSourceCode": {
-        "message": "Исходный код сервиса создания значков"
-    },
-    "moreAboutKAnonymity": {
-        "message": "Узнать больше про k-анонимность",
-        "description": "https://en.wikipedia.org/wiki/K-anonymity is a system used to anonymise requests."
-    },
-    "alwaysShowShowOriginalButton": {
-        "message": "Всегда показывать кнопку \"Показать изначальные сведения\""
-    },
-    "whatAlwaysShowShowOriginalButton": {
-        "message": "Если вы всегда хотите знать, что название или значок изменились, включите эту настройку."
-    },
-    "showOriginalOnHover": {
-        "message": "Показывать изначальные сведения при наведении"
-    },
-    "showIconForFormattedTitles": {
-        "message": "Отображать кнопку \"Показать изначальные сведения\" для автоматически форматированных названий"
+        "message": "Păstrați voturile depuse după vot pentru a afișa titlurile și miniaturile pe care le-ați ales în loc de cea de sus votată pe server."
     },
     "fetchTimeout": {
-        "message": "Время ожидания получения данных (мс)"
+        "message": "Timp preluare date (ms)"
     },
     "fetchTimeoutDescription": {
-        "message": "Показывать изначальные названия и значки, если сервер не отвечает за это время."
-    },
-    "renderTimeout": {
-        "message": "Время ожидания отрисовки значка (мс)"
-    },
-    "renderTimeoutDescription": {
-        "message": "Показать изначальный значок, если за указанное время не удалось сгенерировать новый."
-    },
-    "startLocalRenderTimeout": {
-        "message": "Время ожидания для начала использования локального генератора значков (мс)",
-        "description": "If the server takes this long to generate a thumbnail, it start trying to generate one locally."
-    },
-    "startLocalRenderTimeoutDescription": {
-        "message": "Если сервер слишком долго создаёт значок, начать создавать его локально."
+        "message": "Arată titlurile originale și miniaturile în cazul în care serverul nu răspunde în acest timp."
     },
     "Enable": {
-        "message": "Включить"
+        "message": "Activare"
     },
     "Titles": {
-        "message": "Названия",
+        "message": "Titluri",
         "description": "Referring to titles of YouTube videos"
     },
     "Thumbnails": {
-        "message": "Значки",
+        "message": "Miniaturi",
         "description": "Referring to thumbnails of YouTube videos"
     },
     "Error": {
-        "message": "Ошибка"
-    },
-    "ShowOriginal": {
-        "message": "Показать изначальные сведения"
-    },
-    "ShowModified": {
-        "message": "Показать изменённые сведения"
-    },
-    "FillerWarning": {
-        "message": "Внимание: эта категория - невероятно агрессивная. Вероятно, вам придётся перематывать назад или иногда отключать пропуск полностью. Имейте в виду, что во многих видео пропускается 50% хронометража или больше! Однако помните, что при отправке сегментов всё ещё действуют строгие правила.",
-        "description": "Warning that appears when enabling the filler tangent category"
-    },
-    "chatboxDescription": {
-        "message": "Присоединяйтесь к Discord или Matrix, чтобы остаться в этом чате",
-        "description": "Appears on the top of the integrated chatbox"
-    },
-    "showGuidelineHelp": {
-        "message": "Показать помощь по руководству",
-        "description": "Setting to show a summary of the guidelines on the submission page"
-    },
-    "tip1": {
-        "message": "Избегайте вычурных выражений лица",
-        "description": "Referring to the thumbnail of a video"
-    },
-    "tip2": {
-        "message": "Старайтесь предложить название, отражающее суть всего видео, а не только отвечающее на вопрос из оригинального названия",
-        "description": "This is a tip about submitting a new DeArrow replacement title. If the original title is an attention grabbing title, the DeArrow title shouldn't just be an answer to that. It instead should be based on the contents of the video."
-    },
-    "tip3": {
-        "message": "Избегайте описания реакций на видео (например, \"шок\")",
-        "description": "Referring to the title of a YouTube video. Shocking being when something is described as shocking"
-    },
-    "tip4": {
-        "message": "Предоставьте достаточно информации, чтобы пользователь мог сделать информированный выбор"
-    },
-    "tip5": {
-        "message": "Начинать с прописной буквы как предложение ",
-        "description": "Tip about submitting titles to DeArrow"
-    },
-    "dearrowHelpSponsorBlockImported": {
-        "message": "Примечание: Ваши настройки SponsorBlock были импортированы автоматически!"
-    },
-    "howItWorks": {
-        "message": "Как это работает"
-    },
-    "discordPromotion": {
-        "message": "Принять участие в разработке или предложить новую идею можно в {discord} или {matrix}"
-    },
-    "deArrowDonationText": {
-        "message": "Если вам нравится то, что я сделал, и вы хотите помочь мне материально, вот ссылка"
-    },
-    "termsAgreement": {
-        "message": "Используя это расширение, вы соглашаетесь с {privacy-policy} и {terms}"
-    },
-    "privacyPolicy": {
-        "message": "политикой конфиденциальности"
-    },
-    "termsOfUse": {
-        "message": "условиями использования "
-    },
-    "openSourceLicenses": {
-        "message": "Лицензии исходного кода"
-    },
-    "defaultToOriginals": {
-        "message": "Показывать изначальные сведения о видео"
-    },
-    "whatDefaultToOriginals": {
-        "message": "Показывать по умолчанию изначальные название и значок с возможностью отображения предложенных при наведении на них."
-    },
-    "replaceTitles": {
-        "message": "Заменять названия"
-    },
-    "replaceThumbnails": {
-        "message": "Заменять значки"
-    },
-    "useCrowdsourcedTitles": {
-        "message": "Использовать названия, присланные сообществом"
-    },
-    "whatUseCrowdsourcedTitles": {
-        "message": "Если отключено, названия видео будут форматироваться, но не будут использоваться присланные сообществом названия",
-        "description": "Description under the \"Use Crowdsourced Titles\" option"
-    },
-    "areYouSureDeleteConfig": {
-        "message": "Вы уверены, что хотите удалить эту конфигурацию?",
-        "description": "Appears when deleting a configuration for channel-based settings"
-    },
-    "NewConfiguration": {
-        "message": "Новая конфигурация"
-    },
-    "DeleteConfiguration": {
-        "message": "Удалить конфигурацию"
-    },
-    "ChannelAllowlist": {
-        "message": "Список разрешённых каналов"
-    },
-    "ConfigurationName": {
-        "message": "Название конфигурации"
-    },
-    "ChannelListInstructions": {
-        "message": "Введите все каналы, которые вы хотите применить к этой конфигурации в поле ниже, разделяя каждый новой строкой. Поддерживаются как ID каналов, так и отображаемые имена. @ Имена пользователей не поддерживаются. Вы можете получить ID канала, нажав кнопку \"Поделиться\" на странице \"О канале\".",
-        "description": "Instructions for the channel allowlist feature in DeArrow to configure settings for specific channels"
-    },
-    "NoConfigurationsSetup": {
-        "message": "Конфигурации еще не настроены. Нажмите на кнопку вверху, чтобы добавить новую конфигурацию.",
-        "description": "Appears when there are no channel configurations setup yet on the channel allow list page"
-    },
-    "DeArrowPromotionMessage": {
-        "message": "Боритесь с кликбейтом путём замены названий и значков на более корректные."
-    },
-    "DeArrowPromotionMessage2": {
-        "message": "Устали от кликбейта? Попробуйте моё новое расширение, улучшающее названия и значки"
-    },
-    "RandomThumbnailExplanation": {
-        "message": "В качестве значка установлен случайный кадр из видео, так как для видео не был предложен значок",
-        "description": "A description during on boarding to explain the random thumbnail setting"
-    },
-    "RandomThumbnailAndAutoFormattedExplanation": {
-        "message": "В качестве значка установлен случайный кадр из видео и автоматически форматированное название, так как для видео не было ничего предложено",
-        "description": "A description during on boarding to explain the random thumbnail and autoformatting setting"
-    },
-    "YouCanChangeThisDefaultBelow": {
-        "message": "Вы можете изменить значение по умолчанию ниже",
-        "description": "Appears in onboarding below explanation of random thumbnail and autoformatting"
-    },
-    "dearrowStatsMessage": {
-        "message": "С момента установки расширения было заменено {titles} названий и {thumbnails} значков",
-        "description": "Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
-    },
-    "dearrowStatsMessageTitlePart": {
-        "message": "{titles} название ",
-        "description": "Title singular part of message. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
-    },
-    "dearrowStatsMessageTitlesPart": {
-        "message": "{titles} названий ",
-        "description": "Title plural part of message. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
-    },
-    "dearrowStatsMessageThumbnailPart": {
-        "message": "и {thumbnails} значок",
-        "description": "Thumbnail singular part of message. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
-    },
-    "dearrowStatsMessageThumbnailsPart": {
-        "message": "и {thumbnails} значков",
-        "description": "Thumbnail plural part of message. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
-    },
-    "dearrowStatsMessage2": {
-        "message": "С момента установки расширения было заменено {titleAndThumbnailMessage}",
-        "description": "{titleAndThumbnailMessage} will become '{titles} titles and {thumbnails} thumbnails' from the other messages. It can be moved to a different part of the message if needed. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
-    },
-    "countReplacements": {
-        "message": "Считать количество замен названий и значков"
-    },
-    "countReplacementsDescription": {
-        "message": "Используется для предоставления статистики во всплывающем окне.",
-        "description": "On options page describing the setting for counting how many times titles and thumbnails have been replaced in DeArrow"
-    },
-    "YtNeuterMessage": {
-        "message": "Добавить список фильтров yt-neuter для блокировки опросов, карточек с продукцией и прочих рекламных элементов страницы"
-    },
-    "requiresUblock": {
-        "message": "Требуется uBlock Origin"
-    },
-    "videoIDWrongWhenSubmittingError": {
-        "message": "Произошла ошибка при попытке определить ID видео. Пожалуйста, обновите страницу перед отправкой, чтобы убедиться, что оно будет отправлено для нужного видео. Если это происходит часто, пожалуйста, отправьте сообщение об этом через GitHub, Discord или Matrix, дополнительно указав другие ваши расширения или пользовательские скрипты, которые вы установили."
-    },
-    "dearrowLogoCredit": {
-        "message": "Логотип на основе Twemoji с лицензией CC-BY 4.0"
-    },
-    "zoomToFillUnsupported": {
-        "message": "SponsorBlock не совместим с расширением \"Zoom to Fill\". Вы можете использовать другие подобные расширения, они будут работать."
-    },
-    "freeTrialStarted": {
-        "message": "Пробный период начался успешно. Посетите YouTube, чтобы протестировать расширение"
-    },
-    "freeTrialEnded": {
-        "message": "Пробный период закончился"
-    },
-    "freeTrialPrompt": {
-        "message": "Если вы хотите опробовать расширение в течение следующего часа, нажмите на кнопку ниже."
-    },
-    "startFreeTrial": {
-        "message": "Попробовать бесплатно"
-    },
-    "youCannotVoteDuringTrial": {
-        "message": "Вы не можете голосовать в пробной версии",
-        "description": "Refers to voting for DeArrow titles and thumbnails"
-    },
-    "freeAccessRequested": {
-        "message": "Вы успешно зарегистрировались на получение бесплатной лицензии. Вы будете уведомлены, когда она будет предоставлена."
-    },
-    "freeAccessComplete": {
-        "message": "Поздравляем! Теперь у вас есть бесплатный доступ к DeArrow"
-    },
-    "DeArrowNotActivated": {
-        "message": "DeArrow не активировано"
-    },
-    "ActivateDeArrow": {
-        "message": "Активировать DeArrow"
-    },
-    "DeArrowIsActivated": {
-        "message": "DeArrow успешно активировано"
-    },
-    "Close": {
-        "message": "Закрыть"
-    },
-    "ViewLicenseKey": {
-        "message": "Просмотреть лицензионный ключ"
-    },
-    "SharingIsCaring": {
-        "message": "Не жмись - поделись"
+        "message": "Eroare"
     }
 }

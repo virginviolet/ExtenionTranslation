@@ -1,17 +1,17 @@
 {
     "fullName": {
-        "message": "SponsorBlock för YouTube - Hoppa över sponsringar",
+        "message": "SponorBlock för YouTube - Hoppa över sponsringar",
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Hoppa över sponsringar, prenumerationstiggande och mer på YouTube-videor. Rapportera sponsorer på videor du tittar på för att bespara andra tid.",
+        "message": "Hoppa över sponsringar, prenumerationstiggande och mer på YouTube-videor. Rapportera sponorer på videor du tittar på för att bespara andra tid.",
         "description": "Description of the extension."
     },
     "400": {
         "message": "Servern sa att denna begäran var ogiltig"
     },
     "429": {
-        "message": "Du har skickat in för många sponsortider för den här videon. Är du säker på att det finns så många?"
+        "message": "Du har skickat in för många sponortider för den här videon. Är du säker på att det finns så många?"
     },
     "409": {
         "message": "Den här har redan skickats in"
@@ -81,7 +81,7 @@
         "message": "Är du säker på att du vill rensa detta?\n\n"
     },
     "Unknown": {
-        "message": "Ett fel uppstod vid inskickningen av sponsortiderna, försök igen senare."
+        "message": "Ett fel uppstod vid inskickningen av sponortiderna, försök igen senare."
     },
     "sponsorFound": {
         "message": "Denna video har segment i databasen!"
@@ -123,7 +123,7 @@
         "message": "Rensa segmenten"
     },
     "openPopup": {
-        "message": "Öppna SponsorBlock-popup"
+        "message": "Öppna SponorBlock-popup"
     },
     "closePopup": {
         "message": "Stäng popup"
@@ -277,7 +277,7 @@
         "message": "Alla överhoppningsmeddelanden är tonade"
     },
     "longDescription": {
-        "message": "SponsorBlock låter dig hoppa över sponsormeddelanden, introduktioner, eftertexter, prenumerationspåminnelser och andra irriterande delar av YouTube-videor. SponsorBlock är ett crowdsourced webbläsartillägg som låter vem som helst att skicka in start- och sluttid på sponsorsegment och andra segment av YouTube-videor. När en person skickar in denna information kommer alla andra som har detta tillägg installerat att hoppa över det sponsrade segmentet. Du kan även hoppa över icke-musikavsnitt i musikvideor.",
+        "message": "SponorBlock låter dig hoppa över sponormeddelanden, introduktioner, eftertexter, prenumerationspåminnelser och andra irriterande delar av YouTube-videor. SponorBlock är ett crowdsourced webbläsartillägg som låter vem som helst att skicka in start- och sluttid på sponorsegment och andra segment av YouTube-videor. När en person skickar in denna information kommer alla andra som har detta tillägg installerat att hoppa över det sponsrade segmentet. Du kan även hoppa över icke-musikavsnitt i musikvideor.",
         "description": "Full description of the extension on the store pages."
     },
     "website": {
@@ -346,7 +346,7 @@
     },
     "full": {
         "message": "Hela videon",
-        "description": "Used for the name of the option to label an entire video as sponsor or self promotion."
+        "description": "Used for the name of the option to label an entire video as sponor or self promotion."
     },
     "skip_category": {
         "message": "Hoppa över {0}?"
@@ -360,11 +360,11 @@
     },
     "skipped": {
         "message": "{0} hoppades över",
-        "description": "Example: Sponsor Skipped"
+        "description": "Example: Sponor Skipped"
     },
     "muted": {
         "message": "{0} ljudlösa",
-        "description": "Example: Sponsor Muted"
+        "description": "Example: Sponor Muted"
     },
     "skipped_to_category": {
         "message": "Hoppade till {0}",
@@ -491,10 +491,10 @@
         "message": "Visa uppladdningsknappen"
     },
     "customServerAddress": {
-        "message": "Serveradress för SponsorBlock"
+        "message": "Serveradress för SponorBlock"
     },
     "customServerAddressDescription": {
-        "message": "Adressen SponsorBlock använder för att kommunicera med servern.\nOm du inte har en egen serverinstans ska den här inställningen inte ändras."
+        "message": "Adressen SponorBlock använder för att kommunicera med servern.\nOm du inte har en egen serverinstans ska den här inställningen inte ändras."
     },
     "dataFetchingServerAddress": {
         "message": "Datahämtningsserveradress"
@@ -749,7 +749,7 @@
         "message": "Anpassade namngivna kapitel som beskriver större delar av en video."
     },
     "category_chapter_guideline1": {
-        "message": "Nämn inte sponsormärkets namn"
+        "message": "Nämn inte sponormärkets namn"
     },
     "category_chapter_guideline2": {
         "message": "Använd större kapitel för allmänna sektioner"
@@ -798,11 +798,11 @@
     },
     "fullVideoSegments": {
         "message": "Visa en ikon när hela videon är en annons",
-        "description": "Referring to the category pill that is now shown on videos that are entirely sponsor or entirely selfpromo"
+        "description": "Referring to the category pill that is now shown on videos that are entirely sponor or entirely selfpromo"
     },
     "fullVideoLabelsOnThumbnails": {
         "message": "Visa även etiketter på videominiatyrbilder",
-        "description": "Referring to the category pill that is shown on videos that are entirely sponsor or entirely selfpromo on recommended videos, in searches or on the homepage."
+        "description": "Referring to the category pill that is shown on videos that are entirely sponor or entirely selfpromo on recommended videos, in searches or on the homepage."
     },
     "previewColor": {
         "message": "Färg på oinskickade",
@@ -882,7 +882,7 @@
         "message": "Behörighetsbegäran misslyckades, tryckte du på förneka?"
     },
     "adblockerIssueWhitelist": {
-        "message": "Om du inte kan lösa detta kan du inaktivera 'Tvinga kontroll av kanalen innan hoppa över' i inställningarna, eftersom SponsorBlock inte kan hämta kanalinformationen för den här videon"
+        "message": "Om du inte kan lösa detta kan du inaktivera 'Tvinga kontroll av kanalen innan hoppa över' i inställningarna, eftersom SponorBlock inte kan hämta kanalinformationen för den här videon"
     },
     "forceChannelCheck": {
         "message": "Tvinga kontroll av kanalen innan hoppa över"
@@ -907,7 +907,7 @@
         "message": "Ändra kategori"
     },
     "nonMusicCategoryOnMusic": {
-        "message": "Den här videon kategoriseras som musik. Är du säker på att denna har en sponsor? Om detta faktiskt är ett \"icke-musiksegment\", öppna tilläggsalternativen och aktivera denna kategori. Då kan du skicka in detta segment som \"icke-musik\" i stället för sponsor. Läs riktlinjerna om något är oklart."
+        "message": "Den här videon kategoriseras som musik. Är du säker på att denna har en sponor? Om detta faktiskt är ett \"icke-musiksegment\", öppna tilläggsalternativen och aktivera denna kategori. Då kan du skicka in detta segment som \"icke-musik\" i stället för sponor. Läs riktlinjerna om något är oklart."
     },
     "multipleSegments": {
         "message": "Flera segment"
@@ -979,7 +979,7 @@
         "message": "Mörkt läge på alternativsidan"
     },
     "helpPageThanksForInstalling": {
-        "message": "Tack för att du installerade SponsorBlock."
+        "message": "Tack för att du installerade SponorBlock."
     },
     "helpPageReviewOptions": {
         "message": "Granska alternativen nedan"
@@ -1003,7 +1003,7 @@
         "message": "Skicka in kan antingen göras i popup-fönstret genom att trycka på knappen \"Segmentet startar nu\" eller i videospelaren med knapparna på spelaren."
     },
     "helpPageSubmitting2": {
-        "message": "Genom att klicka på uppspelningsknappen anges början på ett segment och genom att klicka på stoppikonen anges slutet. Du kan förbereda flera sponsorer innan du trycker på skicka. Klicka på uppladdningsknappen för att skicka in. Klicka på papperskorgen för att ta bort."
+        "message": "Genom att klicka på uppspelningsknappen anges början på ett segment och genom att klicka på stoppikonen anges slutet. Du kan förbereda flera sponorer innan du trycker på skicka. Klicka på uppladdningsknappen för att skicka in. Klicka på papperskorgen för att ta bort."
     },
     "Editing": {
         "message": "Redigerar"
@@ -1015,7 +1015,7 @@
         "message": "Detta är för långsamt"
     },
     "helpPageTooSlow1": {
-        "message": "Det finns snabbtangenter om du vill använda dem. Tryck på semikolontangenten för att ange start/slut på ett sponsorsegment och klicka på apostrofen för att skicka in. Dessa kan ändras i inställningarna. Om du inte använder QWERTY, bör du förmodligen ändra tangentbindningen."
+        "message": "Det finns snabbtangenter om du vill använda dem. Tryck på semikolontangenten för att ange start/slut på ett sponorsegment och klicka på apostrofen för att skicka in. Dessa kan ändras i inställningarna. Om du inte använder QWERTY, bör du förmodligen ändra tangentbindningen."
     },
     "helpPageCopyOfDatabase": {
         "message": "Kan jag få en kopia av databasen? Vad händer om du försvinner?"
@@ -1335,7 +1335,7 @@
         "message": "När ingen inskickad miniatyrbild finns"
     },
     "whatThumbnailFallbackOption": {
-        "message": "När du väljer en slumpmässig tid, kommer den att använda SponsorBlock data för att säkerställa att en tid i ett kampanjsegment inte väljs.",
+        "message": "När du väljer en slumpmässig tid, kommer den att använda SponorBlock data för att säkerställa att en tid i ett kampanjsegment inte väljs.",
         "description": "Describing the option for the crowdsourced thumbnail system if no thumbnail has been submitted. It can use a random time instead."
     },
     "RandomTime": {
@@ -1495,7 +1495,7 @@
         "description": "Tip about submitting titles to DeArrow"
     },
     "dearrowHelpSponsorBlockImported": {
-        "message": "Obs: Dina SponsorBlock-inställningar har automatiskt importerats!"
+        "message": "Obs: Dina SponorBlock-inställningar har automatiskt importerats!"
     },
     "howItWorks": {
         "message": "Så här fungerar det"
@@ -1623,7 +1623,7 @@
         "message": "Logotyp baserad på Twemoji licensierad under CC-BY 4.0"
     },
     "zoomToFillUnsupported": {
-        "message": "SponsorBlock är inte kompatibelt med tillägget \"Zoom to Fill\". Det finns många alternativ som du kan använda istället som fungerar korrekt."
+        "message": "SponorBlock är inte kompatibelt med tillägget \"Zoom to Fill\". Det finns många alternativ som du kan använda istället som fungerar korrekt."
     },
     "freeTrialStarted": {
         "message": "Din fria utvärderingsperiod har börjat. Besök YouTube för att testa det"

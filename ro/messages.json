@@ -1,17 +1,17 @@
 {
     "fullName": {
-        "message": "SponsorBlock pentru YouTube - Sari peste sponsorizări",
+        "message": "SponorBlock pentru YouTube - Sari peste sponorizări",
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Treci peste sponsorizări, cereri de abonare și multe altele pe videoclipuri de pe YouTube. Raportează sponsorii pe videoclipurile pe care le urmărești pentru a economisi timp altora.",
+        "message": "Treci peste sponorizări, cereri de abonare și multe altele pe videoclipuri de pe YouTube. Raportează sponorii pe videoclipurile pe care le urmărești pentru a economisi timp altora.",
         "description": "Description of the extension."
     },
     "400": {
         "message": "Serverul a spus că această cerere este invalidă"
     },
     "429": {
-        "message": "Ai trimis prea multe timpuri ale sponsorizărilor pentru acest videoclip, sunteți sigur că sunt atât de multe?"
+        "message": "Ai trimis prea multe timpuri ale sponorizărilor pentru acest videoclip, sunteți sigur că sunt atât de multe?"
     },
     "409": {
         "message": "Acest lucru a fost deja trimis înainte"
@@ -81,7 +81,7 @@
         "message": "Ești sigur că vrei să ștergi asta?\n\n"
     },
     "Unknown": {
-        "message": "A apărut o eroare în trimiterea timpilor sponsorizărilor, încearcă din nou mai târziu."
+        "message": "A apărut o eroare în trimiterea timpilor sponorizărilor, încearcă din nou mai târziu."
     },
     "sponsorFound": {
         "message": "Acest videoclip are segmente în baza de date!"
@@ -123,7 +123,7 @@
         "message": "Curăță segmentele"
     },
     "openPopup": {
-        "message": "Deschide Popup-ul SponsorBlock"
+        "message": "Deschide Popup-ul SponorBlock"
     },
     "closePopup": {
         "message": "Închide pop-up"
@@ -277,7 +277,7 @@
         "message": "Toate Notificările de Omiteri Estompate"
     },
     "longDescription": {
-        "message": "SponsorBlock vă permite să săriți peste sponsori, intro, outros, memento-uri pentru abonament și alte părți enervante ale videoclipurilor YouTube SponsorBlock este o extensie crowdsourced de browser, care hai să trimită oricui timpul de început și de sfârșit pentru segmente sponsorizate și alte segmente de videoclipuri YouTube. Odată ce o persoană transmite aceste informații, toți ceilalți cu această extensie vor sări peste segmentul sponsorizat. De asemenea, poți sări peste secțiunile non-muzicale ale videoclipurilor.",
+        "message": "SponorBlock vă permite să săriți peste sponori, intro, outros, memento-uri pentru abonament și alte părți enervante ale videoclipurilor YouTube SponorBlock este o extensie crowdsourced de browser, care hai să trimită oricui timpul de început și de sfârșit pentru segmente sponorizate și alte segmente de videoclipuri YouTube. Odată ce o persoană transmite aceste informații, toți ceilalți cu această extensie vor sări peste segmentul sponorizat. De asemenea, poți sări peste secțiunile non-muzicale ale videoclipurilor.",
         "description": "Full description of the extension on the store pages."
     },
     "website": {
@@ -346,7 +346,7 @@
     },
     "full": {
         "message": "Video complet",
-        "description": "Used for the name of the option to label an entire video as sponsor or self promotion."
+        "description": "Used for the name of the option to label an entire video as sponor or self promotion."
     },
     "skip_category": {
         "message": "Omiteți {0}?"
@@ -360,11 +360,11 @@
     },
     "skipped": {
         "message": "Sărit peste {0}",
-        "description": "Example: Sponsor Skipped"
+        "description": "Example: Sponor Skipped"
     },
     "muted": {
         "message": "{0} pus pe mut",
-        "description": "Example: Sponsor Muted"
+        "description": "Example: Sponor Muted"
     },
     "skipped_to_category": {
         "message": "Sărit la {0}",
@@ -380,7 +380,7 @@
         "message": "Notificare Audio Când Sari"
     },
     "audioNotificationDescription": {
-        "message": "Notificarea audio va reda un sunet atunci când sari peste o sponsorizare. Dacă este dezactivat (sau autoskip este dezactivat), niciun sunet va fi redat."
+        "message": "Notificarea audio va reda un sunet atunci când sari peste o sponorizare. Dacă este dezactivat (sau autoskip este dezactivat), niciun sunet va fi redat."
     },
     "showTimeWithSkips": {
         "message": "Arată timpul cu săriturile eliminate"
@@ -473,7 +473,7 @@
         "message": "Utilizați omiterea manuală atunci când există o etichetă video completă"
     },
     "whatManualSkipOnFullVideo": {
-        "message": "Pentru persoanele care doresc să vizioneze videoclipul neîntrerupt dacă acesta este sponsorizat în totalitate sau dacă este autopromovat."
+        "message": "Pentru persoanele care doresc să vizioneze videoclipul neîntrerupt dacă acesta este sponorizat în totalitate sau dacă este autopromovat."
     },
     "skipNoticeDuration": {
         "message": "Durata notificărilor de omitere (secunde):"
@@ -491,10 +491,10 @@
         "message": "Arată Butonul De Încărcare"
     },
     "customServerAddress": {
-        "message": "Adresa Serverului SponsorBlock"
+        "message": "Adresa Serverului SponorBlock"
     },
     "customServerAddressDescription": {
-        "message": "Adresa SponsorBlock este folosită pentru a se efectua apeluri către server.\nDacă nu ai propriul tău server, acesta nu ar trebui modificat."
+        "message": "Adresa SponorBlock este folosită pentru a se efectua apeluri către server.\nDacă nu ai propriul tău server, acesta nu ar trebui modificat."
     },
     "dataFetchingServerAddress": {
         "message": "Adresa serverului pentru preluarea datelor"
@@ -746,7 +746,7 @@
         "message": "Capitolele cu nume personalizate care descriu secțiuni majore ale unui videoclip."
     },
     "category_chapter_guideline1": {
-        "message": "Nu menţiona numele de marcă sponsor"
+        "message": "Nu menţiona numele de marcă sponor"
     },
     "category_chapter_guideline2": {
         "message": "Folosește capitole mai mari pentru secțiunile generale"
@@ -795,11 +795,11 @@
     },
     "fullVideoSegments": {
         "message": "Arată o icoană atunci când un videoclip este în întregime o reclamă",
-        "description": "Referring to the category pill that is now shown on videos that are entirely sponsor or entirely selfpromo"
+        "description": "Referring to the category pill that is now shown on videos that are entirely sponor or entirely selfpromo"
     },
     "fullVideoLabelsOnThumbnails": {
         "message": "Arată etichetele și în miniaturile video",
-        "description": "Referring to the category pill that is shown on videos that are entirely sponsor or entirely selfpromo on recommended videos, in searches or on the homepage."
+        "description": "Referring to the category pill that is shown on videos that are entirely sponor or entirely selfpromo on recommended videos, in searches or on the homepage."
     },
     "previewColor": {
         "message": "Culoare Nepredată",
@@ -876,13 +876,13 @@
         "message": "Solicitarea permisiunii a eșuat, ai dat clic pe refuz?"
     },
     "adblockerIssueWhitelist": {
-        "message": "Dacă nu puteți rezolva acest lucru, apoi dezactivați setarea 'Forțați verificarea canalului înainte de sărit', deoarece SponsorBlock nu poate prelua informațiile canalului pentru acest videoclip"
+        "message": "Dacă nu puteți rezolva acest lucru, apoi dezactivați setarea 'Forțați verificarea canalului înainte de sărit', deoarece SponorBlock nu poate prelua informațiile canalului pentru acest videoclip"
     },
     "forceChannelCheck": {
         "message": "Forțează verificarea canalului înainte de a sări"
     },
     "whatForceChannelCheck": {
-        "message": "În mod implicit, va sări peste sponsorizări chiar și înainte de a ști ce canal este. În mod implicit, unele segmente la începutul videoclipului poate fi omis din canalele excluse. Activând această opțiune va preveni asta, dar va face ca toate săriturile să aibă o ușoară întârziere, deoarece obținerea ID-ul canalului poate dura ceva timp. Această întărziere poate fi neobservată daca aveți internet rapid."
+        "message": "În mod implicit, va sări peste sponorizări chiar și înainte de a ști ce canal este. În mod implicit, unele segmente la începutul videoclipului poate fi omis din canalele excluse. Activând această opțiune va preveni asta, dar va face ca toate săriturile să aibă o ușoară întârziere, deoarece obținerea ID-ul canalului poate dura ceva timp. Această întărziere poate fi neobservată daca aveți internet rapid."
     },
     "forceChannelCheckPopup": {
         "message": "Consideră activarea \"Forțează verificarii canalului înainte de a sări\""
@@ -901,7 +901,7 @@
         "message": "Schimbare categorie"
     },
     "nonMusicCategoryOnMusic": {
-        "message": "Acest videoclip este categorisit ca muzică. Ești sigur ca există un sponsor? Dacă acesta este defapt un segment non-muzical, deschideți opțiunile extensiei și activați această categorie. Apoi, puteți trimite acest segment ca non-muzical în loc de sponsol. Vă rugăm să citiți ghidul dacă sunteți confuz."
+        "message": "Acest videoclip este categorisit ca muzică. Ești sigur ca există un sponor? Dacă acesta este defapt un segment non-muzical, deschideți opțiunile extensiei și activați această categorie. Apoi, puteți trimite acest segment ca non-muzical în loc de sponsol. Vă rugăm să citiți ghidul dacă sunteți confuz."
     },
     "multipleSegments": {
         "message": "Segmente Multiple"
@@ -967,7 +967,7 @@
         "message": "Modul întunecat pe pagina de opțiuni"
     },
     "helpPageThanksForInstalling": {
-        "message": "Vă mulțumim pentru instalarea SponsorBlock."
+        "message": "Vă mulțumim pentru instalarea SponorBlock."
     },
     "helpPageReviewOptions": {
         "message": "Vă rugăm să analizați opțiunile de mai jos"
@@ -991,7 +991,7 @@
         "message": "Trimiterea poate fi făcută fie în fereastra pop-up prin apăsarea butonului \"Segmentul Incepe Acum\", fie în video player-ul cu butoanele playerului."
     },
     "helpPageSubmitting2": {
-        "message": "Făcând clic pe butonul de redare indică începutul unui segment și apăsând pe pictograma de stop indică sfârșitul. Poți pregăti mai mulți sponsori înainte de a apasă pe butonul de încărcare va fi trimis. Click-ul pe gunoi se va șterge."
+        "message": "Făcând clic pe butonul de redare indică începutul unui segment și apăsând pe pictograma de stop indică sfârșitul. Poți pregăti mai mulți sponori înainte de a apasă pe butonul de încărcare va fi trimis. Click-ul pe gunoi se va șterge."
     },
     "Editing": {
         "message": "Editează"
@@ -1003,7 +1003,7 @@
         "message": "Acest lucru este prea lent"
     },
     "helpPageTooSlow1": {
-        "message": "Exista scurtături daca dorești sa le folosești. Apăsați tasta cu punct și virgulă pentru a indica începutul/sfârșitul unui segment de sponsor și faceți clic pe apostrof pentru a trimite. Acestea pot fi schimbate în opțiuni. Dacă nu utilizați QWERTY, probabil ar trebui să schimbați scurtăturile."
+        "message": "Exista scurtături daca dorești sa le folosești. Apăsați tasta cu punct și virgulă pentru a indica începutul/sfârșitul unui segment de sponor și faceți clic pe apostrof pentru a trimite. Acestea pot fi schimbate în opțiuni. Dacă nu utilizați QWERTY, probabil ar trebui să schimbați scurtăturile."
     },
     "helpPageCopyOfDatabase": {
         "message": "Pot obține o copie a bazei de date? Ce se întâmplă dacă dispari?"
@@ -1063,7 +1063,7 @@
         "message": "Folosește rotița mouse-ului în timp ce ești deasupra casetei de editare pentru a ajusta rapid timpul. Combinațiile dintre ctrl sau Shift pot fi folosite pentru a ajusta modificările."
     },
     "categoryPillNewFeature": {
-        "message": "Nou! Vezi când un videoclip este sponsorizat în întregime sau auto-promovat"
+        "message": "Nou! Vezi când un videoclip este sponorizat în întregime sau auto-promovat"
     },
     "dayAbbreviation": {
         "message": "zile",

@@ -1,1013 +1,1668 @@
 {
     "fullName": {
-        "message": "SponsorBlock για το YouTube - Παραλείπει Χορηγίες",
+        "message": "SponorBlock für YouTube - Überspringe gesponserte Videosegmente",
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Παράλειψη χορηγιών, έκκλησης συνδρομής και πολλά περισσότερα στα βίντεο του YouTube. Αναφέρετε χορηγίες σε βίντεο που βλέπετε για να κερδίσετε χρόνο στους υπολοίπους.",
+        "message": "Überspringe gesponserte Inhalte, Aufforderungen zum Interagieren und mehr in YouTube-Videos. Markiere Sponoren in Videos, um anderen die Zeit zu ersparen.",
         "description": "Description of the extension."
     },
     "400": {
-        "message": "Ο διακομιστής ανέφερε πως αυτό το αίτημα δεν είναι έγκυρο"
+        "message": "Der Server meldet, dass diese Anfrage ungültig war."
     },
     "429": {
-        "message": "Έχετε υποβάλει πολλά τμήματα χορηγιών για αυτό το βίντεο, είστε σίγουροι ότι υπάρχουν τόσα πολλά;"
+        "message": "Du hast zu viele Segmente für dieses Video eingereicht. Sind es wirklich so viele?"
     },
     "409": {
-        "message": "Αυτό έχει ήδη υποβληθεί στο παρελθόν"
+        "message": "Dieser Inhalt wurde bereits eingereicht."
     },
     "channelWhitelisted": {
-        "message": "Το κανάλι προστέθηκε στη λίστα αποδοχής!"
+        "message": "Der Kanal wurde auf die Whitelist gesetzt!"
     },
     "Segment": {
-        "message": "τμήμα"
+        "message": "Segment"
     },
     "Segments": {
-        "message": "τμήματα"
+        "message": "Segmente"
     },
     "SegmentsCap": {
-        "message": "Τμήματα"
+        "message": "Segmente"
     },
     "Chapters": {
-        "message": "Κεφάλαια"
+        "message": "Kapitel"
     },
     "renderAsChapters": {
-        "message": "Θεώρηση τμημάτων ως κεφάλαια",
+        "message": "Zeige Segmente als Kapitel",
         "description": "Refers to drawing segments on the YouTube seek bar as split up chapters, similar to the existing chapter system"
     },
+    "showSegmentNameInChapterBar": {
+        "message": "Aktuelles Segment neben der Videozeit anzeigen"
+    },
     "upvoteButtonInfo": {
-        "message": "Θετική ψήφος για αυτήν την υποβολή"
+        "message": "Diese Einreichung positiv bewerten"
     },
     "reportButtonTitle": {
-        "message": "Αναφορά"
+        "message": "Melden"
     },
     "reportButtonInfo": {
-        "message": "Αναφορά αυτής της υποβολής ως λανθασμένης."
+        "message": "Beitrag als unzulässig melden."
     },
     "Dismiss": {
-        "message": "Παράβλεψη"
+        "message": "Abbrechen"
     },
     "Loading": {
-        "message": "Φόρτωση…"
+        "message": "Lädt..."
     },
     "Hide": {
-        "message": "Να μην ξαναεμφανιστεί"
+        "message": "Verstecken"
     },
     "hitGoBack": {
-        "message": "Πατήστε αναίρεση παράλειψης για να επιστρέψετε όπου βρισκόσασταν."
+        "message": "Klicke auf \"Nicht überspringen\" um die Aktion rückgängig zu machen."
     },
     "unskip": {
-        "message": "Αναίρεση παράλειψης"
+        "message": "Nicht überspringen"
     },
     "reskip": {
-        "message": "Παράλειψη ξανά"
+        "message": "Nochmal überspringen"
     },
     "unmute": {
-        "message": "Αναίρεση σίγασης"
+        "message": "Ton an"
     },
     "paused": {
-        "message": "Σε παύση"
+        "message": "Pausiert"
     },
     "manualPaused": {
-        "message": "Λήξη Χρονομέτρου"
+        "message": "Timer angehalten"
     },
     "confirmMSG": {
-        "message": "Για να επεξεργαστείτε ή να διαγράψετε τα τμήματα ξεχωριστά, ανοίξτε το αναδυόμενο παράθυρο πατώντας το κουμπί πληροφορίες (i) ή πατώντας το εικονίδιο της επέκτασης στην πάνω δεξιά γωνία του προγράμματος περιήγησης σας."
+        "message": "Um einzelne Werte zu löschen oder zu ändern, klicke auf den Info-Knopf oder öffne die Erweiterungsübersicht, indem du das Erweiterungssymbol in der Ecke oben rechts anklickst."
     },
     "clearThis": {
-        "message": "Θέλετε σίγουρα να σβήσετε τη φόρμα υποβολής τμημάτων;\n\n"
+        "message": "Bist du sicher, dass du Folgendes löschen möchtest?\n\n"
     },
     "Unknown": {
-        "message": "Παρουσιάστηκε ένα σφάλμα κατά την υποβολή των τμημάτων χορηγιών, παρακαλώ προσπαθήστε ξανά αργότερα."
+        "message": "Dein Beitrag konnte nicht übertragen werden, bitte versuche es später erneut."
     },
     "sponsorFound": {
-        "message": "Υπάρχουν τμήματα στη βάση δεδομένων για αυτό το βίντεο!"
+        "message": "Die Datenbank enthält überspringbare Segmente für dieses Video!"
     },
     "sponsor404": {
-        "message": "Δε βρέθηκαν τμήματα στη βάση δεδομένων"
+        "message": "Keine Segmente gefunden"
     },
     "sponsorStart": {
-        "message": "Το τμήμα ξεκινάει εδώ"
+        "message": "Segment startet jetzt"
     },
     "sponsorEnd": {
-        "message": "Το τμήμα τελειώνει εδώ"
+        "message": "Segment endet jetzt"
     },
     "sponsorCancel": {
-        "message": "Ακύρωση δημιουργίας τμήματος"
+        "message": "Segmenterstellung abbrechen"
     },
     "noVideoID": {
-        "message": "Δε βρέθηκε βίντεο YouTube.\nΑν αυτό δεν είναι σωστό, παρακαλώ ανανεώστε την καρτέλα."
+        "message": "Kein YouTube-Video gefunden.\nWenn dies falsch ist, aktualisiere den Tab."
     },
     "refreshSegments": {
-        "message": "Ανανέωση των δεδομένων των τμημάτων"
+        "message": "Segmente aktualisieren"
     },
     "success": {
-        "message": "Επιτυχία!"
+        "message": "Erfolg!"
     },
     "voted": {
-        "message": "Ψηφίστηκε!"
+        "message": "Abgestimmt!"
     },
     "serverDown": {
-        "message": "Φαίνεται ότι ο διακομιστής έχει πέσει. Παρακαλώ επικοινωνήστε με τον προγραμματιστή αμέσως."
+        "message": "Der Server ist anscheinend offline. Bitte kontaktiere den Entwickler unverzüglich."
     },
     "connectionError": {
-        "message": "Παρουσιάστηκε σφάλμα σύνδεσης. Κωδικός σφάλματος: "
+        "message": "Ein Verbindungsfehler ist aufgetreten. Fehlermeldung: "
+    },
+    "segmentsStillLoading": {
+        "message": "Segmente werden noch geladen..."
     },
     "clearTimes": {
-        "message": "Καθαρισμός τμημάτων"
+        "message": "Alle Segmente löschen"
     },
     "openPopup": {
-        "message": "Εμφάνιση του αναδυόμενου παραθύρου του SponsorBlock"
+        "message": "SponsorBlock-Pop-up öffnen"
     },
     "closePopup": {
-        "message": "Κλείσιμο αναδυόμενου παραθύρου"
+        "message": "Pop-up schließen"
+    },
+    "closeIcon": {
+        "message": "Schließen-Symbol"
+    },
+    "OpenSubmissionMenu": {
+        "message": "Einreichungsmenü öffnen"
     },
     "sortSegments": {
-        "message": "Ταξινόμηση Τμημάτων"
+        "message": "Segmente sortieren"
     },
     "submitCheck": {
-        "message": "Είσαστε σίγουροι για την υποβολή σας;"
+        "message": "Bist du sicher, dass du dies übermitteln willst?"
     },
     "whitelistChannel": {
-        "message": "Λίστα αποδοχής καναλιών"
+        "message": "Kanal zur Whitelist hinzufügen"
     },
     "removeFromWhitelist": {
-        "message": "Αφαίρεση καναλιού από τη λίστα αποδοχής"
+        "message": "Kanal aus der Whitelist entfernen"
     },
     "voteOnTime": {
-        "message": "Ψηφίστε για κάποιο τμήμα"
+        "message": "Über ein Segment abstimmen"
     },
     "Submissions": {
-        "message": "Υποβολές"
+        "message": "Beiträge"
     },
     "savedPeopleFrom": {
-        "message": "Έχετε γλιτώσει τον κόσμο από "
+        "message": "Andere Nutzer bewahrt vor: "
     },
     "viewLeaderboard": {
-        "message": "Πίνακας βαθμολογίας"
+        "message": "Rangliste"
     },
     "recordTimesDescription": {
-        "message": "Υποβολή"
+        "message": "Senden"
     },
     "submissionEditHint": {
-        "message": "Η επεξεργασία τμήματος θα εμφανιστεί αφότου πατήσετε υποβολή",
+        "message": "Die Bearbeitung von Beiträgen wird angezeigt, nachdem du auf Senden klickst",
         "description": "Appears in the popup to inform them that editing has been moved to the video player."
     },
     "popupHint": {
-        "message": "Συμβουλή: Μπορείτε να ρυθμίσετε συντομεύσεις πλήκτρων για υποβολή στις ρυθμίσεις"
+        "message": "Tipp: Du kannst Tastenkombinationen in den Optionen festlegen"
     },
     "clearTimesButton": {
-        "message": "Σβήσιμο τμημάτων"
+        "message": "Zeiten löschen"
     },
     "Username": {
-        "message": "Όνομα χρήστη"
+        "message": "Benutzername"
     },
     "setUsername": {
-        "message": "Ορισμός ονόματος χρήστη"
+        "message": "Benutzernamen festlegen"
     },
     "copyPublicID": {
-        "message": "Αντιγραφή δημόσιου αναγνωριστικού χρήστη"
+        "message": "Öffentliche Benutzer-ID kopieren"
     },
     "copySegmentID": {
-        "message": "Αντιγραφή ταυτότητας τμήματος"
+        "message": "Segment-ID kopieren"
     },
     "hideThis": {
-        "message": "Απόκρυψη"
+        "message": "Verstecken"
     },
     "Options": {
-        "message": "Ρυθμίσεις"
+        "message": "Optionen"
     },
     "showButtons": {
-        "message": "Εμφάνιση Κουμπιών στην οθόνη αναπαραγωγής YouTube"
+        "message": "Knöpfe im YouTube-Videoplayer anzeigen"
     },
     "hideButtons": {
-        "message": "Απόκρυψη Κουμπιών από την οθόνη αναπαραγωγής YouTube"
+        "message": "Knöpfe im YouTube-Videoplayer deaktivieren"
     },
     "hideButtonsDescription": {
-        "message": "Αυτό αποκρύπτει τα κουμπιά που εμφανίζονται στο πρόγραμμα αναπαραγωγής YouTube ώστε να υποβάλετε τμήματα προς παράλειψη."
+        "message": "Versteckt die Schaltflächen im YouTube-Videoplayer, um Segmente einzusenden."
     },
     "showSkipButton": {
-        "message": "Διατήρηση του κουμπιού παράλειψης προς το κυριότερο περιεχόμενο του βίντεο στην οθόνη αναπαραγωγής"
+        "message": "Zum Highlight springen-Knopf im Player behalten"
     },
     "showInfoButton": {
-        "message": "Εμφάνιση κουμπιού «πληροφορίες» στο πρόγραμμα αναπαραγωγής YouTube"
+        "message": "Zeige Info-Knopf im Youtube-Videoplayer"
     },
     "hideInfoButton": {
-        "message": "Απόκρυψη κουμπιού «πληροφορίες» από το πρόγραμμα αναπαραγωγής YouTube"
+        "message": "Deaktiviere Info-Knopf im Youtube-Videoplayer"
     },
     "autoHideInfoButton": {
-        "message": "Αυτόματη απόκρυψη του κουμπιού «Πληροφορίες»"
+        "message": "Info-Button automatisch ausblenden"
     },
     "hideDeleteButton": {
-        "message": "Απόκρυψη κουμπιού «διαγραφή» από το πρόγραμμα αναπαραγωγής YouTube"
+        "message": "Deaktiviere den Löschen-Knopf im Youtube-Videoplayer"
     },
     "showDeleteButton": {
-        "message": "Εμφάνιση κουμπιού «διαγραφή» στο πρόγραμμα αναπαραγωγής YouTube"
+        "message": "Zeige den Löschen-Knopf im Youtube-Videoplayer"
     },
     "enableViewTracking": {
-        "message": "Ενεργοποίηση του μετρητή παραλείψεων"
+        "message": "Aktiviere das Zählen übersprungener Segmente"
     },
     "whatViewTracking": {
-        "message": "Αυτή η δυνατότητα ανιχνεύει ποια τμήματα έχετε παραλείψει, ώστε να ξέρουν εκείνοι που τα υπέβαλαν, πόσο έχουν βοηθήσει τους συνανθρώπους τους, και χρησιμοποιείται ως μέτρηση μαζί με τις θετικές ψήφους, ώστε να βεβαιωθεί η βάση δεδομένων πως δεν είναι ανεπιθύμητο τμήμα. Κάθε φορά που παραλείπετε κάποιο τμήμα ή επέκταση το στέλνει στον διακομιστή. Ελπίζουμε οι περισσότεροι χρήστες να μην αλλάξουν αυτή τη ρύθμιση, ώστε ο αριθμός μη προβολής τμημάτων να είναι ακριβής. :)"
+        "message": "Diese Funktion erfasst, welche Segmente du übersprungen hast, um andere Nutzer zu zeigen, wie hilfreich ihre Beiträge sind. Außerdem stellt dies zusammen mit positiven Bewertungen sicher, dass keine unerwünschten Inhalte in die Datenbank gelangen. Die Erweiterung sendet jedes Mal, wenn du ein Segment überspringst, eine Meldung an den Server. Hoffentlich verändern die meisten Nutzer diese Einstellung nicht, um unsere Statistik zu verbessern :)"
     },
     "enableViewTrackingInPrivate": {
-        "message": "Ενεργοποίηση του μετρητή παραλείψεων σε καρτέλες Ιδιωτικής/Ανώνυμης περιήγησης"
+        "message": "Aktiviere den Übersprungen Zähler in Privaten/Incognito Tabs"
     },
     "enableTrackDownvotes": {
-        "message": "Αποθήκευση καταψηφίσεων τμημάτων"
+        "message": "Speichere Downvotes von Segmenten"
     },
     "whatTrackDownvotes": {
-        "message": "Όποια τμήματα καταψηφίζετε θα παραμένουν κρυμμένα ακόμα και μετά από ανανέωση της σελίδας"
+        "message": "Alle Segmente, die du negativ bewertest, bleiben auch nach dem Aktualisieren der Seite verborgen"
     },
     "trackDownvotesWarning": {
-        "message": "Προειδοποίηση: Η απενεργοποίηση αυτής της επιλογής θα διαγράψει όλες τις προηγούμενες αποθηκευμένες καταψηφίσεις"
+        "message": "Warnung: Das Deaktivieren wird alle zuvor gespeicherten negativen Bewertungen löschen"
     },
     "enableQueryByHashPrefix": {
-        "message": "Αιτήματα μέσω προθέματος Hash"
+        "message": "Abfrage nach Hash-Präfix"
     },
     "whatQueryByHashPrefix": {
-        "message": "Αντί να ζητάτε τα τμήματα από τον διακομιστή μέσω ολόκληρης της ταυτότητας του βίντεο, στέλνονται μόνο οι πρώτοι 4 κομμένοι χαρακτήρες από την ταυτότητα του βίντεο. Ο διακομιστής στέλνει πίσω δεδομένα για όλα τα βίντεο με παρόμοιους κομμένους χαρακτήρες."
+        "message": "Anstatt Segmente mit der Video-ID vom Server anzufordern, werden die ersten 4 Zeichen des Hashs der Video-ID gesendet. Der Server sendet Daten für alle Videos mit ähnlichen Hashes zurück."
     },
     "enableRefetchWhenNotFound": {
-        "message": "Επανάληψη αναζήτησης τμημάτων σε νέα βίντεο"
+        "message": "Segmente bei neuen Videos erneut abrufen"
     },
     "whatRefetchWhenNotFound": {
-        "message": "Εάν το βίντεο είναι καινούργιο, και δεν έχουν βρεθεί τμήματα, θα συνεχιστεί η αναζήτηση κάθε μερικά λεπτά, ενώ το παρακολουθείτε."
+        "message": "Wenn das Video neu ist und keine Segmente gefunden wurden, wird während des Betrachtens alle paar Minuten erneut eine Anfrage gesendet."
+    },
+    "enableShowCategoryWithoutPermission": {
+        "message": "Zeige Kategorien im Einreichungsmenü auch ohne Einreichungsberechtigungen"
+    },
+    "whatShowCategoryWithoutPermission": {
+        "message": "Einige Kategorien erfordern eine Freigabe zur Einreichung aufgrund von Mindestanforderungen an die Reputation"
     },
     "showNotice": {
-        "message": "Επανεμφάνιση ειδοποιήσεων"
+        "message": "Hinweis erneut anzeigen"
     },
     "showSkipNotice": {
-        "message": "Εμφάνιση ειδοποιήσεων μετά την παράλειψη κάθε τμήματος"
+        "message": "Zeige Pop-up nach dem Überspringen eines Segments"
     },
     "showCategoryGuidelines": {
-        "message": "Εμφάνιση βοήθειας κατηγοριών"
+        "message": "Zeige Kategorien-Hilfe"
     },
     "noticeVisibilityMode0": {
-        "message": "Ειδοποιήσεις παράλειψης πλήρους μεγέθους"
+        "message": "Skip-Meldung in voller größe"
     },
     "noticeVisibilityMode1": {
-        "message": "Μικρές ειδοποιήσεις αυτόματης παράλειψης"
+        "message": "Kleine Skip-Meldung für Auto-Skips"
     },
     "noticeVisibilityMode2": {
-        "message": "Να είναι όλες μικρές ειδοποιήσεις"
+        "message": "Alles kleine Skip-Meldungen"
     },
     "noticeVisibilityMode3": {
-        "message": "Ξεθωριασμένες ειδοποιήσεις αυτόματης παράλειψης"
+        "message": "Verblasste Skip-Meldung für Auto-Skip"
     },
     "noticeVisibilityMode4": {
-        "message": "Να είναι όλες ξεθωριασμένες ειδοποιήσεις"
+        "message": "Alles verblasste Skip-Meldungen"
     },
     "longDescription": {
-        "message": "Το SponsorBlock σας επιτρέπει να παραλείψετε χορηγίες, εισαγωγές, επίλογους, υπενθυμίσεις εγγραφής, και άλλα ενοχλητικά μέρη των βίντεο YouTube. Το SponsorBlock είναι μια επέκταση που τροφοδοτείται, από τους ίδιους τους χρήστες, επιτρέπει στον κάθε έναν να υποβάλει το πότε ξεκινούν και πότε τελειώνουν τμήματα χορηγιών των βίντεο YouTube. Μόλις κάποιος χρήστης υποβάλει αυτή τη πληροφορία, ο οποιοσδήποτε άλλος που έχει αυτήν την επέκταση μπορεί να παραλείψει όλα αυτά τα ενοχλητικά τμήματα χορηγιών. Μπορείτε επίσης να παραλείψετε τμήματα, που δεν περιέχουν μουσική, σε μουσικά βίντεο.",
+        "message": "SponorBlock lässt dich gesponserte Videosegmente, Intros, Outros, Interaktions-Erinnerungen, Musikvideoteile ohne Musik und andere nervige Teile von YouTube-Videos überspringen. SponorBlock ist eine crowdsourced Browser-Erweiterung, in der jeder die Start- und Endzeit gesponserter Videosegmente und anderer Segmente von YouTube-Videos einreicht. Sobald eine Person diese Informationen einreicht, überspringen alle anderen mit dieser Erweiterung das gesponserte Segment.",
         "description": "Full description of the extension on the store pages."
     },
     "website": {
-        "message": "Ιστοσελίδα",
+        "message": "Webseite",
         "description": "Used on Firefox Store Page"
     },
     "sourceCode": {
-        "message": "Πηγαίος Κώδικας",
+        "message": "Quellcode",
         "description": "Used on Firefox Store Page"
     },
     "noticeUpdate": {
-        "message": "Οι ειδοποιήσεις αναβαθμίστηκαν!",
+        "message": "Die Benachrichtigung wurde verbessert!",
         "description": "The first line of the message displayed after the notice was upgraded."
     },
     "noticeUpdate2": {
-        "message": "Εάν δεν σας αρέσουν, πατήστε το κουμπί «Να μην ξαναεμφανιστεί».",
+        "message": "Falls es dir trotzdem nicht gefällt, drücke auf \"Verstecken\".",
         "description": "The second line of the message displayed after the notice was upgraded."
     },
     "setSkipShortcut": {
-        "message": "Παράλειψη τμήματος",
+        "message": "Segment überspringen",
         "description": "Keybind label"
     },
     "setStartSponsorShortcut": {
-        "message": "Έναρξη/Τέλος τμήματος",
+        "message": "Starte/Stoppe Segment",
         "description": "Keybind label"
     },
     "setSubmitKeybind": {
-        "message": "Υποβολή Τμημάτων",
+        "message": "Segmente einreichen",
+        "description": "Keybind label"
+    },
+    "nextChapterKeybind": {
+        "message": "Nächstes Kapitel",
+        "description": "Keybind label"
+    },
+    "previousChapterKeybind": {
+        "message": "Vorheriges Kapitel",
         "description": "Keybind label"
     },
     "keybindDescription": {
-        "message": "Επιλέξτε ένα πλήκτρο πατώντας το και επιλέξτε όποιο πρόσθετο πλήκτρο ελέγχου επιθυμείτε."
+        "message": "Wähle eine Taste durch Eingeben aus, und wähle (optional) gewünschte Hilfstasten."
     },
     "0": {
-        "message": "Λήξη χρονικού ορίου σύνδεσης. Παρακαλώ ελέγξτε ότι η σύνδεσή σας με το διαδίκτυο λειτουργεί, αλλιώς ο διακομιστής μπορεί να υπερφορτώθηκε ή να έπεσε."
+        "message": "Zeitüberschreibung. Überprüfe deine Internetverbindung. Bist du mit dem Internet verbunden, ist der Server wahrscheinlich offline."
     },
     "disableSkipping": {
-        "message": "Η παράλειψη είναι ενεργή"
+        "message": "Überspringen ist aktiviert"
     },
     "enableSkipping": {
-        "message": "Η παράλειψη είναι ανενεργή"
+        "message": "Überspringen ist deaktiviert"
     },
     "yourWork": {
-        "message": "Η δουλειά σας",
+        "message": "Deine Statistik",
         "description": "Used to describe the section that will show you the statistics from your submissions."
     },
     "502": {
-        "message": "Ο διακομιστής φαίνεται ότι έχει υπερφορτωθεί. Δοκιμάστε ξανά σε μερικά δευτερόλεπτα."
+        "message": "Der Server ist wahrescheinlich überlastet. Probiere es später nochmal."
     },
     "errorCode": {
-        "message": "Κωδικός σφάλματος: "
+        "message": "Fehlermeldung: "
     },
     "skip": {
-        "message": "Παράλειψη"
+        "message": "Überspringen"
     },
     "mute": {
-        "message": "Σίγαση"
+        "message": "Ton aus"
     },
     "full": {
-        "message": "Όλο το βίντεο",
-        "description": "Used for the name of the option to label an entire video as sponsor or self promotion."
+        "message": "Vollständiges Video",
+        "description": "Used for the name of the option to label an entire video as sponor or self promotion."
     },
     "skip_category": {
-        "message": "Παράλειψη {0};"
+        "message": "{0} überspringen?"
     },
     "mute_category": {
-        "message": "Σίγαση {0};"
+        "message": "{0} stummschalten?"
     },
     "skip_to_category": {
-        "message": "Παράλειψη προς το σημείο «{0}»;",
+        "message": "Zu {0} springen?",
         "description": "Used for skipping to things (Skip to Highlight)"
     },
     "skipped": {
-        "message": "Παραλείφθηκε «{0}»",
-        "description": "Example: Sponsor Skipped"
+        "message": "{0} übersprungen",
+        "description": "Example: Sponor Skipped"
     },
     "muted": {
-        "message": "Σίγαση {0}",
-        "description": "Example: Sponsor Muted"
+        "message": "{0} stummgeschaltet",
+        "description": "Example: Sponor Muted"
     },
     "skipped_to_category": {
-        "message": "Παραλείφθηκε προς το σημείο «{0}»",
+        "message": "Zu {0} gesprungen",
         "description": "Used for skipping to things (Skipped to Highlight)"
     },
     "disableAutoSkip": {
-        "message": "Απενεργοποίηση Αυτόματης Παράλειψης"
+        "message": "Automatisches Überspringen deaktivieren"
     },
     "enableAutoSkip": {
-        "message": "Ενεργοποίηση Αυτόματης Παράλειψης"
+        "message": "Automatisches Überspringen aktivieren"
     },
     "audioNotification": {
-        "message": "Ηχητική ειδοποίηση κατά την παράληψη"
+        "message": "Audio-Benachrichtigung beim Überspringen"
     },
     "audioNotificationDescription": {
-        "message": "Οι ειδοποιήσεις μετά την παράλειψη κάθε τμήματος θα αναπαράγουν ήχο. Εάν είναι ανενεργή αυτή η επιλογή εκτός αν η αυτόματη παράλειψη είναι ανενεργή."
+        "message": "Es wird ein Ton abgespielt, wenn ein Segment übersprungen wird. Wenn deaktiviert (oder wenn Automatisches-Überspringen deaktiviert ist), wird kein Ton abgespielt."
     },
     "showTimeWithSkips": {
-        "message": "Εμφάνιση χρόνου συμπεριλαμβάνοντας τις παραλείψεις"
+        "message": "Videodauer nach Abzug der überspringbaren Videosegmente anzeigen"
     },
     "showTimeWithSkipsDescription": {
-        "message": "Αυτός ο χρόνος εμφανίζεται σε παρενθέσεις δίπλα από τον τρέχων χρόνο που είναι κάτω από την μπάρα χρόνου. Αυτό δείχνει την συνολική διάρκεια του βίντεο πλην οποιουδήποτε τμήματος. Αυτό περιλαμβάνει και τα τμήματα που εμφανίζονται μόνο στην μπάρα χρόνου."
+        "message": "Diese Zeit wird in Klammern neben der kompletten Videodauer im YouTube-Videoplayer angezeigt. Dies betrifft auch Segmente, die als \"In Suchleiste anzeigen\" markiert sind."
     },
     "youHaveSkipped": {
-        "message": "Έχετε παραλείψει "
+        "message": "Du übersprangst "
     },
     "minLower": {
-        "message": "λεπτό"
+        "message": "Minute"
     },
     "minsLower": {
-        "message": "λεπτά"
+        "message": "Minuten"
     },
     "hourLower": {
-        "message": "ώρα"
+        "message": "Stunde"
     },
     "hoursLower": {
-        "message": "ώρες"
+        "message": "Stunden"
     },
     "youHaveSavedTime": {
-        "message": "Έχετε γλιτώσει τον κόσμο από",
+        "message": "Du erspartest anderen",
         "description": "You've saved people from 887,362 segments (236d 15h 5.3 minutes of their lives)."
     },
     "youHaveSavedTimeEnd": {
-        "message": " της ζωής τους",
+        "message": " ihres Lebens",
         "description": "You've saved people from 887,362 segments (236d 15h 5.3 minutes of their lives)."
     },
     "statusReminder": {
-        "message": "Ελέγξτε το status.sponsor.ajay.app για την κατάσταση διακομιστή."
+        "message": "Prüfe status.sponsor.ajay.app für den Serverstatus."
+    },
+    "changeUserID": {
+        "message": "Private Benutzer-ID importieren/exportieren"
     },
     "whatChangeUserID": {
-        "message": "Κρατείστε το μυστικό. Αυτό είναι σαν ένα κωδικό πρόσβασης όπου δε θα έπρεπε να μοιράζεστε με κανένα. Εάν το αποκτήσει κάποιος, μπορεί να σας υποδυθεί. Εάν ψάχνετε για τη δημόσια ταυτότητα χρήστη σας, πατήστε πάνω στο αναδυόμενο εικονίδιο πρόχειρου."
+        "message": "Dies sollte geheim gehalten und wie ein Passwort behandelt, also mit niemandem geteilt werden. Andere könnten sich damit als dich ausgeben. Wenn du nach deiner öffentlichen Profilkennung suchst, klicke auf das „Kopieren“-Symbol neben deinem Anmeldenamen im Pop-up."
+    },
+    "setUserID": {
+        "message": "Private Benutzer-ID festlegen"
+    },
+    "userIDChangeWarning": {
+        "message": "Warnung: Das Ändern deiner privaten Benutzer-ID ist permanent. Bist du dir sicher, dass du das tun möchtest? Zur Sicherheit solltest du vorher ein Backup deiner alten ID erstellen."
     },
     "createdBy": {
-        "message": "Δημιουργήθηκε από"
+        "message": "Erstellt von"
     },
     "supportOtherSites": {
-        "message": "Υποστήριξη 3των ιστοσελίδων τύπου YouTube"
+        "message": "Unterstütze Drittanbieter YouTube-Seiten"
+    },
+    "supportOtherSitesDescription": {
+        "message": "Unterstütze YouTube-Clients von Drittanbietern. Um die Unterstützung zu aktivieren, müssen Sie die zusätzlichen Berechtigungen akzeptieren.",
+        "description": "This replaces the 'supports Invidious' option because it now works on other YouTube sites such as Cloudtube"
     },
     "supportedSites": {
-        "message": "Υποστηριζόμενες Ιστοσελίδες: "
+        "message": "Unterstützte Seiten: "
     },
     "optionsInfo": {
-        "message": "Ενεργοποίηση υποστήριξης «Invidious», απενεργοποίηση αυτόματης παράλειψης, απόκρυψη κουμπιών και άλλα."
+        "message": "Zu überspringende Kategorien auswählen, automatisches Überspringen, Tasten ein- & ausblenden und noch viel mehr."
     },
     "addInvidiousInstance": {
-        "message": "Προσθήκη 3ου πελάτη συνεδρίας"
+        "message": "Client-Instanz eines Drittanbieters hinzufügen"
     },
     "addInvidiousInstanceDescription": {
-        "message": "Προσθέστε μια προσαρμοσμένη συνεδρία. Αυτό πρέπει να είναι μορφοποιημένο MONO με την διεύθυνση. Για παράδειγμα: invidious.ajay.app"
+        "message": "Füge eine benutzerdefinierte Invidious-Instanz hinzu. Diese darf nur den Domain-Teil beinhalten. Beispiel: \"invidious.ajay.app\""
     },
     "add": {
-        "message": "Προσθήκη"
+        "message": "Hinzufügen"
     },
     "addInvidiousInstanceError": {
-        "message": "Μη έγκυρη διεύθυνση. Θα πρέπει να περιλαμβάνεται ΜΟΝΟ αυτό το μέρος της διεύθυνσης.\nΓια παράδειγμα: invidious.ajay.app"
+        "message": "Dies ist eine ungültige Domain. Dies soll NUR den Domain-Teil beinhalten. Beispiel: invidious.ajay.app"
     },
     "resetInvidiousInstance": {
-        "message": "Επαναφορά Λίστας «Invidious»"
+        "message": "Invidious-Instanzliste zurücksetzen"
     },
     "resetInvidiousInstanceAlert": {
-        "message": "Πρόκειται να επαναφέρετε τη λίστα «Invidious»"
+        "message": "Du bist dabei, die Liste der Invidious-Instanzen zurückzusetzen"
     },
     "currentInstances": {
-        "message": "Τρέχουσες Συνεδρίες:"
+        "message": "Aktuelle Instanzen:"
     },
     "minDuration": {
-        "message": "Ελάχιστη διάρκεια (σε δευτερόλεπτα):"
+        "message": "Minimale Dauer (Sekunden):"
     },
     "minDurationDescription": {
-        "message": "Τμήματα μικρότερα από την καθορισμένη τιμή δε θα παραλείπονται ή δε θα εμφανίζονται στην οθόνη αναπαραγωγής."
+        "message": "Videosegmente, die kürzer als der festgelegte Wert sind, werden nicht übersprungen oder im Player angezeigt."
+    },
+    "enableManualSkipOnFullVideo": {
+        "message": "Verwende manuelles Überspringen, wenn ein vollständiges Video Label existiert"
+    },
+    "whatManualSkipOnFullVideo": {
+        "message": "Für Personen, die das Video ohne Unterbrechungen schauen wollen, wenn es vollständig gesponsert oder Eigenwerbung ist."
     },
     "skipNoticeDuration": {
-        "message": "Διάρκεια ειδοποίησης παράλειψης (σε δευτερόλεπτα):"
+        "message": "Dauer des Überspringen-Hinweises (Sekunden):"
     },
     "skipNoticeDurationDescription": {
-        "message": "Η ειδοποίηση παράλειψης θα παραμείνει στην οθόνη για τουλάχιστον τόσα δευτερόλεπτα. Στη μη αυτόματη παράκαμψη, μπορεί να είναι ορατή για μεγαλύτερο χρονικό διάστημα."
+        "message": "Die überspringen Benachrichtigung wird mindestens für so viele Sekunden angezeigt. Für manuelles Überspringen kann sie länger sichtbar sein."
     },
     "shortCheck": {
-        "message": "Η ακόλουθη υποβολή είναι μικρότερη από την επιλεγμένη ελάχιστη διάρκεια. Αυτό θα μπορούσε να σημαίνει ότι αυτό το τμήμα έχει ήδη υποβληθεί, και απλά αγνοείται λόγω αυτής της επιλογής. Είστε σίγουροι ότι θα θέλατε να το υποβάλετε;"
+        "message": "Die folgende Einsendung ist kürzer als deine Mindestdauer. Das könnte bedeuten, dass dieses Videosegment bereits eingereicht wurde und aufgrund dieser Option einfach ignoriert wird. Bist du dir sicher, dass du es übermitteln möchtest?"
     },
     "liveOrPremiere": {
-        "message": "Η υποβολή σε μια ζωντανή μετάδοση σε εξέλιξη ή σε μια πρεμιέρα δεν επιτρέπεται. Παρακαλώ περιμένετε μέχρι να τελειώσει, στην συνέχεια ανανεώστε την σελίδα και επαληθεύστε ότι τα τμήματα είναι έγκυρα."
+        "message": "Das Einreichen eines aktiven Livestreams oder Premiere ist nicht erlaubt. Bitte warte bis es zu ende ist, lade die Seite neu und überprüfe, dass die Segmente noch immer korrekt sind."
     },
     "showUploadButton": {
-        "message": "Εμφάνιση κουμπιού υποβολής"
+        "message": "Upload-Knopf anzeigen"
     },
     "customServerAddress": {
-        "message": "Διεύθυνση Διακομιστή SponsorBlock"
+        "message": "SponorBlock Serveradresse"
     },
     "customServerAddressDescription": {
-        "message": "Η διεύθυνση που χρησιμοποιείται για την επικοινωνία με τον διακομιστή του SponsorBlock. Εάν δε διαθέτετε το δικό σας διακομιστή, αυτή η επιλογή δεν πρέπει να αλλάξει."
+        "message": "Die Adresse die SponorBlock verwendet um Anfragen an den Server zu senden. Solange du keine eigene Serverinstanz hast, sollte das nicht geändert werden."
+    },
+    "dataFetchingServerAddress": {
+        "message": "Server-Adresse für Datenabfrage"
+    },
+    "dataFetchingServerAddressDescription": {
+        "message": "Die Adresse, welche für Anfragen an den Abrufserver verwendet wird.\nDiese sollte nicht geändert werden, außer du hast deine eigene Serverinstanz."
+    },
+    "thumbnailCacheServerAddress": {
+        "message": "Thumbnail Cache Server-Adresse"
     },
     "save": {
-        "message": "Αποθήκευση"
+        "message": "Speichern"
     },
     "reset": {
-        "message": "Επαναφορά"
+        "message": "Zurücksetzen"
     },
     "customAddressError": {
-        "message": "Η διεύθυνση δεν έχει τη σωστή μορφή. Παρακαλώ ελέγξτε ότι έχετε http:// ή https:// στην αρχή της χωρίς κάθετους στο τέλος."
+        "message": "Die Adresse sieht nicht richtig aus. Bitte vergewisser dich, dass entweder \"http://\" oder \"https://\" am Anfang steht und keinen abschließenden Schrägstrich am Ende."
     },
     "areYouSureReset": {
-        "message": "Είστε σίγουροι ότι θέλετε να το επαναφέρετε;"
+        "message": "Bist du dir sicher, dass du das zurücksetzen möchtest?"
     },
     "mobileUpdateInfo": {
-        "message": "Το m.youtube.com υποστηρίζεται πλέον"
+        "message": "https://m.youtube.com wird jetzt unterstützt"
     },
     "exportOptions": {
-        "message": "Εισαγωγή/Εξαγωγή όλων των ρυθμίσεων"
+        "message": "Alle Einstellungen importieren/exportieren"
     },
     "exportOptionsCopy": {
-        "message": "Επεξεργασία/αντιγραφή"
+        "message": "Bearbeiten/Kopieren"
     },
     "exportOptionsDownload": {
-        "message": "Αποθήκευση σε αρχείο"
+        "message": "Als Datei speichern"
     },
     "exportOptionsUpload": {
-        "message": "Φόρτωση από αρχείο"
+        "message": "Aus Datei laden"
+    },
+    "whatExportOptions": {
+        "message": "Dies ist deine gesamte Konfiguration in JSON. Sie enthält deine private Benutzer-ID, stelle also sicher, sie nicht mit jedem zu teilen."
     },
     "setOptions": {
-        "message": "Ορισμός Επιλογών"
+        "message": "Optionen ändern"
     },
     "exportOptionsWarning": {
-        "message": "Προσοχή: Η αλλαγή των επιλογών είναι μόνιμη και μπορεί να χαλάσει την εγκατάσταση σας. Είσαστε σίγουροι ότι θέλετε να προχωρήσετε; Σιγουρευτείτε ότι έχετε δημιουργήσει αντίγραφο ασφαλείας για καλό και για κακό."
+        "message": "Warnung: Das Ändern der Optionen ist permanent und kann deine Installation beschädigen. Bist du dir sicher, dass du das tun willst? Stelle sicher, dass du eine Sicherheitskopie deiner alten Optionen machst."
     },
     "incorrectlyFormattedOptions": {
-        "message": "Αυτό το JSON δεν έχει μορφοποιηθεί σωστά. Οι ρυθμίσεις σας δεν έχουν αλλάξει."
+        "message": "Dieses JSON ist nicht korrekt formatiert und kann daher nicht geladen werden. Es wurden keine Einstellungen geändert."
     },
     "confirmNoticeTitle": {
-        "message": "Υποβολή Τμήματος"
+        "message": "Segment übermitteln"
     },
     "submit": {
-        "message": "Υποβολή"
+        "message": "Übermitteln"
     },
     "cancel": {
-        "message": "Ακύρωση"
+        "message": "Abbrechen"
     },
     "delete": {
-        "message": "Διαγραφή"
+        "message": "Löschen"
     },
     "preview": {
-        "message": "Προεπισκόπηση"
+        "message": "Vorschau"
     },
     "unsubmitted": {
-        "message": "Μη Υποβληθέντα"
+        "message": "Nicht eingereicht"
     },
     "inspect": {
-        "message": "Επιθεώρηση"
+        "message": "Überprüfen"
     },
     "edit": {
-        "message": "Επεξεργασία"
+        "message": "Bearbeiten"
     },
     "copyDebugInformation": {
-        "message": "Αντιγραφή πληροφοριών αντιμετώπισης προβλημάτων στο πρόχειρο"
+        "message": "Debug-Informationen in Zwischenablage kopieren"
     },
     "copyDebugInformationFailed": {
-        "message": "Αδυναμία εγγραφής στο πρόχειρο"
+        "message": "Fehler beim Kopieren in die Zwischenablage"
     },
     "copyDebugInformationOptions": {
-        "message": "Αντιγράφει πληροφορίες αντιμετώπισης προβλημάτων στο πρόχειρο, ώστε να μπορέσετε να τις στείλετε στον προγραμματιστή όταν αναφέρετε κάποιο σφάλμα / όταν ο προγραμματιστής σας το ζητήσει. Ευαίσθητες πληροφορίες όπως η ταυτότητα χρήστη σας, η λίστα αποδοχής καναλιών και η προσαρμοσμένη διεύθυνση διακομιστή έχουν αφαιρεθεί. Αλλά περιέχει πληροφορίες για τον περιηγητή ιστού σας, τον τύπο δυσκευής, το λειτουργικό σύστημα, και τον αριθμό έκδοσης της επέκτασης. "
+        "message": "Kopiert Informationen in die Zwischenablage, welche einem Entwickler gegebenenfalls (z. B. um einen Fehler zu melden) zur Verfügung gestellt werden können. Personenbezogene Daten wie die Benutzer-ID, Kanäle auf der Whitelist und die benutzerdefinierte Serveradresse wurden entfernt. Die Debug-Informationen enthalten jedoch unter anderem den Useragent, den Browser, das Betriebssystem und die Versionsnummer der Erweiterung. "
     },
     "copyDebugInformationComplete": {
-        "message": "Οι πληροφορίες εντοπισμού σφαλμάτων έχουν αντιγραφεί στο πρόχειρο. Μη διστάσετε να αφαιρέσετε οποιαδήποτε πληροφορία που προτιμάτε να μη μοιραστείτε. Αποθηκεύστε τες σε ένα αρχείο κειμένου ή επικολλήστε στην αναφορά σφάλματός σας."
+        "message": "Die Debug-Informationen wurden in die Zwischenablage kopiert. Du kannst alle Informationen entfernen, die du nicht teilen möchtest. Verwende einen Texteditor um die Informationen in einer Textdatei zu speichern (um diese ggf. einem Fehlerbericht hinzuzufügen)."
     },
     "keyAlreadyUsed": {
-        "message": "Αυτό το πλήκτρο έχει οριστεί ως συντόμευση για άλλη ενέργεια. Παρακαλώ επιλέξτε ένα άλλο πλήκτρο."
+        "message": "Diese Verknüpfung ist an eine andere Aktion gebunden. Bitte wähle eine andere."
     },
     "to": {
-        "message": "έως",
+        "message": "bis",
         "description": "Used between segments. Example: 1:20 to 1:30"
     },
+    "CopiedExclamation": {
+        "message": "Kopiert!",
+        "description": "Used after something has been copied to the clipboard. Example: 'Copied!'"
+    },
     "generic_guideline1": {
-        "message": "Συμπερίληψη τμημάτων μεταβάσεων"
+        "message": "Fließende Übergänge einbeziehen"
     },
     "generic_guideline2": {
-        "message": "Ροή περιεχομένου σαν να μην υπήρξε ποτέ παράλειψη"
+        "message": "Spielt, als ob nichts übersprungen worden wäre"
     },
     "category_sponsor": {
-        "message": "Χορηγία"
+        "message": "Gesponserte Videosegmente"
     },
     "category_sponsor_description": {
-        "message": "Προώθηση επί πληρωμή, παραπομπές επί πληρωμή και άμεσες διαφημίσεις. Όχι, για προσωπική προώθηση ή δωρεάν αναφορές σε δημιουργούς/ιστοσελίδες/προϊόντα που τους αρέσουν."
+        "message": "Bezahlte Werbung, bezahlte Empfehlungen und direkte Werbung, nicht für Eigenwerbung, kostenlose Fremdwerbung oder Empfehlungen für Anlässe/Personen/Webseiten/Produkte."
     },
     "category_sponsor_guideline1": {
-        "message": "Προώθηση επί πληρωμή"
+        "message": "Bezahlte Werbung"
     },
     "category_sponsor_guideline2": {
-        "message": "Όχι για δωρεές ή προσαρμοσμένα προϊόντα"
+        "message": "Nicht für Spenden oder eigene Fanartikel"
     },
     "category_selfpromo": {
-        "message": "Αφιλοκέρδεια/Προσωπική Προώθηση"
+        "message": "Unbezahlt/​Eigenwerbung"
     },
     "category_selfpromo_description": {
-        "message": "Παρόμοιο με τη «χορηγία» αλλά για μη κερδοσκοπικό σκοπό ή για προσωπική προώθηση. Αυτό συμπεριλαμβάνει τμήματα από εμπορεύματα, δωρεές, ή πληροφορίες σχετικές με το ποιους συνεργάστηκαν."
+        "message": "Ähnlich wie \"Gesponsorte Videosegmente\", jedoch für unbezahlte oder Eigenwerbung. Dies beinhaltet Bereiche über Merchandise, Spenden, oder Informationen darüber, mit wem zusammengearbeitet wurde."
     },
     "category_selfpromo_guideline1": {
-        "message": "Δωρεές, συνδρομές και προσαρμοσμένα προϊόντα"
+        "message": "Spenden, Mitgliedschaften und eigene Fanartikel"
     },
     "category_selfpromo_guideline2": {
-        "message": "Δωρεάν αναφορές που δεν προστίθενται στο βίντεο"
+        "message": "Unbezahlte Erwähnungen, die nicht zum Video beitragen"
     },
     "category_selfpromo_guideline3": {
-        "message": "Όχι για προϊόντα ή ρουχισμό που έχει κατασκευαστεί από αλυσίδες επιχειρήσεων"
+        "message": "Nicht für Produkte und Merch von Firmen"
     },
     "category_exclusive_access": {
-        "message": "Αποκλειστική Πρόσβαση"
+        "message": "Exklusiver Zugriff"
     },
     "category_exclusive_access_description": {
-        "message": "Μόνο για χαρακτηρισμό ολοκλήρου του βίντεο. Χρησιμοποιείται όταν ένα βίντεο παρουσιάζει ένα προϊόν, υπηρεσία, ή τοποθεσία αποκλειστικής ή δωρεάν πρόσβασής τους."
+        "message": "Nur für das Kennzeichnen ganzer Videos. Wird verwendet, wenn ein Video ein Produkt, eine Dienstleistung oder einen Ort präsentiert, zu welchem sie freien oder subventionierten Zugriff erhalten haben."
     },
     "category_exclusive_access_pill": {
-        "message": "Αυτό το βίντεο παρουσιάζει ένα προϊόν, υπηρεσία, ή τοποθεσία αποκλειστικής ή δωρεάν πρόσβασής τους",
+        "message": "Dieses Video präsentiert ein Produkt, eine Dienstleistung oder einen Ort, zu welchem sie freien oder subventionierten Zugriff erhalten haben",
         "description": "Short description for this category"
     },
     "category_exclusive_access_guideline1": {
-        "message": "Ολόκληρο το βίντεο παρουσιάζει κάτι με δωρεάν ή επιδοτούμενη πρόσβαση"
+        "message": "Das gesamte Video zeigt etwas mit kostenlosem oder subventioniertem Zugang"
     },
     "category_interaction": {
-        "message": "Υπενθύμιση Αλληλεπίδρασης (Εγγραφή)"
+        "message": "Interaktions-Erinnerungen (Abonnieren, etc.)"
     },
     "category_interaction_description": {
-        "message": "Όταν υπάρχει μια σύντομη υπενθύμιση για να προσθέσετε το βίντεο στα βίντεο που σας αρέσουν, να εγγραφείτε ή να τους ακολουθήσετε στη μέση του περιεχομένου. Εάν διαρκεί για αρκετή ώρα, τότε αυτό περιλαμβάνεται στη κατηγορία «προσωπική προώθηση»."
+        "message": "Wenn es eine kurze Erinnerung zum \"Daumen hoch\" geben, Abonnieren, oder Folgen in der Mitte des Inhalts gibt. Wenn es lang ist oder um etwas Bestimmtes geht, sollte es stattdessen unter \"Unbezahlt/Eigenwerbung\" sein."
     },
     "category_interaction_guideline1": {
-        "message": "Σύντομες υπενθυμίσεις εγγραφής, μου αρέσει και ακολούθησης"
+        "message": "Kurze Erinnerungen zum Liken, Abonnieren oder Folgen"
     },
     "category_interaction_guideline2": {
-        "message": "Περιλαμβάνει έμμεσες υπενθυμίσεις για σχόλια"
+        "message": "Enthält indirekte Erinnerungen zum Kommentieren"
     },
     "category_interaction_guideline3": {
-        "message": "Όχι για γενικότερες προωθήσεις, μόνο για εκκλήσεις βοήθειας"
+        "message": "Nicht für allgemeine Werbung, nur Aufruf zum Handeln"
     },
     "category_interaction_short": {
-        "message": "Υπενθύμιση Αλληλεπίδρασης"
+        "message": "Interaktions-Erinnerung"
     },
     "category_intro": {
-        "message": "Παύση/Εισαγωγή με Animation"
+        "message": "Unterbrechung/Intro-Animation"
     },
     "category_intro_description": {
-        "message": "Ένα διάστημα χωρίς ουσιαστικό περιεχόμενο. Θα μπορούσε να είναι κάποια παύση, στατική εικόνα, επαναλαμβανόμενο animation. Δεν πρέπει να επιλέγεται για μεταβάσεις που περιέχουν πληροφορίες."
+        "message": "Ein Videosegment ohne richtigen Inhalt. Kann eine Pause, ein Standbild oder eine sich wiederholende Animation sein. Dies sollte nicht für Übergänge verwendet werden, die Informationen enthalten."
     },
     "category_intro_short": {
-        "message": "Διάλειμμα"
+        "message": "Unterbrechung"
     },
     "category_intro_guideline1": {
-        "message": "Χρονικό διάστημα χωρίς ουσιαστικό περιεχόμενο"
+        "message": "Intervall ohne tatsächlichen Inhalt"
     },
     "category_intro_guideline2": {
-        "message": "Όχι για μεταβάσεις που συμπεριλαμβάνουν πληροφορίες"
+        "message": "Nicht für Übergänge mit Informationen"
     },
     "category_outro": {
-        "message": "Προτεινόμενα βίντεο καναλιών/Εύσημα"
+        "message": "Endkarten/Quellen/Anerkennungen"
     },
     "category_outro_description": {
-        "message": "Όταν εμφανίζονται τα εύσημα ή τα προτεινόμενα βίντεο των καναλιών. Όχι, για επίλογους που περιέχουν πληροφορίες."
+        "message": "Credits oder wenn die YouTube-Endkarten erscheinen. Nicht für videobeendende Schlussfolgerungen mit Informationen."
     },
     "category_outro_guideline1": {
-        "message": "Μη συμπερίληψη περιεχομένου, ακόμα και αν τα προτεινόμενα βίντεο βρίσκονται στην οθόνη"
+        "message": "Enthalten keinen Inhalt, selbst wenn Endcards zu sehen sind"
     },
     "category_preview": {
-        "message": "Προεπισκόπηση/Αναθεώρηση"
+        "message": "Vorschau/Zusammenfassung"
+    },
+    "category_preview_description": {
+        "message": "Sammlung von Clips, die zeigen, was in diesem Video oder anderen Videos in einer Serie kommen wird, wo alle Informationen später im Video wiederholt werden."
     },
     "category_preview_guideline1": {
-        "message": "Κλιπ που εμφανίζονται μετά, ή σε μελλοντικά βίντεο"
+        "message": "Clips, die später oder in einem zukünftigen Video erscheinen"
     },
     "category_preview_guideline2": {
-        "message": "Ανακεφαλαίωση προηγούμενου βίντεο"
+        "message": "Zusammenfassung eines vorherigen Videos"
     },
     "category_preview_guideline3": {
-        "message": "Όχι για μέρη που περιλαμβάνουν πρόσθετο περιεχόμενο"
+        "message": "Nicht für Abschnitte, die zusätzliche Inhalte hinzufügen"
     },
     "category_filler": {
-        "message": "Σπατάλη Χρόνου/Περιττό σχόλιο"
+        "message": "Füller/Witze"
+    },
+    "category_filler_description": {
+        "message": "Nebensächliche Szenen, die nur als Füller oder Witz dienen und nicht benötigt sind, um den Hauptinhalt des Videos zu verstehen. Dies bezieht sich nicht auf Segmente, die Kontext oder Hintergrunddetails liefern. Dies ist eine sehr aggressive Kategorie, die dafür gedacht ist, wenn du nicht in der Stimmung für \"Spaß\" bist."
     },
     "category_filler_short": {
-        "message": "Περιττό"
+        "message": "Füller"
     },
     "category_filler_guideline1": {
-        "message": "Άσχετες σκηνές μόνο για σπατάλη χρόνου ή περιττά σχόλια"
+        "message": "Nebensächliche Szenen nur für Füller oder Humor"
     },
     "category_filler_guideline2": {
-        "message": "Αποσπάσεις, επαναλήψεις, αποτυχημένες λήψεις"
+        "message": "Ablenkungen, Patzer, Wiederholungen"
     },
     "category_filler_guideline3": {
-        "message": "Όχι για σκηνές που απαιτούνται για την κατανόηση του θέματος"
+        "message": "Nicht für Szenen, die zum Verstehen des Themas notwendig sind"
     },
     "category_music_offtopic": {
-        "message": "Μουσική: Τμήμα χωρίς μουσική"
+        "message": "Musik: Nicht-Musik-Abschnitt"
     },
     "category_music_offtopic_description": {
-        "message": "Μόνο για χρήση σε βίντεο μουσικής. Αυτό θα πρέπει να χρησιμοποιείται μόνο για τμήματα βίντεο μουσικής που δεν καλύπτονται ήδη από κάποια άλλη κατηγορία."
+        "message": "Nur für die Verwendung in Musikvideos. Dies sollte nur für Abschnitte von Musikvideos verwendet werden, die noch nicht von einer anderen Kategorie abgedeckt sind."
     },
     "category_music_offtopic_short": {
-        "message": "Χωρίς Μουσική"
+        "message": "Musikvideoteile ohne Musik"
     },
     "category_music_offtopic_guideline1": {
-        "message": "Μέρη τα οποία δεν έχουν κυκλοφορήσει επίσημα"
+        "message": "Abschnitte nicht in offiziellen Veröffentlichungen"
     },
     "category_music_offtopic_guideline2": {
-        "message": "Χωρίς μουσική σε ζωντανή συναυλία"
+        "message": "Nicht-Musik in einem Liveauftritt"
     },
     "category_poi_highlight": {
-        "message": "Καλύτερη στιγμή"
+        "message": "Highlight"
     },
     "category_poi_highlight_description": {
-        "message": "Το κομμάτι του βίντεο που ψάχνουν να δουν οι περισσότεροι άνθρωποι. Παρόμοιο με το «Το βίντεο ξεκινάει από το x σημείο» στα σχόλια."
+        "message": "Der Abschnitt des Videos, nach dem die meisten Leute suchen, ähnlich wie \"Video startet bei x\" Kommentare."
     },
     "category_poi_highlight_guideline1": {
-        "message": "Το μέρος που ψάχνουν οι περισσότεροι"
+        "message": "Bereiche, die die meisten Personen suchen"
     },
     "category_poi_highlight_guideline2": {
-        "message": "Ίσως παραλειφθεί κάτι που συμβάλει στην κατανόηση"
+        "message": "Kann Kontext überspringen"
     },
     "category_poi_highlight_guideline3": {
-        "message": "Παράλειψη προς το περιεχόμενο όπου παρουσιάζεται στον τίτλο ή το εικονίδιο"
+        "message": "Kann zum Titel oder Thumbnail springen"
+    },
+    "category_chapter": {
+        "message": "Kapitel"
+    },
+    "category_chapter_description": {
+        "message": "Selbst benannte Kapitel, die große Abschnitte eines Videos beschreiben."
+    },
+    "category_chapter_guideline1": {
+        "message": "Sponsor-Markennamen nicht erwähnen"
+    },
+    "category_chapter_guideline2": {
+        "message": "Benutze größere Kapitel für allgemeine Abschnitte"
+    },
+    "category_chapter_guideline3": {
+        "message": "Kleinere Kapitel können innerhalb von größeren platziert werden"
     },
     "category_livestream_messages": {
-        "message": "Ζωντανή μετάδοση: Δωρεές/Ανάγνωση Μηνυμάτων από δωρεές"
+        "message": "Livestream: Spenden/Nachrichten vorlesen"
     },
     "category_livestream_messages_short": {
-        "message": "Ανάγνωση Μηνυμάτων"
+        "message": "Nachrichten lesen"
     },
     "autoSkip": {
-        "message": "Αυτόματη Παράλειψη"
+        "message": "Automatisch überspringen"
     },
     "manualSkip": {
-        "message": "Χειροκίνητη Παράλειψη"
+        "message": "Manuelles Überspringen"
     },
     "showOverlay": {
-        "message": "Εμφάνιση στην μπάρα χρόνου"
+        "message": "In der Video-Zeitleiste anzeigen"
     },
     "disable": {
-        "message": "Απενεργοποίηση"
+        "message": "Deaktivieren"
     },
     "autoSkip_POI": {
-        "message": "Αυτόματη παράλειψη στην αρχή του τμήματος"
+        "message": "Automatisch zum Start springen"
     },
     "manualSkip_POI": {
-        "message": "Ερώτηση μόλις φορτώνει το βίντεο"
+        "message": "Beim Laden des Videos fragen"
     },
     "showOverlay_POI": {
-        "message": "Εμφάνιση στην μπάρα χρόνου"
+        "message": "In Suchleiste anzeigen"
     },
     "showOverlay_full": {
-        "message": "Εμφάνιση Ετικέτας"
+        "message": "Label zeigen"
+    },
+    "showOverlay_chapter": {
+        "message": "Kapitel zeigen"
     },
     "autoSkipOnMusicVideos": {
-        "message": "Αυτόματη παράλειψη όλων των τμημάτων όταν είναι «Χωρίς μουσική»"
+        "message": "Alle Segmente automatisch überspringen, wenn ein nicht-Musiksegment vorhanden ist"
     },
     "muteSegments": {
-        "message": "Επιτρέψτε τμήματα που κάνουν σίγαση αντί για παράλειψη"
+        "message": "Segmente zulassen, die den Ton ausschalten anstatt zu überspringen"
     },
     "fullVideoSegments": {
-        "message": "Εμφάνιση εικονιδίου όταν όλο το βίντεο είναι διαφημιστικό εξολοκλήρου",
-        "description": "Referring to the category pill that is now shown on videos that are entirely sponsor or entirely selfpromo"
+        "message": "Ein Symbol anzeigen, wenn ein Video vollständig aus Werbung besteht",
+        "description": "Referring to the category pill that is now shown on videos that are entirely sponor or entirely selfpromo"
+    },
+    "fullVideoLabelsOnThumbnails": {
+        "message": "Labels auch auf Video-Thumbnails anzeigen",
+        "description": "Referring to the category pill that is shown on videos that are entirely sponor or entirely selfpromo on recommended videos, in searches or on the homepage."
     },
     "previewColor": {
-        "message": "Χρώμα Μη Υποβληθέντων",
+        "message": "Nicht eingereichte Farbe",
         "description": "Referring to submissions that have not been sent to the server yet."
     },
     "seekBarColor": {
-        "message": "Χρώμα Μπάρας Χρόνου"
+        "message": "Farbe in der Video-Zeitleiste"
     },
     "category": {
-        "message": "Κατηγορία"
+        "message": "Kategorie"
     },
     "skipOption": {
-        "message": "Παράλειψη Επιλογής",
+        "message": "Verhalten",
         "description": "Used on the options page to describe the ways to skip the segment (auto skip, manual, etc.)"
     },
     "enableTestingServer": {
-        "message": "Ενεργοποίηση διακομιστή δοκιμαστικών λειτουργιών"
+        "message": "Betatest-Server aktivieren"
     },
     "whatEnableTestingServer": {
-        "message": "Οι υποβολές και οι ψήφοι ΔΕΝ ΘΑ ΜΕΤΡΗΣΟΥΝ προς τον κεντρικό διακομιστή. Χρησιμοποίησέ το μόνο για δοκιμή."
+        "message": "Deine Beiträge und Bewertungen/Meldungen werden NICHT an den Hauptserver übertragen. Benutze diese Option also nur für Tests."
     },
     "testingServerWarning": {
-        "message": "Όλες οι υποβολές και οι ψήφοι ΔΕΝ ΘΑ ΜΕΤΡΙΣΟΥΝ στον κύριο διακομιστή κατά τη σύνδεση με τον δοκιμαστικό διακομιστή. Σιγουρευτείτε για να την απενεργοποιήσετε όταν θέλετε να κάνετε πραγματικές υποβολές."
+        "message": "Alle Beiträge und Bewertungen/Meldungen werden NICHT an den Hauptserver übertragen. Deaktiviere die Betatest-Server Option um Einreichungen an den Hauptserver zu senden."
     },
     "bracketNow": {
-        "message": "(εδώ)"
+        "message": "(jetzt)"
     },
     "moreCategories": {
-        "message": "Περισσότερες κατηγορίες"
+        "message": "Weitere Kategorien"
     },
     "chooseACategory": {
-        "message": "Επιλέξτε μια κατηγορία"
+        "message": "Wähle eine Kategorie"
     },
     "enableThisCategoryFirst": {
-        "message": "Για να υποβάλετε τμήματα της «{0}» κατηγορίας, πρέπει να την ενεργοποιήσετε στις ρυθμίσεις. Θα μεταφερθείτε στις ρυθμίσεις τώρα.",
+        "message": "Um Segmente aus der Kategorie \"{0}\" zu senden, musst du diese in den Optionen aktivieren. Du wirst jetzt zu den Optionen weitergeleitet.",
         "description": "Used when submitting segments to only let them select a certain category if they have it enabled in the options."
     },
     "poiOnlyOneSegment": {
-        "message": "Προσοχή: Αυτός ο τύπος τμήματος μπορεί να υπάρξει μόνο μια φορά. Εάν υποβάλετε πολλαπλά τότε εμφανίζεται ένα από τα τμήματα στην τύχη."
+        "message": "Achtung: Diese Art von Segment kann nur einmal pro Video aktiv sein. Sollten mehrere eingereicht werden, wird ein zufälliges angezeigt werden."
     },
     "youMustSelectACategory": {
-        "message": "Πρέπει να επιλέξετε Κατηγορία για όλα τα τμήματα που υποβάλετε!"
+        "message": "Du musst eine Kategorie für jedes zu übermittelnde Segment auswählen!"
+    },
+    "bracketStart": {
+        "message": "(Start)"
     },
     "bracketEnd": {
-        "message": "(τέλος)"
+        "message": "(Ende)"
+    },
+    "End": {
+        "message": "Ende",
+        "description": "Button that skips to the end of a segment"
     },
     "hiddenDueToDownvote": {
-        "message": "κρυφό: αρνητική ψήφος"
+        "message": "Ausgeblendet: negativ bewertet"
     },
     "hiddenDueToDuration": {
-        "message": "κρυφό: πολύ κοντό"
+        "message": "Ausgeblendet: zu kurz"
     },
     "manuallyHidden": {
-        "message": "χειροκίνητη απόκρυψη"
+        "message": "manuell versteckt"
     },
     "channelDataNotFound": {
         "description": "This error appears in an alert when they try to whitelist a channel and the extension is unable to determine what channel they are looking at.",
-        "message": "Η ταυτότητα καναλιού δεν έχει φορτώσει ακόμα. Εάν χρησιμοποιείτε ενσωματωμένο βίντεο, δοκιμάστε αντιθέτως να το ανοίξετε στο YouTube. Μπορεί επίσης να ευθύνονται αλλαγές στη διάταξη του YouTube, εάν το πιστεύετε, γράψτε ένα σχόλιο εδώ:"
+        "message": "Kanal-ID wurde noch nicht geladen. Falls du ein eingebettetes Video benutzt, probiere stattdessen die YouTube-Homepage. Dies könnte auch durch Änderungen im YouTube-Layout verursacht werden. Sollte das der Fall sein, schreibe hier einen Kommentar:"
+    },
+    "invidiousPermissionRefresh": {
+        "message": "Der Browser hat die Berechtigung, welche zum Verwenden von Invidious und anderen Drittanbieter-Seiten benötigt wird, widerrufen. Bitte klicke auf die Schaltfläche unten, um diese Berechtigung zu reaktivieren."
     },
     "acceptPermission": {
-        "message": "Αποδεχτείτε την άδεια"
+        "message": "Berechtigung erteilen"
     },
     "permissionRequestSuccess": {
-        "message": "Επιτυχείς αίτηση της άδειας!"
+        "message": "Die Berechtigungsanfrage war erfolgreich!"
     },
     "permissionRequestFailed": {
-        "message": "Η αίτηση της άδειας απέτυχε, πατήσατε απόρριψη;"
+        "message": "Berechtigungsanfrage fehlgeschlagen, hast du sie abgelehnt?"
     },
     "adblockerIssueWhitelist": {
-        "message": "Εάν δεν μπορείτε να το επιδιορθώσετε, απενεργοποιείστε την επιλογή «Εξαναγκασμός Ελέγχου Καναλιού πριν την παράλειψη», καθώς το SponsorBlock δεν μπόρεσε να ανακτήσει τις πληροφορίες του καναλιού αυτού του βίντεο"
+        "message": "Falls du dies nicht beheben kannst, deaktiviere die Einstellung 'Kanalprüfung vor dem Überspringen von Segmenten erzwingen', da SponorBlock nicht in der Lage ist die Kanal-Informationen für dieses Video abzurufen"
     },
     "forceChannelCheck": {
-        "message": "Εξαναγκασμός Ελέγχου Καναλιού πριν την παράλειψη"
+        "message": "Kanalprüfung vor dem Überspringen von Segmenten erzwingen"
     },
     "whatForceChannelCheck": {
-        "message": "Από προεπιλογή, παραλείπονται τμήματα αμέσως πριν ακόμα ανοιχνευτεί ποιό κανάλι είναι. Από προεπιλογή, ορισμένα τμήματα στην αρχή του βίντεο μπορεί να παραλείπονται στα επιτρεπόμενα κανάλια που είναι στην «Λίστα αποδοχής». Η ενεργοποίηση αυτής της επιλογής θα το αποτρέψει αυτό, αλλά μετά η παράλειψη όλων των τμημάτων θα έχει μια μικρή καθυστέρηση, καθώς η απόκτυση της ταυτότητας καναλιού μπορεί να πάρει κάμποσο χρόνο. Αυτή η καθυστέρηση μπορεί να είναι μη αντιληπτή αν έχετε γρήγορη σύνδεση στο διαδίκτυο."
+        "message": "Standardmäßig werden Segmente übersprungen, bevor SponorBlock überhapt weiss, welcher Kanal das ist. Normalerweise führt dies dazu, dass Videosegmente von erlaubten Kanälen am Anfang übersprungen werden. Das aktivieren dieser Option verhindert dies, hat jedoch eine leichte Verzögerung beim überspringen zur folge, da die Kanal-ID erst eingelesen werden muss. Diese sollte bei einer schnellen Internetverbindung jedoch kaum bemerkbar sein."
     },
     "forceChannelCheckPopup": {
-        "message": "Σκεφτείτε να ενεργοποιήσετε τη ρύθμιση «Εξαναγκασμός Ελέγχου Καναλιού πριν την παράλειψη»"
+        "message": "Eventuell solltest du die Option \"Kanalprüfung vor dem Überspringen von Segmenten erzwingen\" aktivieren."
     },
     "downvoteDescription": {
-        "message": "Λάθος Συγχρονισμός"
+        "message": "Nicht korrekt oder falsches Timing"
+    },
+    "incorrectVote": {
+        "message": "Falsch"
+    },
+    "harmfulVote": {
+        "message": "Schädlich",
+        "description": "Used for chapter segments when the text is harmful/offensive to remove it faster"
     },
     "incorrectCategory": {
-        "message": "Αλλαγή κατηγορίας"
+        "message": "Kategorie ändern"
     },
     "nonMusicCategoryOnMusic": {
-        "message": "Αυτό το βίντεο έχει κατηγοριοποιηθεί ως μουσική. Είσαστε σίγουροι ότι έχει χορηγία; Εάν είναι ένα τμήμα «Χωρίς μουσική», ανοίξτε τις επιλογές της επέκτασης και ενεργοποιήστε αυτήν την κατηγορία. Μετά μπορείτε, να υποβάλετε αυτό το τμήμα ως «Χωρίς μουσική», αντί για χορηγία. Παρακαλώ διαβάστε τις οδηγίες, εάν είστε μπερδεμένοι."
+        "message": "Dieses Video ist als Musikvideo kategorisiert. Bist du dir sicher, dass es ein gesponsertes Videosegment hat? Wenn dies tatsächlich ein Musikvideoteil ohne Musik ist, öffne die Optionen von SponorBlock und aktiviere diese Kategorie. Danach kannst du dieses Segment als solches markieren. Bitte lese die Richtlinien, wenn du dir nicht sicher bist."
     },
     "multipleSegments": {
-        "message": "Πολλαπλά Τμήματα"
+        "message": "Mehrere Segmente"
     },
     "guidelines": {
-        "message": "Οδηγίες"
+        "message": "Richtlinien"
     },
     "readTheGuidelines": {
-        "message": "Διάβασε τις οδηγίες!!",
+        "message": "Lese die Richtlinien!",
         "description": "Show the first time they submit or if they are \"high risk\""
     },
     "categoryUpdate1": {
-        "message": "Οι κατηγορίες είναι εδώ!"
+        "message": "Kategorien sind hier!"
     },
     "categoryUpdate2": {
-        "message": "Άνοιξε τις επιλογές για την παράλειψη τίτλων αρχής-τέλους, πωλήσεων κ. α."
+        "message": "Öffne die Optionen um das Verhalten bei Intros, Outros, Merchandising (Fanartikel) usw. einzustellen."
     },
     "help": {
-        "message": "Βοήθεια"
+        "message": "Hilfe"
     },
     "GotIt": {
-        "message": "Το' χω",
+        "message": "Verstanden",
         "description": "Used as the button to dismiss a tooltip"
     },
     "fullVideoTooltipWarning": {
-        "message": "Αυτό το τμήμα είναι μεγάλο. Αν όλο το βίντεο έχει να κάνει με ένα θέμα, τότε αλλάξτε την επιλογή από \"Παράλειψη\" σε \"Όλο το βίντεο\". Δείτε τις οδηγίες για περισσότερες πληροφορίες."
+        "message": "Dieses Segment ist lang. Wenn das gesamte Video nur ein Thema behandelt, wechsle von \"Überspringen\" zu \"Ganzes Video\". Erfahre mehr in den Richtlinien."
     },
     "categoryPillTitleText": {
-        "message": "Ολόκληρο το βίντεο έχει χαρακτηριστεί ως αυτής της κατηγορίας οπότε είναι αυστηρά ενσωματωμένη ώστε να μπορείτε να το διαφοροποιήσετε σε τμήματα"
+        "message": "Das gesamte Video fällt unter diese Kategorie und ist zu stark integriert, um es zu trennen"
+    },
+    "chapterNameTooltipWarning": {
+        "message": "Einer deiner Kapitelnamen ähnelt einer Kategorie. Du solltest Kategorien verwenden, wenn möglich."
     },
     "experiementOptOut": {
-        "message": "Αποχή από μελλοντικά πειράματα",
+        "message": "Aus allen zukünftigen Experimenten abmelden",
         "description": "This is used in a popup about a new experiment to get a list of unlisted videos to back up since all unlisted videos uploaded before 2017 will be set to private."
     },
     "hideForever": {
-        "message": "Απόκρυψη για πάντα"
+        "message": "Dauerhaft verbergen"
+    },
+    "warningChatInfo": {
+        "message": "Wir haben festgestellt, dass du einige häufig gemachte Fehler machst. Wir schätzen deine bisherige Arbeit sehr, streben hier aber nach Perfektion, sodass es auch auf kleine Fehler ankommt :)"
     },
     "questionButton": {
-        "message": "Έχω μια ερώτηση"
+        "message": "Ich habe eine Frage"
+    },
+    "askAQuestion": {
+        "message": "Stelle eine Frage"
     },
     "warningConfirmButton": {
-        "message": "Κατανοώ το λόγο"
+        "message": "Ich verstehe den Grund"
     },
     "warningError": {
-        "message": "Σφάλμα κατά τη γνωστοποίηση της προειδοποίησης:"
+        "message": "Fehler beim Anerkennen der Verwarnung:"
+    },
+    "deArrowMessageRecieved": {
+        "message": "Du hast einen Tipp von einem Moderator erhalten"
     },
     "Donate": {
-        "message": "Δωρεά"
+        "message": "Spenden"
     },
     "considerDonating": {
-        "message": "Χρηματική βοήθεια για την ανάπτυξή μας"
+        "message": "Hilf beim Finanzieren der Entwicklung"
     },
     "hideDonationLink": {
-        "message": "Απόκρυψη Συνδέσμου Δωρεάς"
+        "message": "Verstecke Spendenlink"
     },
     "darkModeOptionsPage": {
-        "message": "Σκουρόχρωμη Λειτουργία στη σελίδα Ρυθμίσεις"
+        "message": "Dunkler Modus auf der Optionsseite"
     },
     "helpPageThanksForInstalling": {
-        "message": "Ευχαριστούμε που εγκαταστήσατε το SponsorBlock."
+        "message": "Danke fürs installieren von SponorBlock."
     },
     "helpPageReviewOptions": {
-        "message": "Παρακαλώ ελέγξτε τις παρακάτω ρυθμίσεις"
+        "message": "Bitte überprüfe die unten stehenden Optionen"
     },
     "helpPageFeatureDisclaimer": {
-        "message": "Πολλές δυνατότητες είναι ανενεργές από προεπιλογή. Εάν θέλετε να παραλείπετε εισαγωγές, επίλογους, χρήση «Invidious», κτλ., ενεργοποιήστε τα παρακάτω. Μπορείτε επίσης να κρύψετε/εμφανίσετε στοιχεία της διεπαφής."
+        "message": "Viele Funktionen sind standardmäßig deaktiviert. Wenn du Intros und Outtros überspringen willst, Invidious verwenden willst, usw. aktiviere sie unten. Du kannst auch UI-Elemente verstecken/anzeigen."
     },
     "helpPageHowSkippingWorks": {
-        "message": "Πως λειτουργεί η παράλειψη"
+        "message": "Wie überspringen funktioniert"
     },
     "helpPageHowSkippingWorks1": {
-        "message": "Τα τμήματα βίντεο θα παραλειφθούν αυτόματα αν βρεθούν στη βάση δεδομένων. Μπορείτε να ανοίξετε το αναδυόμενο παράθυρο κάνοντας κλικ στο εικονίδιο της επέκτασης για να πάρετε μια ιδέα του τι είναι."
+        "message": "Videosegmente werden automatisch übersprungen, wenn sie in der Datenbank gefunden werden. Du kannst das Popup öffnen, indem du auf das Erweiterungssymbol klickst, um eine Vorschau darüber zu erhalten, was diese sind."
     },
     "helpPageHowSkippingWorks2": {
-        "message": "Κάθε φορά που παραλείπετε κάποιο τμήμα, θα λαμβάνετε ειδοποίηση. Εάν ο συγχρονισμός σας φαίνεται λάθος, ψηφίστε αρνητικά πατώντας το εικονίδιο! Μπορείτε επίσης να ψηφίσετε μέσω του αναδυόμενου παράθυρου."
+        "message": "Wann immer du ein Segment überspringst, erhältst du eine Benachrichtigung. Wenn das Timing falsch erscheint, kannst du das Segment herunter stimmen! Du kannst auch im Pop-up abstimmen."
     },
     "Submitting": {
-        "message": "Υποβολή"
+        "message": "Übermitteln"
     },
     "helpPageSubmitting1": {
-        "message": "Η υποβολή μπορεί είτε να γίνει στο αναδυόμενο παράθυρο πατώντας το κουμπί «Το τμήμα ξεκινάει εδώ» είτε στα κουμπιά κάτω από την μπάρα χρόνου κατά την αναπαραγωγή βίντεο."
+        "message": "Das übermitteln kann entweder im Popup durch das drücken vom \"Segment Started Jetzt\" Knopf oder im Videoplayer mit den Knöpfen im Player gemacht werden."
     },
     "helpPageSubmitting2": {
-        "message": "Πατώντας το κουμπί αναπαραγωγής δείχνετε την αρχή του τμήματος και πατώντας το κουμπί της διακοπής δείχνετε το τέλος του τμήματος. Μπορείτε να ετοιμάσετε πολλαπλά τμήματα χορηγιών πρώτου πατήσετε υποβολή. Πατώντας το κουμπί της αποστολής τα τμήματα υποβάλλονται, ενώ πατώντας το εικονίδιο του κάδου απορριμάτων τα διαγραφεί."
+        "message": "Mit einem Klick auf den Play-Button wird der Beginn eines Segments markiert, und mit einem Klick auf den Stop-Button dessen Ende. Du kannst mehrere Segmente anlegen, bevor du durch Klicken des Upload-Buttons zum Einreichen fortfährst. Ein Klick auf die Mülltonne löscht deine angelegten Segmente."
     },
     "Editing": {
-        "message": "Επεξεργασία"
+        "message": "Bearbeitung"
     },
     "helpPageEditing1": {
-        "message": "Αν κάνατε κάτι λάθος, μπορείτε να διορθώσετε ή να διαγράψετε τα τμήματα σας πατώντας το εικονίδιο πάνω βελάκι."
+        "message": "Wenn du etwas falsch gemacht hast, kannst du ein Segment bearbeiten oder löschen nachdem du auf den Auf-Pfeil Knopf gedrückt hast."
     },
     "helpPageTooSlow": {
-        "message": "Το να υποβάλεις τμήματα παίρνει χρόνο, υπάρχει ποιο γρήγορος τρόπος;"
+        "message": "Das ist zu langsam"
     },
     "helpPageTooSlow1": {
-        "message": "Συντομεύσεις που μπορείτε να χρησιμοποιήσετε εάν το επιθυμείτε. Πατήστε την αγγλική άνω τελεία «;» για να δείξετε την αρχή/το τέλος ενός τμήματος χορηγίας και πατήστε την απόστροφο για υποβολή. Αυτές οι συντομεύσεις αλλάζουν στις ρυθμίσεις. Εάν δεν χρησιμοποιείτε το σύστημα πληκτρολόγησης «QWERTY», θα ήταν καλύτερο τα τις αλλάξετε."
+        "message": "Es gibt Hotkeys, wenn du diese verwenden möchtest. Drücke die Semikolon-Taste um den Anfang/das Ende eines Sponor-Segments zu markieren und die Abostrophe-Taste um es zu übermitteln. Diese können in den Optionen geändert werden. Wenn du keine QWERTY-Tastatur verwendest, solltest du eventuell die Keybinds ändern."
     },
     "helpPageCopyOfDatabase": {
-        "message": "Μπορώ να λάβω ένα αντίγραφο της βάσης δεδομένων; Τι θα συμβεί αν η επέκταση εξαφανιστεί;"
+        "message": "Kann ich eine kopie der Datenbank erhalten? Was passiert wenn du verschwindest?"
     },
     "helpPageCopyOfDatabase1": {
-        "message": "Η βάση δεδομένων είναι δημόσια διαθέσιμη στη σελίδα"
+        "message": "Die Datenbank ist öffentlich und verfügbar unter"
     },
     "helpPageCopyOfDatabase2": {
-        "message": "Ο πηγαίος κώδικας είναι δημόσια διαθέσιμος. Έτσι ώστε, ακόμα και αν συμβεί κάτι σε εμάς, οι υποβολές σας δε θα χαθούν."
+        "message": "Der Quellcode ist frei verfügbar. Selbst wenn mir etwas passieren würde wären deine Übermittlungen nicht verloren."
     },
     "helpPageNews": {
-        "message": "Νέα και πως δημιουργήθηκε η επέκταση"
+        "message": "Nachrichten und wie es gemacht wird"
     },
     "helpPageSourceCode": {
-        "message": "Πού μπορώ να βρω τον πηγαίο κώδικα;"
+        "message": "Wo kann ich den Quellcode kriegen?"
     },
     "Credits": {
-        "message": "Εύσημα"
+        "message": "Mitwirkende"
     },
     "LearnMore": {
-        "message": "Μάθετε περισσότερα"
+        "message": "Erfahre mehr"
     },
     "FullDetails": {
-        "message": "Πλήρεις Λεπτομέρειες"
+        "message": "Vollständige Details"
     },
     "CopyDownvoteButtonInfo": {
-        "message": "Καταψήφιση και δημιουργία τοπικού αντίγραφου για επανάληψη υποβολής"
+        "message": "Dagegen stimmen und eine lokale Kopie zum erneuten Einreichen erstellen"
     },
     "OpenCategoryWikiPage": {
-        "message": "Άνοιγμα σελίδας wiki της κατηγορίας."
+        "message": "Öffne den Wiki-Artikel dieser Kategorie."
     },
     "CopyAndDownvote": {
-        "message": "Αντίγραφο και καταψήφιση"
+        "message": "Kopieren und abwerten"
     },
     "ContinueVoting": {
-        "message": "Συνεχίστε την ψηφοφορία"
+        "message": "Bewerten fortsetzen"
     },
     "ChangeCategoryTooltip": {
-        "message": "Αυτό θα εφαρμοστεί απευθείας στα τμήματά σας"
+        "message": "Dies wirkt sich sofort auf eigene Segmente aus"
     },
     "downvote": {
-        "message": "Αρνητική ψήφος"
+        "message": "Dagegen stimmen"
     },
     "upvote": {
-        "message": "Θετική ψήφος"
+        "message": "Positiv bewerten"
     },
     "hideSegment": {
-        "message": "Απόκρυψη τμήματος"
+        "message": "Segment ausblenden"
+    },
+    "skipSegment": {
+        "message": "Segment überspringen"
+    },
+    "playChapter": {
+        "message": "Kapitel abspielen"
     },
     "SponsorTimeEditScrollNewFeature": {
-        "message": "Χρήση της ροδέλας ποντικιού καθώς είναι πάνω από το παράθυρο επεξεργασίας για να αλλάξετε γρηγορότερα τον χρόνο. Συνδυασμοί όπως το ctrl ή το shift χρησιμοποιούνται για να τελειοποιήσετε τις αλλαγές."
+        "message": "Benutze das Mausrad während der Mauszeiger über dem Eingabefeld schwebt, um die Zeit schnell anzupassen. Kombinationen mit der Strg- oder Shift-Taste können zur Feinabstimmung der Änderungen verwendet werden."
     },
     "categoryPillNewFeature": {
-        "message": "Νέο! Δείτε ποτέ ένα βίντεο αποτελείται εξολοκλήρου από προσωπικές προωθήσεις ή χορηγίες"
+        "message": "Neu! Sieh, wenn ein Video ausschließlich Sponor oder Eigenwerbung ist"
+    },
+    "yearAbbreviation": {
+        "message": "J",
+        "description": "100y"
     },
     "dayAbbreviation": {
-        "message": "ημ",
+        "message": "T",
         "description": "100d"
     },
     "hourAbbreviation": {
-        "message": "ω",
+        "message": "Std.",
         "description": "100h"
     },
     "optionsTabBehavior": {
-        "message": "Συμπεριφορά παραλ.",
+        "message": "Verhalten",
         "description": "Appears in Options as a tab header for options related to categories and skipping behavior. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width)."
     },
     "optionsTabInterface": {
-        "message": "Διεπαφή",
+        "message": "Oberfläche",
         "description": "Appears in Options as a tab header for options related to GUI and sounds. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width)."
     },
     "optionsTabKeyBinds": {
-        "message": "Συντομεύσεις πλήκτρων",
+        "message": "Tastenkürzel",
         "description": "Appears in Options as a tab header for keybinds. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width)."
     },
     "optionsTabBackup": {
-        "message": "Αντίγραφο/Επαναφορά",
+        "message": "Sichern/Wiederherstellen",
         "description": "Appears in Options as a tab header for options related to saving/restoring your settings. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width)."
     },
     "optionsTabAdvanced": {
-        "message": "Διάφορα",
+        "message": "Verschiedenes",
         "description": "Appears in Options as a tab header for advanced/niche options. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width)."
     },
     "noticeVisibilityLabel": {
-        "message": "Εμφάνιση ειδοποίησης παράλειψης",
+        "message": "Aussehen der Überspringen-Meldung",
         "description": "Option label"
     },
     "unbind": {
-        "message": "Αφαίρεση",
+        "message": "Aufheben",
         "description": "Unbind keyboard shortcut"
     },
     "notSet": {
-        "message": "Δεν έχει οριστεί"
+        "message": "Nicht gesetzt"
     },
     "change": {
-        "message": "Αλλαγή"
+        "message": "Ändern"
     },
     "youtubeKeybindWarning": {
-        "message": "Αυτή η συντόμευση χρησιμοποιείται από το YouTube. Σίγουρα θέλετε να την χρησιμοποιήσετε;"
+        "message": "Dies ist ein vorhandenes YouTube-Kürzel. Bist du sicher, dass du es verwenden möchtest?"
     },
     "betaServerWarning": {
-        "message": "Ο Δοκιμαστικός Διακομιστής είναι ενεργός!"
+        "message": "BETA Server ist aktiviert!"
     },
     "openOptionsPage": {
-        "message": "Άνοιγμα σελίδας ρυθμίσεων"
+        "message": "Einstellungen öffnen"
     },
     "resetToDefault": {
-        "message": "Επαναφορά των προκαθορισμένων ρυθμίσεων"
+        "message": "Auf Werkseinstellungen zurücksetzen"
     },
     "confirmResetToDefault": {
-        "message": "Είστε βέβαιοι ότι θέλετε να επαναφέρετε όλες τις ρυθμίσεις στις προεπιλεγμένες τιμές τους; Αυτό δεν μπορεί να αναιρεθεί."
+        "message": "Bist du sicher, dass du alle Einstellungen auf ihre Standardwerte zurücksetzen willst? Dies kann nicht rückgängig gemacht werden."
+    },
+    "exportSegments": {
+        "message": "Segmente exportieren"
+    },
+    "importSegments": {
+        "message": "Segmente importieren"
+    },
+    "Import": {
+        "message": "Importieren",
+        "description": "Button to initiate importing segments. Appears under the textbox where they paste in the data"
+    },
+    "redeemSuccess": {
+        "message": "Einlösen erfolgreich!"
+    },
+    "redeemFailed": {
+        "message": "Lizenzschlüssel ist ungültig"
+    },
+    "hideUpsells": {
+        "message": "Verstecke Optionen, welche ohne extra Zahlung nicht verfügbar sind"
+    },
+    "hideNewFeatureUpdates": {
+        "message": "Verstecke Hinweise über neue Funktionen"
+    },
+    "chooseACountry": {
+        "message": "Wähle ein Land"
+    },
+    "noDiscount": {
+        "message": "Du bist nicht für einen Rabatt qualifiziert"
+    },
+    "discountLink": {
+        "message": "Rabatt-Link (Siehe rosa Preis)"
+    },
+    "selectYourCountry": {
+        "message": "Wähle dein Land"
+    },
+    "cantAfford": {
+        "message": "Wenn du dir keine Lizenz leisten kannst, klicke {here} um zu sehen, ob du Anspruch auf einen Rabatt hast",
+        "description": "Keep the curly braces. The word 'here' should be translated as well."
+    },
+    "patreonSignIn": {
+        "message": "Mit Patreon anmelden"
+    },
+    "redeem": {
+        "message": "Einlösen"
+    },
+    "joinOnPatreon": {
+        "message": "Auf Patreon abonnieren"
+    },
+    "oneTimePurchase": {
+        "message": "Einmaliger Kauf"
+    },
+    "enterLicenseKey": {
+        "message": "Lizenzschlüssel eingeben"
+    },
+    "unsubmittedSegmentCounts": {
+        "message": "Du hast derzeit {0} in {1}",
+        "description": "Example: You currently have 12 unsubmitted segments on 5 videos"
+    },
+    "unsubmittedSegmentCountsZero": {
+        "message": "Du hast aktuell keine nicht eingereichten Segmente",
+        "description": "Replaces 'unsubmittedSegmentCounts' string when there are no unsubmitted segments"
+    },
+    "unsubmittedSegmentsSingular": {
+        "message": "nicht eingereichtes Segment",
+        "description": "Example: You currently have 1 *unsubmitted segment* on 1 video"
+    },
+    "unsubmittedSegmentsPlural": {
+        "message": "nicht eingereichte Segmente",
+        "description": "Example: You currently have 12 *unsubmitted segments* on 5 videos"
+    },
+    "videosSingular": {
+        "message": "Video",
+        "description": "Example: You currently have 3 unsubmitted segments on 1 *video*"
+    },
+    "videosPlural": {
+        "message": "Videos",
+        "description": "Example: You currently have 12 unsubmitted segments on 5 *videos*"
+    },
+    "clearUnsubmittedSegments": {
+        "message": "Lösche alle Segmente",
+        "description": "Label for a button in settings"
+    },
+    "clearUnsubmittedSegmentsConfirm": {
+        "message": "Möchtest du wirklich alle nicht eingereichten Segmente löschen?",
+        "description": "Confirmation message for the Clear unsubmitted segments button"
+    },
+    "showUnsubmittedSegments": {
+        "message": "Segmente anzeigen",
+        "description": "Show/hide button for the unsubmitted segments list"
+    },
+    "hideUnsubmittedSegments": {
+        "message": "Segmente ausblenden",
+        "description": "Show/hide button for the unsubmitted segments list"
+    },
+    "videoID": {
+        "message": "Video ID",
+        "description": "Header of the unsubmitted segments list"
+    },
+    "segmentCount": {
+        "message": "Segmentanzahl",
+        "description": "Header of the unsubmitted segments list"
+    },
+    "actions": {
+        "message": "Aktionen",
+        "description": "Header of the unsubmitted segments list"
+    },
+    "exportSegmentsAsURL": {
+        "message": "Als URL teilen"
+    },
+    "segmentFetchFailureWarning": {
+        "message": "Warnung: Der Server hat noch nicht mit Segmenten geantwortet. Möglicherweise gibt es in diesem Video bereits übermittelte Segmente, aber du hast sie aufgrund von Serverproblemen noch nicht erhalten."
+    },
+    "allowScrollingToEdit": {
+        "message": "Scrollen zum Bearbeiten von Zeiten erlauben"
+    },
+    "NoticeTimeAfterSkip": {
+        "message": "{seconds}s",
+        "description": "This is used on the popup to show how much time left. It will look like \"5s\". The word {seconds} will be replaced, so keep it here. Translations should only change the \"s\""
+    },
+    "deArrowFullName": {
+        "message": "DeArrow - Bessere Titel und Thumbnails auf YouTube",
+        "description": "Name of the Clickbait extension. The name refers to removing arrows from thumbnails"
+    },
+    "deArrowDescription": {
+        "message": "Community-basierte Titel und Thumbnails, um sie informativer und weniger aufsehenerregend zu machen",
+        "description": "Description of the Clickbait extension."
+    },
+    "chooseDescriptive": {
+        "message": "Wähle die am besten beschreibende"
+    },
+    "Original": {
+        "message": "Original"
+    },
+    "OriginalTitle": {
+        "message": "Originaltitel"
+    },
+    "CurrentTime": {
+        "message": "Aktuelle Zeit"
+    },
+    "resetCustomTitle": {
+        "message": "Titel auf Originaltext zurücksetzen"
+    },
+    "resetIcon": {
+        "message": "Icon zurücksetzen"
+    },
+    "Vote": {
+        "message": "Abstimmen"
+    },
+    "TypeYourOwnTitleHere": {
+        "message": "Eigenen Titel hier eingeben"
+    },
+    "VideoNotReady": {
+        "message": "Video nicht bereit"
+    },
+    "FailedToRender": {
+        "message": "Rendern fehlgeschlagen",
+        "description": "Thumbnail preview failed to render"
+    },
+    "CanvasMissing": {
+        "message": "Canvas fehlt",
+        "description": "Canvas is the name of an HTML element used to draw thumbnails onto"
+    },
+    "ExceptionWhileRendering": {
+        "message": "Fehler beim Rendern",
+        "description": "Displayed if there is a general error when trying to render the thumbnail"
+    },
+    "FailedToLoad": {
+        "message": "Laden fehlgeschlagen",
+        "description": "Thumbnail failed to load"
+    },
+    "titleFormatting": {
+        "message": "Titelformat"
+    },
+    "Disabled": {
+        "message": "Deaktiviert"
+    },
+    "CapitalizeWords": {
+        "message": "Wörter großschreiben"
+    },
+    "TitleCase": {
+        "message": "Großschreibung in Überschriften"
+    },
+    "SentenceCase": {
+        "message": "Satzschreibung"
+    },
+    "LowerCase": {
+        "message": "Kleinbuchstaben"
+    },
+    "FirstLetterUppercase": {
+        "message": "Erster Buchstabe großgeschrieben"
+    },
+    "shouldCleanEmojis": {
+        "message": "Emojis entfernen"
+    },
+    "thumbnailFallbackOption": {
+        "message": "Wenn kein Thumbnail eingereicht wurde"
+    },
+    "whatThumbnailFallbackOption": {
+        "message": "Bei der Auswahl einer zufälligen Zeit wird mittels SponorBlock Daten sichergestellt, dass keine Zeit in einem Werbesegment ausgewählt wird.",
+        "description": "Describing the option for the crowdsourced thumbnail system if no thumbnail has been submitted. It can use a random time instead."
+    },
+    "RandomTime": {
+        "message": "Zeige einen Screenshot eines zufälligen Zeitpunktes"
+    },
+    "TheOriginalThumbnail": {
+        "message": "Zeige das originale Thumbnail"
+    },
+    "showABlankBox": {
+        "message": "Zeige eine leere Box"
+    },
+    "AutoGenerated": {
+        "message": "YouTube-generiertes Thumbnail anzeigen",
+        "description": "A DeArrow fallback method that will use the YouTube auto-generated thumbnails instead of a randomly selected time or the original thumbnail"
+    },
+    "Start": {
+        "message": "Start"
+    },
+    "Middle": {
+        "message": "Mitte"
+    },
+    "keepUnsubmitted": {
+        "message": "Speichere eingereichte Abstimmungen"
+    },
+    "ignoreAbThumbnails": {
+        "message": "A/B getestete Thumbnails nie verwenden"
+    },
+    "ignoreAbThumbnailsDescription": {
+        "message": "Kanäle können Tests auf Ihren Videos einrichten, bei denen YouTube unterschiedliche Thumbnails an verschiedene Personen zeigt. Diese Option wird immer das erste Thumbnail verwenden."
+    },
+    "abThumbnailsWarning": {
+        "message": "Warnung: Dieses Video hat aktuell einen A/B Thumbnail-test aktiv. Dies bedeutet, dass das Thumbnail sich oft ändern kann. Du solltest wegen diesem Risiko eventuell nicht für das original Thumbnail voten."
+    },
+    "whatKeepUnsubmitted": {
+        "message": "Behalte übermittelte Abstimmungen um die Titel und Thumbnails anzuzeigen, die du ausgewählt hast anstelle der am besten bewerteten auf dem Server."
+    },
+    "keepUnsubmittedInPrivate": {
+        "message": "Von privaten Tabs eingereichte Bewertungen speichern"
+    },
+    "useThumbnailGenerationService": {
+        "message": "Thumbnail-Erstellungsdienst verwenden"
+    },
+    "titleMaxLines": {
+        "message": "Maximale Zeilen für Titel"
+    },
+    "titleMaxLinesDescription": {
+        "message": "Videotitel werden in Vorschlägen über so viele Zeilen verteilt."
+    },
+    "onAllPages": {
+        "message": "Auf allen Seiten",
+        "description": "Setting for when the server-side thumbnail generator should be used for the thumbnail replacement feature."
+    },
+    "onAllPagesExceptVideo": {
+        "message": "Auf allen Seiten außer Videoseiten",
+        "description": "Setting for when the server-side thumbnail generator should be used for the thumbnail replacement feature."
+    },
+    "Never": {
+        "message": "Nie"
+    },
+    "thumbnailGeneratorDescription1": {
+        "message": "Der Thumbnail-Generierungsdienst beschleunigt die Generierung von Thumbnails erheblich, in dem er eine anonyme Anfrage mit der Video‑ID an einen Server schickt. Das Thumbnailbild wird dann entweder generiert oder aus einem Cache bezogen, wenn es zuvor bereits generiert wurde."
+    },
+    "thumbnailGeneratorDescription2": {
+        "message": "Wenn auf Videoseiten verwendet, könnten nicht gelistete Video-IDs an den Server weitergegeben werden. Das Verwenden von \"Auf allen Seiten außer Videoseiten\" vermeidet dieses Problem. Eine andere Option ist es, einen eigenen Thumbnail-Generierungsdienst zu hosten."
+    },
+    "thumbnailGeneratorDescription3": {
+        "message": "Wenn die Verwendung des Thumbnail-Erstellungsdienstes deaktiviert ist, werden alle Anfragen ein k-Anonymitäts-Anfragesystem verwenden, welches es für den Server schwieriger macht, vorauszusagen, welche Videos abgerufen wurden. Außerdem wird ein langsamerer, lokaler Thumbnail-Erstellungsdienst verwendet.",
+        "description": "https://en.wikipedia.org/wiki/K-anonymity is a system used to anonymise requests."
+    },
+    "thumbnailGeneratorSourceCode": {
+        "message": "Thumbnail-Erstellungsdienst Quellcode"
+    },
+    "moreAboutKAnonymity": {
+        "message": "Mehr über k-Anonymität",
+        "description": "https://en.wikipedia.org/wiki/K-anonymity is a system used to anonymise requests."
+    },
+    "alwaysShowShowOriginalButton": {
+        "message": "Zeige immer den \"Original anzeigen\"-Knopf an"
+    },
+    "whatAlwaysShowShowOriginalButton": {
+        "message": "Aktiviere dies, wenn du immer wissen möchtest, ob sich ein Titel oder Thumbnail verändert hat."
+    },
+    "showOriginalOnHover": {
+        "message": "Zeige originale Details, wenn du mit dem Mauszeiger darauf zeigst"
+    },
+    "showIconForFormattedTitles": {
+        "message": "Zeige \"Original anzeigen\"-Knopf für automatisch formatierte Titel"
+    },
+    "fetchTimeout": {
+        "message": "Daten-Abruf-Timeout (ms)"
+    },
+    "fetchTimeoutDescription": {
+        "message": "Zeige originale Titel und Thumbnails, wenn der Server nicht innerhalb dieser Zeit antwortet."
+    },
+    "renderTimeout": {
+        "message": "Thumbnail Render-Timeout (ms)"
+    },
+    "renderTimeoutDescription": {
+        "message": "Zeige originale Thumbnails, wenn kein Thumbnail in dieser Zeit generiert werden kann."
+    },
+    "startLocalRenderTimeout": {
+        "message": "Starte lokalen Thumbnail-Erstellungsdienst Timeout (ms)",
+        "description": "If the server takes this long to generate a thumbnail, it start trying to generate one locally."
+    },
+    "startLocalRenderTimeoutDescription": {
+        "message": "Wenn der Server so lange braucht, um ein Thumbnail zu generieren, starte den Versuch, eines lokal zu generieren."
+    },
+    "Enable": {
+        "message": "Aktivieren"
+    },
+    "Titles": {
+        "message": "Titel",
+        "description": "Referring to titles of YouTube videos"
+    },
+    "Thumbnails": {
+        "message": "Thumbnails",
+        "description": "Referring to thumbnails of YouTube videos"
+    },
+    "Error": {
+        "message": "Fehler"
+    },
+    "ShowOriginal": {
+        "message": "Zeige originale Details"
+    },
+    "ShowModified": {
+        "message": "Zeige veränderte Details"
+    },
+    "FillerWarning": {
+        "message": "Warnung: Dies ist eine extrem aggressive Kategorie. Höchstwahrscheinlich musst du Einiges manuell ent-überspringen, oder es manchmal deaktivieren. Sei gewarnt, dass 50% oder mehr vieler Videos übersprungen werden! Denk jedoch daran, dass du trotzdem bestimmten Richtlinien beim Einreichen folgen musst.",
+        "description": "Warning that appears when enabling the filler tangent category"
+    },
+    "chatboxDescription": {
+        "message": "Trete bei Discord oder Matrix bei, um dauerhaft in diesem Chat zu bleiben",
+        "description": "Appears on the top of the integrated chatbox"
+    },
+    "showGuidelineHelp": {
+        "message": "Zeige Richtlinien-Hilfe",
+        "description": "Setting to show a summary of the guidelines on the submission page"
+    },
+    "tip1": {
+        "message": "Vermeide übertriebene Gesichtsausdrücke",
+        "description": "Referring to the thumbnail of a video"
+    },
+    "tip2": {
+        "message": "Denke an das große Ganze, beantworte nicht einfach die Frage des Originaltitels",
+        "description": "This is a tip about submitting a new DeArrow replacement title. If the original title is an attention grabbing title, the DeArrow title shouldn't just be an answer to that. It instead should be based on the contents of the video."
+    },
+    "tip3": {
+        "message": "Vermeide Beschreibungen von Reaktionen zum Video (\"Schockierend\")",
+        "description": "Referring to the title of a YouTube video. Shocking being when something is described as shocking"
+    },
+    "tip4": {
+        "message": "Gib genug Informationen an, dass andere wissen, worum es geht, bevor sie auf das Video klicken"
+    },
+    "tip5": {
+        "message": "Verwende Groß- und Kleinschreibung wie in einem Satz",
+        "description": "Tip about submitting titles to DeArrow"
+    },
+    "dearrowHelpSponsorBlockImported": {
+        "message": "Hinweis: Deine SponorBlock Einstellungen wurden automatisch importiert!"
+    },
+    "howItWorks": {
+        "message": "So funktioniert es"
+    },
+    "discordPromotion": {
+        "message": "Bring dich mit ein, mach Vorschläge und hilf auf {discord} oder {matrix} aus"
+    },
+    "deArrowDonationText": {
+        "message": "Falls dir gefällt, was ich bisher gemacht habe und du mir mit Geld aushelfen willst, ist hier ein Link"
+    },
+    "termsAgreement": {
+        "message": "Durch die Verwendung dieser Erweiterung stimmen Sie der {privacy-policy} und den {terms} zu"
+    },
+    "privacyPolicy": {
+        "message": "Datenschutzerklärung"
+    },
+    "termsOfUse": {
+        "message": "Nutzungsbedingungen"
+    },
+    "openSourceLicenses": {
+        "message": "Open Source Lizenzen"
+    },
+    "defaultToOriginals": {
+        "message": "Standardmäßig die ursprünglichen Videoinformationen verwenden"
+    },
+    "whatDefaultToOriginals": {
+        "message": "Zeige standardmäßig den ursprünglichen Titel und Thumbnail, aber biete eine Schaltfläche an, mit der benutzerdefinierte Titel und Thumbnails für einzelne Videos angezeigt werden können."
+    },
+    "replaceTitles": {
+        "message": "Ersetze Titel"
+    },
+    "replaceThumbnails": {
+        "message": "Ersetze Thumbnails"
+    },
+    "useCrowdsourcedTitles": {
+        "message": "Verwende crowdsourced Titel"
+    },
+    "whatUseCrowdsourcedTitles": {
+        "message": "Wenn deaktiviert, werden Titel formatiert, aber keine von der Community übermittelten Titel verwendet",
+        "description": "Description under the \"Use Crowdsourced Titles\" option"
+    },
+    "areYouSureDeleteConfig": {
+        "message": "Soll diese Konfiguration wirklich gelöscht werden?",
+        "description": "Appears when deleting a configuration for channel-based settings"
+    },
+    "NewConfiguration": {
+        "message": "Neue Konfiguration"
+    },
+    "DeleteConfiguration": {
+        "message": "Konfiguration löschen"
+    },
+    "ChannelAllowlist": {
+        "message": "Liste erlaubter Kanäle"
+    },
+    "ConfigurationName": {
+        "message": "Name der Konfiguration"
+    },
+    "ChannelListInstructions": {
+        "message": "Gib alle Kanäle, auf die du diese Konfiguration anwenden möchtest, in das untenstehende Feld, in eigene Zeilen, ein. Sowohl Kanal-IDs als auch Anzeigenamen werden unterstützt. @-Benutzernamen werden nicht unterstützt. Die Kanal-ID findest du, indem du auf den Teilen-Knopf auf der Kanalinfo-Seite klickst.",
+        "description": "Instructions for the channel allowlist feature in DeArrow to configure settings for specific channels"
+    },
+    "NoConfigurationsSetup": {
+        "message": "Noch keine Konfigurationen eingerichtet. Klicke oben auf den Knopf, um eine neue Konfiguration hinzuzufügen.",
+        "description": "Appears when there are no channel configurations setup yet on the channel allow list page"
+    },
+    "DeArrowPromotionMessage": {
+        "message": "Stoppe Clickbait, indem du Titel und Thumbnails durch genauere ersetzt"
+    },
+    "DeArrowPromotionMessage2": {
+        "message": "Genug von Clickbait? Schau dir meine neue Erweiterung zum Verbessern von Titeln und Thumbnails an"
+    },
+    "RandomThumbnailExplanation": {
+        "message": "Dieses Thumbnail wurde von einem zufälligen Zeitstempel gewählt, da es noch keine Einreichungen für dieses Video gibt",
+        "description": "A description during on boarding to explain the random thumbnail setting"
+    },
+    "RandomThumbnailAndAutoFormattedExplanation": {
+        "message": "Dieses Thumbnail wurde von einem zufälligen Zeitstempel gewählt und der Titel wurde automatisch formatiert, weil es noch keine Einreichung für dieses Video gibt",
+        "description": "A description during on boarding to explain the random thumbnail and autoformatting setting"
+    },
+    "YouCanChangeThisDefaultBelow": {
+        "message": "Du kannst diese Standardeinstellung unten ändern",
+        "description": "Appears in onboarding below explanation of random thumbnail and autoformatting"
+    },
+    "dearrowStatsMessage": {
+        "message": "{titles} Titel und {thumbnails} Thumbnails wurden ersetzt, seit du diese Erweiterung installiert hast",
+        "description": "Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
+    },
+    "dearrowStatsMessageTitlePart": {
+        "message": "{titles} Titel ",
+        "description": "Title singular part of message. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
+    },
+    "dearrowStatsMessageTitlesPart": {
+        "message": "{titles} Titel ",
+        "description": "Title plural part of message. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
+    },
+    "dearrowStatsMessageThumbnailPart": {
+        "message": "und {thumbnails} Thumbnail",
+        "description": "Thumbnail singular part of message. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
+    },
+    "dearrowStatsMessageThumbnailsPart": {
+        "message": "und {thumbnails} Thumbnails",
+        "description": "Thumbnail plural part of message. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
+    },
+    "dearrowStatsMessage2": {
+        "message": "{titleAndThumbnailMessage} wurden ersetzt, seit du diese Erweiterung installiert hast",
+        "description": "{titleAndThumbnailMessage} will become '{titles} titles and {thumbnails} thumbnails' from the other messages. It can be moved to a different part of the message if needed. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
+    },
+    "countReplacements": {
+        "message": "Zähle Titel- und Thumbnail-Ersetzungen"
+    },
+    "countReplacementsDescription": {
+        "message": "Wird verwendet, um dir Statistiken im Pop-up zu zeigen.",
+        "description": "On options page describing the setting for counting how many times titles and thumbnails have been replaced in DeArrow"
+    },
+    "YtNeuterMessage": {
+        "message": "Füge eine Filterliste hinzu, um Umfragen, Merchandise-Regale und ähnliche Werbeseitenelemente mit yt-neuter zu blockieren"
+    },
+    "requiresUblock": {
+        "message": "Benötigt uBlock Origin"
+    },
+    "videoIDWrongWhenSubmittingError": {
+        "message": "Etwas ist bei der Video-ID-Erkennung schief gelaufen. Bitte versuche vor dem Absenden, die Seite zu aktualisieren, um sicherzustellen, dass es für das richtige Video übermittelt wird. Wenn dies oft passiert, schicke bitte einen Bericht mit deinen installierten Erweiterungen und Userscripts auf GitHub, Discord oder Matrix."
+    },
+    "dearrowLogoCredit": {
+        "message": "Logo basierend auf Twemoji lizenziert unter CC-BY 4.0"
+    },
+    "zoomToFillUnsupported": {
+        "message": "SponorBlock ist nicht mit der Erweiterung \"Zoom to Fill\" kompatibel. Es gibt viele Alternativen, die problemlos funktionieren werden."
+    },
+    "freeTrialStarted": {
+        "message": "Deine gratis Probezeit wurde erfolgreich gestartet. Besuche YouTube, um es auszuprobieren"
+    },
+    "freeTrialEnded": {
+        "message": "Deine gratis Probezeit ist vorbei"
+    },
+    "freeTrialPrompt": {
+        "message": "Wenn du es für eine Stunde ausprobieren möchtest, kannst du mit dem Knopf unten eine gratis Probezeit starten."
+    },
+    "startFreeTrial": {
+        "message": "Gratis Probezeit starten"
+    },
+    "youCannotVoteDuringTrial": {
+        "message": "Du kannst während der gratis Probezeit nicht abstimmen",
+        "description": "Refers to voting for DeArrow titles and thumbnails"
+    },
+    "freeAccessRequested": {
+        "message": "Du hast dich erfolgreich für den kostenlosen Zugriff registriert. Du wirst benachrichtigt, wenn dieser gewährt wird."
+    },
+    "freeAccessComplete": {
+        "message": "Glückwunsch! Du hast nun kostenlosen Zugriff auf DeArrow"
+    },
+    "DeArrowNotActivated": {
+        "message": "DeArrow ist nicht aktiviert"
+    },
+    "ActivateDeArrow": {
+        "message": "DeArrow aktivieren"
+    },
+    "DeArrowIsActivated": {
+        "message": "DeArrow wurde erfolgreich aktiviert"
+    },
+    "Close": {
+        "message": "Schließen"
+    },
+    "ViewLicenseKey": {
+        "message": "Lizenzschlüssel anzeigen"
+    },
+    "SharingIsCaring": {
+        "message": "Teilen macht Freude"
     }
 }

@@ -1,10 +1,10 @@
 {
     "fullName": {
-        "message": "SponsorBlock per YouTube - Salta gli sponsor",
+        "message": "SponorBlock per YouTube - Salta gli sponor",
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Salta sponsorizzazioni, richieste d'iscrizione ai canali e molto altro sui video di YouTube. Segnala gli sponsor sui video che guardi per salvare il tempo agli altri.",
+        "message": "Salta sponorizzazioni, richieste d'iscrizione ai canali e molto altro sui video di YouTube. Segnala gli sponor sui video che guardi per salvare il tempo agli altri.",
         "description": "Description of the extension."
     },
     "400": {
@@ -123,7 +123,7 @@
         "message": "Rimuovi i segmenti"
     },
     "openPopup": {
-        "message": "Apri il popup di SponsorBlock"
+        "message": "Apri il popup di SponorBlock"
     },
     "closePopup": {
         "message": "Chiudi il popup"
@@ -277,7 +277,7 @@
         "message": "Tutti i Salta Avvisi Offuscati"
     },
     "longDescription": {
-        "message": "SponsorBlock ti consente di saltare sponsorizzazioni, introduzioni, conclusioni, promemoria di iscrizione e altri elementi fastidiosi dai video YouTube. SponsorBlock è un'estensione per browser di crowdsourcing, cioè che consente a chiunque di inviare l'ora di inizio e di fine dei segmenti sponsorizzati e di altro tipo. Quando una persona invia queste informazioni, chiunque altro in possesso di questa estensione sarà in grado di saltare automaticamente il segmento sponsorizzato. È possibile saltare anche le sezioni non musicali dei video musicali.",
+        "message": "SponorBlock ti consente di saltare sponorizzazioni, introduzioni, conclusioni, promemoria di iscrizione e altri elementi fastidiosi dai video YouTube. SponorBlock è un'estensione per browser di crowdsourcing, cioè che consente a chiunque di inviare l'ora di inizio e di fine dei segmenti sponorizzati e di altro tipo. Quando una persona invia queste informazioni, chiunque altro in possesso di questa estensione sarà in grado di saltare automaticamente il segmento sponorizzato. È possibile saltare anche le sezioni non musicali dei video musicali.",
         "description": "Full description of the extension on the store pages."
     },
     "website": {
@@ -346,7 +346,7 @@
     },
     "full": {
         "message": "Video Completo",
-        "description": "Used for the name of the option to label an entire video as sponsor or self promotion."
+        "description": "Used for the name of the option to label an entire video as sponor or self promotion."
     },
     "skip_category": {
         "message": "Vuoi saltare {0}?"
@@ -360,11 +360,11 @@
     },
     "skipped": {
         "message": "{0} Saltato",
-        "description": "Example: Sponsor Skipped"
+        "description": "Example: Sponor Skipped"
     },
     "muted": {
         "message": "{0} silenziato",
-        "description": "Example: Sponsor Muted"
+        "description": "Example: Sponor Muted"
     },
     "skipped_to_category": {
         "message": "Saltato a {0}",
@@ -473,7 +473,7 @@
         "message": "Usa il salto manuale quando esiste un'etichetta del video completo"
     },
     "whatManualSkipOnFullVideo": {
-        "message": "Per le persone che vogliono guardare il video senza interruzioni se contiene sponsorizzazioni o autopromozioni."
+        "message": "Per le persone che vogliono guardare il video senza interruzioni se contiene sponorizzazioni o autopromozioni."
     },
     "skipNoticeDuration": {
         "message": "Salta durata avviso (secondi):"
@@ -491,10 +491,10 @@
         "message": "Mostra Pulsante di Caricamento"
     },
     "customServerAddress": {
-        "message": "Indirizzo Server SponsorBlock"
+        "message": "Indirizzo Server SponorBlock"
     },
     "customServerAddressDescription": {
-        "message": "L'indirizzo che SponsorBlock usa per effettuare richieste al server. Questo non dovrebbe essere modificato a meno che tu non abbia un tuo server."
+        "message": "L'indirizzo che SponorBlock usa per effettuare richieste al server. Questo non dovrebbe essere modificato a meno che tu non abbia un tuo server."
     },
     "dataFetchingServerAddress": {
         "message": "Indirizzo Server di Recupero Dati"
@@ -749,7 +749,7 @@
         "message": "Capitoli personalizzati che descrivono le sezioni principali di un video."
     },
     "category_chapter_guideline1": {
-        "message": "Non menzionare i nomi degli sponsor"
+        "message": "Non menzionare i nomi degli sponor"
     },
     "category_chapter_guideline2": {
         "message": "Usa capitoli più grandi per le sezioni generali"
@@ -798,11 +798,11 @@
     },
     "fullVideoSegments": {
         "message": "Mostra un'icona quando un video è interamente promozionale",
-        "description": "Referring to the category pill that is now shown on videos that are entirely sponsor or entirely selfpromo"
+        "description": "Referring to the category pill that is now shown on videos that are entirely sponor or entirely selfpromo"
     },
     "fullVideoLabelsOnThumbnails": {
         "message": "Mostra le etichette anche sulle copertine dei video",
-        "description": "Referring to the category pill that is shown on videos that are entirely sponsor or entirely selfpromo on recommended videos, in searches or on the homepage."
+        "description": "Referring to the category pill that is shown on videos that are entirely sponor or entirely selfpromo on recommended videos, in searches or on the homepage."
     },
     "previewColor": {
         "message": "Segmento non inviato",
@@ -882,7 +882,7 @@
         "message": "Richiesta di assicurazione fallita, hai cliccato nega?"
     },
     "adblockerIssueWhitelist": {
-        "message": "Se non riesci a risolverlo, disabilita allora l'impostazione 'Forza Controllo Canale Prima di Saltare', poiché SponsorBlock non è in grado di recuperare le informazioni del canale per questo video"
+        "message": "Se non riesci a risolverlo, disabilita allora l'impostazione 'Forza Controllo Canale Prima di Saltare', poiché SponorBlock non è in grado di recuperare le informazioni del canale per questo video"
     },
     "forceChannelCheck": {
         "message": "Forza controllo canale prima di andare avanti"
@@ -907,7 +907,7 @@
         "message": "Cambia Categoria"
     },
     "nonMusicCategoryOnMusic": {
-        "message": "Questo video è classificato come musica. Sei sicuro che questo video contenga uno sponsor? Se questo è in realtà un \"Segmento Non-Musica\", apri le opzioni di questa estensione e abilita questa categoria. Quindi, è possibile inviare questo segmento come \"Non-Music\" invece di sponsor. Si prega di leggere la guida se si è confusi."
+        "message": "Questo video è classificato come musica. Sei sicuro che questo video contenga uno sponor? Se questo è in realtà un \"Segmento Non-Musica\", apri le opzioni di questa estensione e abilita questa categoria. Quindi, è possibile inviare questo segmento come \"Non-Music\" invece di sponor. Si prega di leggere la guida se si è confusi."
     },
     "multipleSegments": {
         "message": "Segmenti Multipli"
@@ -979,7 +979,7 @@
         "message": "Pagina Delle Opzioni In Modalità Scura"
     },
     "helpPageThanksForInstalling": {
-        "message": "Grazie per aver installato SponsorBlock."
+        "message": "Grazie per aver installato SponorBlock."
     },
     "helpPageReviewOptions": {
         "message": "Sei pregato di revisionare le seguenti opzioni"
@@ -1003,7 +1003,7 @@
         "message": "L'invio può esser eseguito nel popup cliccando il pulsante il \"Segmento Inizia Ora\" o nel lettore video con i pulsanti sul lettore."
     },
     "helpPageSubmitting2": {
-        "message": "Cliccare il pulsante di riproduzione indica l'inizio di un segmento e cliccare l'icona di interruzione indica la fine. Puoi preparare più sponsor prima di cliccare invio. Cliccare il pulsante carica invierà. Cliccare il cestino eliminerà."
+        "message": "Cliccare il pulsante di riproduzione indica l'inizio di un segmento e cliccare l'icona di interruzione indica la fine. Puoi preparare più sponor prima di cliccare invio. Cliccare il pulsante carica invierà. Cliccare il cestino eliminerà."
     },
     "Editing": {
         "message": "Modifica"
@@ -1015,7 +1015,7 @@
         "message": "Questo è troppo lento"
     },
     "helpPageTooSlow1": {
-        "message": "Esistono dei tasti di scelta rapida se desideri usarli. Premi il tasto del punto e virgola per indicare l'inizio/la fine di un segmento dello sponsor e clicca l'apostrofo per inviare. Questi sono modificabili nelle opzioni. Se non usi QWERTY, dovresti probabilmente cambiare l'associazione dei tasti."
+        "message": "Esistono dei tasti di scelta rapida se desideri usarli. Premi il tasto del punto e virgola per indicare l'inizio/la fine di un segmento dello sponor e clicca l'apostrofo per inviare. Questi sono modificabili nelle opzioni. Se non usi QWERTY, dovresti probabilmente cambiare l'associazione dei tasti."
     },
     "helpPageCopyOfDatabase": {
         "message": "Posso ottenere una copia del Database? Che succede se scompari?"
@@ -1075,7 +1075,7 @@
         "message": "Usa la rotellina del mouse passando sulla casella di modifica per regolare rapidamente il tempo. Le combinazioni dei tasti ctrl o shift sono utilizzabili per perfezionare le modifiche."
     },
     "categoryPillNewFeature": {
-        "message": "Novità! Vedi quando un video è interamente sponsorizzato o auto-promosso"
+        "message": "Novità! Vedi quando un video è interamente sponorizzato o auto-promosso"
     },
     "dayAbbreviation": {
         "message": "d",
@@ -1331,7 +1331,7 @@
         "message": "Quando Non Esiste una Miniatura Inviata"
     },
     "whatThumbnailFallbackOption": {
-        "message": "Selezionando una tempistica casuale, utilizzerà i dati di SponsorBlock per assicurare il tempo in un segmento promozionale non selezionato.",
+        "message": "Selezionando una tempistica casuale, utilizzerà i dati di SponorBlock per assicurare il tempo in un segmento promozionale non selezionato.",
         "description": "Describing the option for the crowdsourced thumbnail system if no thumbnail has been submitted. It can use a random time instead."
     },
     "RandomTime": {
@@ -1472,7 +1472,7 @@
         "description": "Tip about submitting titles to DeArrow"
     },
     "dearrowHelpSponsorBlockImported": {
-        "message": "Nota: Le tue impostazioni di SponsorBlock sono state importate automaticamente!"
+        "message": "Nota: Le tue impostazioni di SponorBlock sono state importate automaticamente!"
     },
     "howItWorks": {
         "message": "Come funziona"
@@ -1600,7 +1600,7 @@
         "message": "Il logo è basato su Twemoji, con licenza CC-BY 4.0"
     },
     "zoomToFillUnsupported": {
-        "message": "SponsorBlock non è compatibile con l'estensione \"Zoom to Fill\". Ci sono molte alternative funzionanti che puoi usare al suo posto."
+        "message": "SponorBlock non è compatibile con l'estensione \"Zoom to Fill\". Ci sono molte alternative funzionanti che puoi usare al suo posto."
     },
     "freeTrialStarted": {
         "message": "La tua prova gratuita è stata avviata correttamente. Visita YouTube per testarla"

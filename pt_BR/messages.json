@@ -1,1668 +1,886 @@
 {
     "fullName": {
-        "message": "SponsorBlock para YouTube - Pule Patrocínios",
+        "message": "SponorBlock for YouTube - Hopp over sponsinger",
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Pule patrocinadores, pedidos para se inscrever e mais em vídeos do YouTube. Denuncie patrocinadores em vídeos que você assistir para economizar o tempo dos outros.",
+        "message": "Hopp over sponsinger, abonnementstigging og mer på YouTube-videoer. Rapporter inn sponorer på videoer du ser på for å spare andre sin tid.",
         "description": "Description of the extension."
     },
     "400": {
-        "message": "O servidor disse que esse pedido foi inválido"
+        "message": "Tjeneren sa at denne forespørselen var ugyldig"
     },
     "429": {
-        "message": "Você enviou muitos segmentos para esse vídeo, tem certeza de que são tantos assim?"
+        "message": "Du har sendt inn for mange sponortidspunkter på denne ene videoen, er du sikker på at det er såpass mange?"
     },
     "409": {
-        "message": "Esse segmento já foi enviado."
+        "message": "Dette har allerede blitt sendt inn tidligere"
     },
     "channelWhitelisted": {
-        "message": "Canal adicionado à lista de permissões!"
+        "message": "Kanalen ble hvitelistet!"
     },
     "Segment": {
-        "message": "segmento"
+        "message": "segment"
     },
     "Segments": {
-        "message": "segmentos"
-    },
-    "SegmentsCap": {
-        "message": "Segmentos"
-    },
-    "Chapters": {
-        "message": "Capítulos"
-    },
-    "renderAsChapters": {
-        "message": "Renderizar segmentos como capítulos",
-        "description": "Refers to drawing segments on the YouTube seek bar as split up chapters, similar to the existing chapter system"
-    },
-    "showSegmentNameInChapterBar": {
-        "message": "Mostrar segmento atual ao lado do tempo do vídeo"
+        "message": "segmenter"
     },
     "upvoteButtonInfo": {
-        "message": "Aprovar este segmento"
+        "message": "Gi plusstemme til denne innsendingen"
     },
     "reportButtonTitle": {
-        "message": "Denunciar"
+        "message": "Rapporter"
     },
     "reportButtonInfo": {
-        "message": "Denunciar este segmento como inválido."
+        "message": "Rapporter inn denne innsendingen som en feil."
     },
     "Dismiss": {
-        "message": "Ignorar"
+        "message": "Lukk"
     },
     "Loading": {
-        "message": "Carregando..."
+        "message": "Laster..."
     },
     "Hide": {
-        "message": "Nunca mostrar"
+        "message": "Aldri vis"
     },
     "hitGoBack": {
-        "message": "Aperte \"reverter pulo\" para voltar onde você estava."
+        "message": "Klikk \"Angre hopp\" for å gå til dit du hoppet fra."
     },
     "unskip": {
-        "message": "Reverter pulo"
+        "message": "Angre hopp"
     },
     "reskip": {
-        "message": "Pular novamente"
+        "message": "Hopp igjen"
     },
     "unmute": {
-        "message": "Reativar o som"
+        "message": "Skru av demping"
     },
     "paused": {
-        "message": "Pausado"
+        "message": "På pause"
     },
     "manualPaused": {
-        "message": "Temporizador parado"
+        "message": "Tidtaker stoppet"
     },
     "confirmMSG": {
-        "message": "Para editar ou remover valores individuais, clique no botão de informações ou abra o pop-up da extensão clicando no ícone no canto superior direito."
+        "message": "For å redigere eller slette individuelle verdier, klikk på infoknappen eller åpne utvidelsens oppsprett ved å klikke på utvidelsesikonet i øvre høyre hjørne."
     },
     "clearThis": {
-        "message": "Tem certeza de que deseja limpar isso?\n\n"
+        "message": "Er du sikker på at du vil tømme dette?\n\n"
     },
     "Unknown": {
-        "message": "Ocorreu um erro ao enviar seus segmentos, tente novamente mais tarde."
+        "message": "Det oppstod en feil under innsending av sponortidene dine, vennligst prøv igjen senere."
     },
     "sponsorFound": {
-        "message": "Este vídeo tem segmentos no banco de dados!"
+        "message": "Denne videoen har segmenter i databasen!"
     },
     "sponsor404": {
-        "message": "Nenhum segmento encontrado"
+        "message": "Ingen segmenter ble funnet"
     },
     "sponsorStart": {
-        "message": "O segmento começa agora"
+        "message": "Segmentet starter nå"
     },
     "sponsorEnd": {
-        "message": "O segmento termina agora"
+        "message": "Segmentet slutter nå"
     },
     "sponsorCancel": {
-        "message": "Cancelar criação de segmento"
+        "message": "Avbryt opprettelse av segment"
     },
     "noVideoID": {
-        "message": "Nenhum vídeo do YouTube encontrado.\nSe isto estiver errado, atualize a guia."
+        "message": "Ingen YouTube-video ble funnet.\nHvis dette er feil, oppfrisk fanen."
     },
     "refreshSegments": {
-        "message": "Atualizar segmentos"
+        "message": "Oppdater segmenter"
     },
     "success": {
-        "message": "Sucesso!"
+        "message": "Suksess!"
     },
     "voted": {
-        "message": "Votado!"
+        "message": "Du har stemt!"
     },
     "serverDown": {
-        "message": "Parece que o servidor está fora do ar. Entre em contato com o desenvolvedor imediatamente."
+        "message": "Det ser ut til at tjeneren er nede. Kontakt utvikleren umiddelbart."
     },
     "connectionError": {
-        "message": "Ocorreu um erro de conexão. Código de erro: "
-    },
-    "segmentsStillLoading": {
-        "message": "Segmentos ainda carregando..."
+        "message": "En tilkoblingsfeil har oppstått. Feilkode: "
     },
     "clearTimes": {
-        "message": "Limpar segmentos"
+        "message": "Tøm segmenter"
     },
     "openPopup": {
-        "message": "Abrir pop-up do SponsorBlock"
+        "message": "Åpne SponorBlock-oppsprett"
     },
     "closePopup": {
-        "message": "Fechar pop-up"
-    },
-    "closeIcon": {
-        "message": "Ícone de fechar"
-    },
-    "OpenSubmissionMenu": {
-        "message": "Abrir menu de envio"
-    },
-    "sortSegments": {
-        "message": "Organizar segmentos"
+        "message": "Lukk oppsprett"
     },
     "submitCheck": {
-        "message": "Você tem certeza que deseja enviar isto?"
+        "message": "Er du sikker på at du vil sende inn dette?"
     },
     "whitelistChannel": {
-        "message": "Adicionar canal à lista de permissões"
+        "message": "Hvitelist kanalen"
     },
     "removeFromWhitelist": {
-        "message": "Remover canal da lista de permissões"
+        "message": "Fjern kanalen fra hvitelisten"
     },
     "voteOnTime": {
-        "message": "Votar em um segmento"
+        "message": "Stem på et segment"
     },
     "Submissions": {
-        "message": "Envios"
+        "message": "Innsendinger"
     },
     "savedPeopleFrom": {
-        "message": "Você poupou as pessoas de "
+        "message": "Du har spart folk fra "
     },
     "viewLeaderboard": {
-        "message": "Placar de classificação"
+        "message": "Toppliste"
     },
     "recordTimesDescription": {
-        "message": "Enviar"
+        "message": "Send"
     },
     "submissionEditHint": {
-        "message": "A edição da seção aparecerá após você clicar em enviar",
+        "message": "Seksjonsredigering vil dukke opp etter at du har klikket på «Send inn»",
         "description": "Appears in the popup to inform them that editing has been moved to the video player."
     },
     "popupHint": {
-        "message": "Dica: Você pode configurar os atalhos de tecla para enviar nas opções"
+        "message": "Hint: Du kan sette opp hurtigtaster for innsending i innstillingene"
     },
     "clearTimesButton": {
-        "message": "Limpar intervalos"
+        "message": "Tøm tidspunkter"
     },
     "Username": {
-        "message": "Nome de usuário"
+        "message": "Brukernavn"
     },
     "setUsername": {
-        "message": "Definir nome de usuário"
+        "message": "Angi brukernavn"
     },
     "copyPublicID": {
-        "message": "Copiar ID de usuário pública"
-    },
-    "copySegmentID": {
-        "message": "Copiar ID do segmento"
+        "message": "Kopiér offentlig bruker-ID"
     },
     "hideThis": {
-        "message": "Ocultar isto"
+        "message": "Skjul dette"
     },
     "Options": {
-        "message": "Opções"
+        "message": "Valg"
     },
     "showButtons": {
-        "message": "Mostrar botões no reprodutor do YouTube"
+        "message": "Vis knapper på YouTube-avspilleren"
     },
     "hideButtons": {
-        "message": "Ocultar botões no reprodutor do YouTube"
+        "message": "Skjul knapper på YouTube-avspilleren"
     },
     "hideButtonsDescription": {
-        "message": "Esta opção oculta os botões que aparecem para enviar segmentos no reprodutor do YouTube."
+        "message": "Dette skjuler knappene som dukker opp på YouTube-avspilleren for å sende inn hoppesegmenter."
     },
     "showSkipButton": {
-        "message": "Mostrar botão pular para os destaques no reprodutor"
+        "message": "Behold Hopp til høydepunkt-knappen på avspilleren"
     },
     "showInfoButton": {
-        "message": "Mostrar botão de informações no reprodutor do YouTube"
+        "message": "Vis infoknappen på YouTube-avspilleren"
     },
     "hideInfoButton": {
-        "message": "Ocultar botão de informações no reprodutor do YouTube"
+        "message": "Skjul infoknappen på YouTube-avspilleren"
     },
     "autoHideInfoButton": {
-        "message": "Ocultar automaticamente o botão de informação"
+        "message": "Skjul infoknappen automatisk"
     },
     "hideDeleteButton": {
-        "message": "Ocultar botão de apagar no reprodutor do YouTube"
+        "message": "Skjul Slett-knappen på YouTube-avspilleren"
     },
     "showDeleteButton": {
-        "message": "Mostrar botão de apagar no reprodutor do YouTube"
+        "message": "Vis Slett-knappen på YouTube-avspilleren"
     },
     "enableViewTracking": {
-        "message": "Ativar contador de segmentos pulados"
+        "message": "Skru på telling av hopp"
     },
     "whatViewTracking": {
-        "message": "Este recurso rastreia quais segmentos você pulou para permitir que os usuários saibam o quanto o envio deles ajudou outras pessoas e é usado como uma métrica junto com votos positivos para garantir que spam não entre no banco de dados. A extensão envia uma mensagem ao servidor toda vez que você pula um segmento. Espera-se que a maioria das pessoas não altere essa configuração para que os números de exibição sejam precisos. :)"
+        "message": "Denne funksjonen sporer hvilke segmenter du har hoppet over, sånn at brukere vet hvor mye bidragene deres har hjulpet andre, og brukes som et målesystem sammen med plusstemmer for å sikre at spam ikke kommer inn i databasen. Utvidelsen sender en melding til tjeneren hver gang du hopper over et segment. Forhåpentligvis endrer ikke de fleste folk på denne innstillingene, sånn at visningstallene er nøyaktige. :)"
     },
     "enableViewTrackingInPrivate": {
-        "message": "Ativar rastreamento de contagem de pulos nas guias privadas/anônimas"
-    },
-    "enableTrackDownvotes": {
-        "message": "Armazenar votos negativos de segmentos"
-    },
-    "whatTrackDownvotes": {
-        "message": "Quaisquer segmentos em que você votou negativamente permanecerão ocultos mesmo após a atualização"
-    },
-    "trackDownvotesWarning": {
-        "message": "Aviso: Desativar isto excluirá todos os votos negativos armazenados anteriormente"
+        "message": "Aktiver telling av antall hopp i privat/inkognito-faner"
     },
     "enableQueryByHashPrefix": {
-        "message": "Consulta por prefixo de hash"
+        "message": "Forespør ut i fra saltings-prefiks"
     },
     "whatQueryByHashPrefix": {
-        "message": "Em vez de solicitar segmentos do servidor usando o videoID, são enviados os 4 primeiros caracteres da hash do videoID. Este servidor enviará dados de volta para todos os vídeos com hashes similares."
+        "message": "I stedet for å forespørre segmenter fra tjeneren ut i fra video-ID-en, blir de første 4 tegnene i saltingskoden til video-ID-en sendt. Denne tjeneren vil svare tilbake med data for alle videoer med lignende saltingskoder."
     },
     "enableRefetchWhenNotFound": {
-        "message": "Recuperar segmentos em novos vídeos"
+        "message": "Innhent segmenter i nye videoer på nytt"
     },
     "whatRefetchWhenNotFound": {
-        "message": "Se o vídeo for novo e nenhum segmento for encontrado, continuaremos buscando enquanto você assiste."
-    },
-    "enableShowCategoryWithoutPermission": {
-        "message": "Mostrar categorias no menu de envios mesmo sem permissão de envio"
-    },
-    "whatShowCategoryWithoutPermission": {
-        "message": "Algumas categorias exigem autorização de envio devido a requisitos mínimos de reputação"
+        "message": "Hvis videoen er ny, og ingen segmenter ble funnet, vil den forsøke å innhente på nytt med noen minutters mellomrom mens du ser på videoen."
     },
     "showNotice": {
-        "message": "Mostrar notificação outra vez"
+        "message": "Vis varselet igjen"
     },
     "showSkipNotice": {
-        "message": "Mostrar aviso após um segmento ser ignorado"
-    },
-    "showCategoryGuidelines": {
-        "message": "Mostrar categoria de ajuda"
+        "message": "Vis varsel etter at et segment har blitt hoppet over"
     },
     "noticeVisibilityMode0": {
-        "message": "Avisos de pulo de duração normal"
+        "message": "Hopp over-varsel i full størrelse"
     },
     "noticeVisibilityMode1": {
-        "message": "Avisos de pulo automático, mesmo de curta duração"
+        "message": "Små hopp over-varsler for autohopp"
     },
     "noticeVisibilityMode2": {
-        "message": "Todos os avisos de pulo, mesmo de curta duração"
+        "message": "Alle små hopp over-varsler"
     },
     "noticeVisibilityMode3": {
-        "message": "Avisos de pulo semitransparente no pulo automático"
+        "message": "Tonet hopp over-varsel for autohopp"
     },
     "noticeVisibilityMode4": {
-        "message": "Todos os avisos de pulo semitransparente"
+        "message": "Alle tonede hopp over-varsler"
     },
     "longDescription": {
-        "message": "O SponsorBlock permite que você pule patrocinadores, introduções, créditos finais, lembretes de inscrição, e outras partes irritantes dos vídeos do YouTube. O SponsorBlock é uma extensão de navegador de colaboração coletiva que permite enviar a qualquer um o tempo inicial e final de segmentos patrocinados de vídeos do YouTube. Assim que uma pessoa enviar essa informação, todas as outras pessoas com essa extensão irão pular o segmento patrocinado. Você também pode pular seções sem música em vídeos de música.",
+        "message": "SponorBlock lar deg hoppe over sponorer, introer, outro-er, abonnementspåminnelser, og andre irriterende deler av YouTube-videoer. SponorBlock er en fellesskapsdrevet nettleserutvidelser som lar alle sende inn start- og sluttidspunktene til sponsede segmenter og andre segmenter i YouTube-videoer. Når en person sender inn denne informasjonen, vil alle andre med denne utvidelsen hoppe rett over det sponsede segmentet. Du kan også hoppe over ikke-musikk-seksjoner i musikkvideoer.",
         "description": "Full description of the extension on the store pages."
     },
     "website": {
-        "message": "Site",
+        "message": "Nettsted",
         "description": "Used on Firefox Store Page"
     },
     "sourceCode": {
-        "message": "Código fonte",
+        "message": "Kildekode",
         "description": "Used on Firefox Store Page"
     },
     "noticeUpdate": {
-        "message": "A notificação foi atualizada!",
+        "message": "Varselet har blitt oppgradert!",
         "description": "The first line of the message displayed after the notice was upgraded."
     },
     "noticeUpdate2": {
-        "message": "Se você ainda não gostar, aperte o botão nunca mostrar.",
+        "message": "Hvis du fortsatt ikke liker det, klikk på «Aldri vis»-knappen.",
         "description": "The second line of the message displayed after the notice was upgraded."
     },
     "setSkipShortcut": {
-        "message": "Pular segmento",
+        "message": "Hopp over segment",
         "description": "Keybind label"
     },
     "setStartSponsorShortcut": {
-        "message": "Iniciar/parar segmento",
+        "message": "Start/stopp segment",
         "description": "Keybind label"
     },
     "setSubmitKeybind": {
-        "message": "Enviar segmentos",
-        "description": "Keybind label"
-    },
-    "nextChapterKeybind": {
-        "message": "Próximo capítulo",
-        "description": "Keybind label"
-    },
-    "previousChapterKeybind": {
-        "message": "Capítulo anterior",
+        "message": "Send inn segmenter",
         "description": "Keybind label"
     },
     "keybindDescription": {
-        "message": "Selecione uma tecla, digitando-a e escolha as teclas modificadoras que deseja usar."
+        "message": "Velg en tast ved å trykke på den, velg deretter hvilke modifikasjonstaster du ønsker å bruke."
     },
     "0": {
-        "message": "Tempo limite de conexão excedida. Verifique a sua conexão de internet. Se a sua internet estiver funcionando, o servidor está provavelmente sobrecarregado ou fora do ar."
+        "message": "Tidsavbrudd for tilkobling. Sjekk internettilkoblingen din. Hvis internettet ditt virker, er tjeneren sannsynligvis overbelastet eller nede."
     },
     "disableSkipping": {
-        "message": "Pular está habilitado"
+        "message": "Hopping er skrudd på"
     },
     "enableSkipping": {
-        "message": "Pular está desabilitado"
+        "message": "Hopping er skrudd av"
     },
     "yourWork": {
-        "message": "Seus envios",
+        "message": "Arbeidet ditt",
         "description": "Used to describe the section that will show you the statistics from your submissions."
     },
     "502": {
-        "message": "O servidor parece estar sobrecarregado. Tente novamente em alguns segundos."
+        "message": "Tjeneren ser ut til å være overbelastet. Prøv igjen om noen sekunder."
     },
     "errorCode": {
-        "message": "Código do erro: "
+        "message": "Feilkode: "
     },
     "skip": {
-        "message": "Pular"
+        "message": "Hopp over"
     },
     "mute": {
-        "message": "Silenciar"
+        "message": "Lydløs"
     },
     "full": {
-        "message": "Vídeo Completo",
-        "description": "Used for the name of the option to label an entire video as sponsor or self promotion."
+        "message": "Full video",
+        "description": "Used for the name of the option to label an entire video as sponor or self promotion."
     },
     "skip_category": {
-        "message": "Pular {0}?"
+        "message": "Vil du hoppe over {0}?"
     },
     "mute_category": {
-        "message": "Silenciar {0}?"
+        "message": "Gjør {0} lydløs?"
     },
     "skip_to_category": {
-        "message": "Pular para {0}?",
+        "message": "Hopp til {0}?",
         "description": "Used for skipping to things (Skip to Highlight)"
     },
     "skipped": {
-        "message": "{0} pulado",
-        "description": "Example: Sponsor Skipped"
+        "message": "{0} hoppet over",
+        "description": "Example: Sponor Skipped"
     },
     "muted": {
-        "message": "{0} silenciado",
-        "description": "Example: Sponsor Muted"
+        "message": "{0} lydløs",
+        "description": "Example: Sponor Muted"
     },
     "skipped_to_category": {
-        "message": "Pulado para {0}",
+        "message": "Hoppet til {0}",
         "description": "Used for skipping to things (Skipped to Highlight)"
     },
     "disableAutoSkip": {
-        "message": "Desativar pulo automático"
+        "message": "Skru av autohopping"
     },
     "enableAutoSkip": {
-        "message": "Ativar pulo automático"
+        "message": "Skru på autohopping"
     },
     "audioNotification": {
-        "message": "Notificação de áudio ao pular"
+        "message": "Lydvarsel ved hopp"
     },
     "audioNotificationDescription": {
-        "message": "A notificação de áudio ao pular irá tocar um som sempre que um segmento for pulado. Se desativado (ou o pulo automático estiver desativado), nenhum som será reproduzido."
+        "message": "Lydvarsling ved hopp vil spille av en lyd når enn et segment blir hoppet over. Hvis det er skrudd av (eller at autohopping er skrudd av), vil det ikke bli spilt av en slik lyd."
     },
     "showTimeWithSkips": {
-        "message": "Mostrar tempo com pulos removidos"
+        "message": "Vis tiden der hoppene er trukket fra"
     },
     "showTimeWithSkipsDescription": {
-        "message": "Este tempo aparece em parênteses ao lado do tempo atual, abaixo da barra de progresso. Isto mostra a duração total do vídeo sem qualquer segmento. Isto inclui segmentos marcados apenas como \"Mostrar na barra de progresso\"."
+        "message": "Denne tiden vises i parentes ved siden av den nåværende tiden under tidsstripen. Dette viser den totale videolengden minus evt. segmenter. Dette inkluderer segmenter som kun er markert som «Vis i tidsstripen»."
     },
     "youHaveSkipped": {
-        "message": "Você pulou "
+        "message": "Du har hoppet over "
     },
     "minLower": {
-        "message": "minuto"
+        "message": "minutt"
     },
     "minsLower": {
-        "message": "minutos"
+        "message": "minutter"
     },
     "hourLower": {
-        "message": "hora"
+        "message": "time"
     },
     "hoursLower": {
-        "message": "horas"
+        "message": "timer"
     },
     "youHaveSavedTime": {
-        "message": "Você poupou as pessoas",
+        "message": "Du har spart folk for",
         "description": "You've saved people from 887,362 segments (236d 15h 5.3 minutes of their lives)."
     },
     "youHaveSavedTimeEnd": {
-        "message": " de suas vidas",
+        "message": "av sine liv",
         "description": "You've saved people from 887,362 segments (236d 15h 5.3 minutes of their lives)."
     },
     "statusReminder": {
-        "message": "Verifique status.sponsor.ajay.app para ver o estado do servidor."
-    },
-    "changeUserID": {
-        "message": "Importar/exportar seu ID de usuário privado"
+        "message": "Sjekk status.sponsor.ajay.app for tjenerstatus."
     },
     "whatChangeUserID": {
-        "message": "Esta informação deve se mantida privada. Ela é como uma senha e não deve ser compartilhada. Outras pessoas poderão se passar por você caso obtenham acesso. Se estiver procurando por sua ID pública de usuário, clique no ícone de prancheta no pop-up."
-    },
-    "setUserID": {
-        "message": "Definir ID de usuário privado"
-    },
-    "userIDChangeWarning": {
-        "message": "Aviso: A alteração do ID de usuário privado é permanente. Tem certeza de que gostaria de fazer isso? Certifique-se de fazer backup do seu antigo por precaução."
+        "message": "Dette bør holdes privat. Det er som et passord og bør ikke deles med noen. Hvis noen har dette kan de utgi seg som deg. Hvis du leter etter din offentlige bruker-ID, klikker du på utklippstavlen i oppsprettsvinduet."
     },
     "createdBy": {
-        "message": "Criado por"
+        "message": "Opprettet av"
     },
     "supportOtherSites": {
-        "message": "Suporte a sites do YouTube de terceiros"
-    },
-    "supportOtherSitesDescription": {
-        "message": "Suporte a clientes do YouTube de terceiros. Para habilitar o suporte, você deve aceitar as permissões extras.",
-        "description": "This replaces the 'supports Invidious' option because it now works on other YouTube sites such as Cloudtube"
+        "message": "Støtt tredjeparts YouTube-nettsteder"
     },
     "supportedSites": {
-        "message": "Sites suportados: "
+        "message": "Støttede nettsteder: "
     },
     "optionsInfo": {
-        "message": "Ativar apoio ao Invidious, desativar pulo automático, ocultar botões e mais."
+        "message": "Skru på Invidious-støtte, skru av autohopp, skjul knapper, og mer."
     },
     "addInvidiousInstance": {
-        "message": "Adicionar instância de cliente de terceiros"
+        "message": "Legg til tredjeparts klientinstans"
     },
     "addInvidiousInstanceDescription": {
-        "message": "Adicionar uma instância personalizada. Isso deve ser formatado APENAS com o domínio. Exemplo: invidious.ajay.app"
+        "message": "Legg til en egendefinert instans. Den må formatteres med KUN domenet. Eksempel: invidious.ajay.app"
     },
     "add": {
-        "message": "Adicionar"
+        "message": "Legg til"
     },
     "addInvidiousInstanceError": {
-        "message": "Este é um domínio inválido. Ele deve incluir APENAS a parte do domínio. Exemplo: invidious.ajay.app"
+        "message": "Dette er et ugyldig domene. Dette skal BARE inkludere domenedelen. Eksempel: invidious.ajay.app"
     },
     "resetInvidiousInstance": {
-        "message": "Redefinir lista de instâncias do Invidious"
+        "message": "Tilbakestill Invidious-instansliste"
     },
     "resetInvidiousInstanceAlert": {
-        "message": "Você está prestes a redefinir a lista de instâncias do Invidious"
+        "message": "Du er i ferd med å tilbakestille Invidious-instanslisten"
     },
     "currentInstances": {
-        "message": "Instâncias atuais:"
+        "message": "Gjeldende instanser:"
     },
     "minDuration": {
-        "message": "Duração mínima (segundos):"
+        "message": "Minimumsvarighet (i sekunder):"
     },
     "minDurationDescription": {
-        "message": "Segmentos menores do que o valor definido não serão pulados ou mostrados no reprodutor."
-    },
-    "enableManualSkipOnFullVideo": {
-        "message": "Usar o pulo manual quando houver um rótulo de vídeo completo"
-    },
-    "whatManualSkipOnFullVideo": {
-        "message": "Para pessoas que desejam assistir ao vídeo sem interrupção se ele for totalmente patrocinado ou de auto-promoção."
+        "message": "Segmenter som er kortere enn den valgte verdien, vil ikke bli hoppet over eller vises i avspilleren."
     },
     "skipNoticeDuration": {
-        "message": "Duração do aviso prévio de pulo (segundos):"
+        "message": "Varighet for hopp over-varsel (sekunder):"
     },
     "skipNoticeDurationDescription": {
-        "message": "O aviso de pulo ficará na tela por pelo menos este tempo. Para o pulo manual, pode ser visível por mais tempo."
+        "message": "Hopp over-varselet vil bli værende på skjermen i minst så mange sekunder. For manuell hopping kan det være synlig lenger."
     },
     "shortCheck": {
-        "message": "O seguinte envio é mais curto do que sua opção de duração mínima. Isto significa que já foi enviada e está sendo ignorada devido a esta opção. Tem certeza que deseja enviar mesmo assim?"
+        "message": "Den følgende innsendingen er kortere enn din valgte minimumsvarighetsinnstilling. Dette kan bety at den allerede er sendt inn, og at den simpelthen blir ignorert på grunn av denne innstillingen. Er du sikker på at du vil sende den inn?"
     },
     "liveOrPremiere": {
-        "message": "Não é permitido o envio de segmentos em transmissões ao vivo ou estreias ainda em andamento. Por favor, aguarde até que terminem, e em seguida, atualize a página e verifique se os segmentos ainda são válidos."
+        "message": "Innsendelse på en aktiv direktesending eller premiere er ikke tillatt. Vennligst vent til den er ferdig, last så siden på nytt og kontroller at segmentene fortsatt er gyldige."
     },
     "showUploadButton": {
-        "message": "Mostrar botão de envio"
+        "message": "Vis opplastingsknapp"
     },
     "customServerAddress": {
-        "message": "Endereço do servidor do SponsorBlock"
+        "message": "SponsorBlock-tjeneradresse"
     },
     "customServerAddressDescription": {
-        "message": "Endereço que o SponsorBlock usa para fazer chamadas ao servidor.\nA menos que você tenha sua própria instância de servidor, isso não deve ser alterado."
-    },
-    "dataFetchingServerAddress": {
-        "message": "Endereço do servidor para busca de dados"
-    },
-    "dataFetchingServerAddressDescription": {
-        "message": "O endereço usado para fazer chamadas para o servidor de busca de dados.\nA menos que você tenha sua própria instância de servidor, isso não deve ser alterado."
-    },
-    "thumbnailCacheServerAddress": {
-        "message": "Endereço do arquivo de miniaturas"
+        "message": "Adressen som SponorBlock bruker til å kalle på tjeneren.\nMed mindre du har din egen tjenerinstans, burde du ikke endre på det."
     },
     "save": {
-        "message": "Salvar"
+        "message": "Lagre"
     },
     "reset": {
-        "message": "Redefinir"
+        "message": "Nullstill"
     },
     "customAddressError": {
-        "message": "Este endereço não está na forma correta. Certifique-se de que possui http:// ou https:// no início e sem barras no final."
+        "message": "Adressen har ikke riktig format. Sørg for at du har https:// eller http:// i starten, og at det ikke slutter med en skråstrek."
     },
     "areYouSureReset": {
-        "message": "Tem certeza que deseja redefinir?"
+        "message": "Er du sikker på at du vil tilbakestille dette?"
     },
     "mobileUpdateInfo": {
-        "message": "m.youtube.com agora é suportado"
+        "message": "m.youtube.com er nå støttet"
     },
     "exportOptions": {
-        "message": "Importar/Exportar todas as opções"
+        "message": "Importer/Eksporter alle innstillinger"
     },
     "exportOptionsCopy": {
-        "message": "Editar/copiar"
+        "message": "Rediger/kopiér"
     },
     "exportOptionsDownload": {
-        "message": "Exportar para arquivo"
+        "message": "Lagre til fil"
     },
     "exportOptionsUpload": {
-        "message": "Importar de um arquivo"
-    },
-    "whatExportOptions": {
-        "message": "Essa é a sua configuração completa em JSON. Isso inclui seu ID de usuário privado, então tenha certeza de compartilhá-lo com sabedoria."
+        "message": "Last fra fil"
     },
     "setOptions": {
-        "message": "Definir opções"
+        "message": "Angi innstillinger"
     },
     "exportOptionsWarning": {
-        "message": "Aviso: Alterar as opções é permanente e pode fazer a extensão parar de funcionar. Tem certeza que deseja fazer isso? Certifique-se de fazer um backup por precaução."
+        "message": "Advarsel: Å endre på innstillingene er permanent og kan knekke installasjonen din. Er du sikker på at du vil gjøre dette? Sørg for å ta sikkerhetskopi av de gamle for sikkerhets skyld."
     },
     "incorrectlyFormattedOptions": {
-        "message": "Este JSON não está formatado corretamente. Suas opções não foram alteradas."
+        "message": "Denne JSON-koden er ikke formattert riktig. Dine innstillinger har ikke blitt endret på."
     },
     "confirmNoticeTitle": {
-        "message": "Enviar segmento"
+        "message": "Send inn segment"
     },
     "submit": {
-        "message": "Enviar"
+        "message": "Send"
     },
     "cancel": {
-        "message": "Cancelar"
+        "message": "Avbryt"
     },
     "delete": {
-        "message": "Deletar"
+        "message": "Slett"
     },
     "preview": {
-        "message": "Prévia"
+        "message": "Forhåndsvisning"
     },
     "unsubmitted": {
-        "message": "Não enviado"
+        "message": "Ikke innsendt"
     },
     "inspect": {
-        "message": "Inspecionar"
+        "message": "Inspiser"
     },
     "edit": {
-        "message": "Editar"
+        "message": "Rediger "
     },
     "copyDebugInformation": {
-        "message": "Copiar informações de depuração para a área de transferência"
+        "message": "Kopier avlusingsinformasjon til utklippstavlen"
     },
     "copyDebugInformationFailed": {
-        "message": "Erro ao copiar para a área de transferência"
+        "message": "Klarte ikke å skrive til utklippstavlen"
     },
     "copyDebugInformationOptions": {
-        "message": "Copia informações para a área de transferência para serem fornecidas a um desenvolvedor quando houver um bug ou quando solicitado por um desenvolvedor. Informações sensíveis como seu ID de usuário, canais na lista de permissões e endereço personalizado do servidor foram removidos. No entanto, ele contém informações como seu useragent, navegador, sistema operacional e número de versão da extensão. "
+        "message": "Kopierer informasjon til utklippstavlen som skal gis til en utvikler i feilrapporter eller når en utvikler ber om det. Sensitiv informasjon som bruker-ID-en din, hvitelistede kanaler, og tilpassede tjeneradresser har blitt fjernet. Men det inneholder informasjon som brukeragenten din, nettleseren, operativsystemet, og utvidelsesversjonsnummeret. "
     },
     "copyDebugInformationComplete": {
-        "message": "A informação de depuração foi copiada para a área de transferência. Sinta-se à vontade para remover qualquer informação que prefira não compartilhar. Salve em um arquivo de texto ou cole-a no relatório de erro."
+        "message": "Avlusingsinformasjonen har blitt kopiert til utklippstavlen. Du er velkommen til å fjerne det av informasjon som du helst ikke vil dele. Lagre dette i en tekstfil, eller lim det inn i feilrapporten."
     },
     "keyAlreadyUsed": {
-        "message": "Este atalho está vinculado a outra ação. Por favor, selecione um atalho diferente."
+        "message": "Denne hurtigtasten er knyttet til en annen handling. Vennligst velg en annen kombinasjon."
     },
     "to": {
-        "message": "até",
+        "message": "til",
         "description": "Used between segments. Example: 1:20 to 1:30"
     },
-    "CopiedExclamation": {
-        "message": "Copiado!",
-        "description": "Used after something has been copied to the clipboard. Example: 'Copied!'"
-    },
-    "generic_guideline1": {
-        "message": "Inclui âncoras de transição"
-    },
-    "generic_guideline2": {
-        "message": "Reproduzir como se nada tivesse sido pulado"
-    },
     "category_sponsor": {
-        "message": "Patrocinador"
+        "message": "Sponsor"
     },
     "category_sponsor_description": {
-        "message": "Promoção paga, referências pagas e anúncios diretos. Não deve ser usado para auto-promoção ou mensagens grátis para causas/criadores/sites/produtos que eles gostam."
-    },
-    "category_sponsor_guideline1": {
-        "message": "Promoções pagas"
-    },
-    "category_sponsor_guideline2": {
-        "message": "Não é para doações ou mercadoria personalizada"
+        "message": "Betalt promotering, betalte henvisninger, og reklamer direkte til seerne. Ikke for selvpromotering eller gratis hyllester av saker/skapere/nettsteder/produkter som de liker."
     },
     "category_selfpromo": {
-        "message": "Não-pago/Autopromoção"
+        "message": "Ubetalt/Selvpromotering"
     },
     "category_selfpromo_description": {
-        "message": "Similar a \"patrocinador\", exceto para não-pago ou auto-promoção. Isso inclui seções sobre mercadorias, doações ou informações sobre com quem eles colaboraram."
-    },
-    "category_selfpromo_guideline1": {
-        "message": "Doações, programa de membros e mercadoria personalizada"
-    },
-    "category_selfpromo_guideline2": {
-        "message": "Divulgação gratuita que não acrescenta ao vídeo"
-    },
-    "category_selfpromo_guideline3": {
-        "message": "Não é para produtos de origem corporativa ou mercadorias"
+        "message": "Minner om «Sponsor», men er ubetalt eller selvpromotering. Dette inkluderer segmenter om merchandise, donasjoner, eller info om hvem de samarbeidet med."
     },
     "category_exclusive_access": {
-        "message": "Acesso exclusivo"
+        "message": "Ekslusiv tilgang"
     },
     "category_exclusive_access_description": {
-        "message": "Apenas para rotular vídeos inteiros. Usado quando um vídeo apresenta um produto, serviço ou local ao qual eles receberam acesso gratuito ou subsidiado."
+        "message": "Kun for merking av hele videoer. Brukes når en video demonstrerer et produkt, tjeneste eller sted de har fått gratis eller subsidiert tilgang til."
     },
     "category_exclusive_access_pill": {
-        "message": "Este vídeo apresenta um produto, serviço ou local ao qual eles receberam acesso gratuito ou subsidiado",
+        "message": "Denne videoen demonstrerer et produkt, tjeneste eller sted som de har fått gratis eller subsidiert tilgang til",
         "description": "Short description for this category"
     },
-    "category_exclusive_access_guideline1": {
-        "message": "Todo o vídeo promove algo de acesso gratuito ou subsidiado"
-    },
     "category_interaction": {
-        "message": "Lembrete de interação (inscrever-se)"
+        "message": "Samhandlingspåminnelse (Abonner)"
     },
     "category_interaction_description": {
-        "message": "Quando houver um pequeno lembrete para curtir, inscrever-se ou seguir no meio do conteúdo. Se é longo ou sobre algo em específico, deveria estar sob auto-promoção."
-    },
-    "category_interaction_guideline1": {
-        "message": "Lembretes rápidos para curtir, inscrever ou seguir"
-    },
-    "category_interaction_guideline2": {
-        "message": "Inclui lembretes indiretos para comentar"
-    },
-    "category_interaction_guideline3": {
-        "message": "Não é para promoção geral, apenas um chamado para à ação"
+        "message": "Når det er en kort påminnelse om å like, abonnere på eller følge dem midt i innholdet. Hvis det er langt eller handler om noe spesifikt, burde det føres opp som selvpromotering i stedet."
     },
     "category_interaction_short": {
-        "message": "Lembrete de interação"
+        "message": "Samhandlingspåminnelse"
     },
     "category_intro": {
-        "message": "Intervalo/Vinheta de abertura"
+        "message": "Midtpause-/Introanimasjon"
     },
     "category_intro_description": {
-        "message": "Um intervalo sem conteúdo real. Pode ser uma pausa, um quadro estático, uma animação repetitiva. Isso não deve ser usado em transições que contenham informação."
+        "message": "En intervall uten noe faktisk innhold. Kan være en pause, statisk bilde, eller repetitiv animasjon. Dette burde ikke brukes til overgangsanimasjoner som inneholder informasjon."
     },
     "category_intro_short": {
-        "message": "Intervalo"
-    },
-    "category_intro_guideline1": {
-        "message": "Intervalo sem conteúdo real"
-    },
-    "category_intro_guideline2": {
-        "message": "Não é para transições com informações"
+        "message": "Midtpause"
     },
     "category_outro": {
-        "message": "Finalização/Créditos"
+        "message": "Rulletekster"
     },
     "category_outro_description": {
-        "message": "Créditos ou quando os cards finais do YouTube aparecem. Não deve ser usado para conclusões informativas."
-    },
-    "category_outro_guideline1": {
-        "message": "Não inclui conteúdo, mesmo que cartões de finalização estejam na tela"
+        "message": "Rulletekster eller når YouTube-sluttkortene dukker opp. Ikke for avslutninger med informasjon."
     },
     "category_preview": {
-        "message": "Prévia/Recapitulação"
-    },
-    "category_preview_description": {
-        "message": "Coleção de clipes que mostram o que está por vir neste vídeo ou em outros vídeos em uma série onde todas as informações são repetidas mais tarde no vídeo."
-    },
-    "category_preview_guideline1": {
-        "message": "Clipes que aparecem mais tarde ou em um vídeo futuro"
-    },
-    "category_preview_guideline2": {
-        "message": "Recapitulação de um vídeo anterior"
-    },
-    "category_preview_guideline3": {
-        "message": "Não é para seções que adicionam conteúdo adicional"
-    },
-    "category_filler": {
-        "message": "Enrolação/Piadas"
-    },
-    "category_filler_description": {
-        "message": "Cenas tangenciais inseridas apenas por enrolação ou humor que não são necessárias para compreender o tópico principal do vídeo. Isto não deve incluir segmentos que fornecem contexto ou detalhes de segundo plano. Esta é uma categoria muito agressiva para quando você não está com disposição para \"diversão\"."
+        "message": "Forhåndsvisning/Oppsummering"
     },
     "category_filler_short": {
-        "message": "Enrolação"
-    },
-    "category_filler_guideline1": {
-        "message": "Cenas tangenciais apenas para enrolação ou humor"
-    },
-    "category_filler_guideline2": {
-        "message": "Distrações, erros de gravação, repetições"
-    },
-    "category_filler_guideline3": {
-        "message": "Não é para cenas necessárias para o entendimento do tópico"
+        "message": "Fyllstoff"
     },
     "category_music_offtopic": {
-        "message": "Música: trecho sem música"
+        "message": "Musikk: Seksjon uten musikk"
     },
     "category_music_offtopic_description": {
-        "message": "Apenas para uso em vídeos musicais. Deve ser usado exclusivamente para seções de vídeos musicais que já não pertençam à outra categoria."
+        "message": "Kun for bruk i musikkvideoer. Dette burde kun brukes for seksjoner i musikkvideoer som ikke allerede dekkes av en annen kategori."
     },
     "category_music_offtopic_short": {
-        "message": "Sem música"
-    },
-    "category_music_offtopic_guideline1": {
-        "message": "Seções que não estão nos lançamentos oficiais"
-    },
-    "category_music_offtopic_guideline2": {
-        "message": "Sem música numa performance ao vivo"
+        "message": "Ikke-musikk"
     },
     "category_poi_highlight": {
-        "message": "Destaques"
+        "message": "Høydepunkt"
     },
     "category_poi_highlight_description": {
-        "message": "A parte do vídeo que a maioria das pessoas procura. Similar aos comentários \"Vídeo começa em x\"."
-    },
-    "category_poi_highlight_guideline1": {
-        "message": "A seção que maioria das pessoas está procurando"
-    },
-    "category_poi_highlight_guideline2": {
-        "message": "Pode pular o contexto"
-    },
-    "category_poi_highlight_guideline3": {
-        "message": "Pode pular para o título ou miniatura"
-    },
-    "category_chapter": {
-        "message": "Capítulo"
-    },
-    "category_chapter_description": {
-        "message": "Capítulos personalizados que descrevem as principais seções de um vídeo."
-    },
-    "category_chapter_guideline1": {
-        "message": "Não mencione os nomes dos patrocinadores"
-    },
-    "category_chapter_guideline2": {
-        "message": "Use capítulos maiores para seções gerais"
-    },
-    "category_chapter_guideline3": {
-        "message": "Capítulos menores podem ser colocados em capítulos maiores"
+        "message": "Den del av videoen som de fleste er interessert i. Tilsvarende kommentarer som \"Videoen begynner på x\"."
     },
     "category_livestream_messages": {
-        "message": "Transmissão ao vivo: Leituras de Doação/Mensagem"
+        "message": "Direktesending: Donasjons-/Meldingshøytlesninger"
     },
     "category_livestream_messages_short": {
-        "message": "Leitura de Mensagens"
+        "message": "Høytlesning av meldinger"
     },
     "autoSkip": {
-        "message": "Pular automaticamente"
+        "message": "Hopp over automatisk"
     },
     "manualSkip": {
-        "message": "Pular manualmente"
+        "message": "Manuelt hopp"
     },
     "showOverlay": {
-        "message": "Mostrar na barra de progresso"
+        "message": "Vis i tidsstripen"
     },
     "disable": {
-        "message": "Desativar"
+        "message": "Deaktiver"
     },
     "autoSkip_POI": {
-        "message": "Pular automaticamente para o início"
+        "message": "Autohopp til starten"
     },
     "manualSkip_POI": {
-        "message": "Perguntar quando o vídeo carregar"
+        "message": "Spør når videoen laster"
     },
     "showOverlay_POI": {
-        "message": "Mostrar na barra de progresso"
+        "message": "Vis i tidsstripen"
     },
     "showOverlay_full": {
-        "message": "Mostrar rótulo"
-    },
-    "showOverlay_chapter": {
-        "message": "Mostrar capítulos"
+        "message": "Vis merke"
     },
     "autoSkipOnMusicVideos": {
-        "message": "Pular automaticamente todos os segmentos quando houver trechos sem música"
+        "message": "Autohopp over alle segmenter når det er et segment uten musikk"
     },
     "muteSegments": {
-        "message": "Permitir segmentos que silenciem o áudio ao invés de pular"
+        "message": "Tillat segmenter som slår av lyden i stedet for å hoppe over"
     },
     "fullVideoSegments": {
-        "message": "Mostrar um ícone quando um vídeo é inteiramente um anúncio",
-        "description": "Referring to the category pill that is now shown on videos that are entirely sponsor or entirely selfpromo"
-    },
-    "fullVideoLabelsOnThumbnails": {
-        "message": "Mostrar rótulos nas miniaturas de vídeo também",
-        "description": "Referring to the category pill that is shown on videos that are entirely sponsor or entirely selfpromo on recommended videos, in searches or on the homepage."
+        "message": "Vis et ikon når en video utelukkende er reklame",
+        "description": "Referring to the category pill that is now shown on videos that are entirely sponor or entirely selfpromo"
     },
     "previewColor": {
-        "message": "Cor não enviada",
+        "message": "Ikke innsendt-farge",
         "description": "Referring to submissions that have not been sent to the server yet."
     },
     "seekBarColor": {
-        "message": "Cor da barra de progresso"
+        "message": "Tidsstripefarge"
     },
     "category": {
-        "message": "Categoria"
+        "message": "Kategori"
     },
     "skipOption": {
-        "message": "Opção de pulo",
+        "message": "Hoppinnstilling",
         "description": "Used on the options page to describe the ways to skip the segment (auto skip, manual, etc.)"
     },
     "enableTestingServer": {
-        "message": "Habilitar servidor de testes beta"
+        "message": "Skru på betatestingstjeneren"
     },
     "whatEnableTestingServer": {
-        "message": "Seus envios e votos NÃO SERÃO ENVIADOS para o servidor principal. Use isso apenas para testes."
+        "message": "Dine innsendinger og stemmer BLIR IKKE REGNET MED med tanke på hovedtjeneren. Kun bruk dette til testing."
     },
     "testingServerWarning": {
-        "message": "Todos os envios e votos NÃO SERÃO ENVIADOS para o servidor principal quando conectado ao servidor de teste. Desative quando você quiser fazer envios reais."
+        "message": "Alle innsendinger og stemmer BLIR IKKE REGNET MED med tanke på hovedtjeneren når du kobler til testtjeneren. Sørg for å skru dette av når du vil sende inn ekte innsendinger."
     },
     "bracketNow": {
-        "message": "(Agora)"
+        "message": "(Nå)"
     },
     "moreCategories": {
-        "message": "Mais categorias"
+        "message": "Flere kategorier"
     },
     "chooseACategory": {
-        "message": "Selecione uma categoria"
+        "message": "Velg en kategori"
     },
     "enableThisCategoryFirst": {
-        "message": "Para enviar os segmentos com a categoria de \"{0}\", você deve ativá-la nas opções. Você será redirecionado para as opções agora.",
+        "message": "For å sende inn segmenter i «{0}»-kategorien, må du skru det på i innstillingene. Du vil nå bli omdirigert til innstillingene.",
         "description": "Used when submitting segments to only let them select a certain category if they have it enabled in the options."
     },
     "poiOnlyOneSegment": {
-        "message": "Aviso: este tipo de segmento pode ter no máximo um ativo por vez. Enviar múltiplos fará com que um aleatório seja mostrado."
+        "message": "Advarsel: Denne type segment kan ha maksimalt én aktiv om gangen. Å legge inn flere vil forårsake en tilfeldig framvisning."
     },
     "youMustSelectACategory": {
-        "message": "Você deve selecionar uma categoria para todos os segmentos que você está enviando!"
-    },
-    "bracketStart": {
-        "message": "(Início) "
+        "message": "Du må velge en kategori for alle segmentene du sender inn!"
     },
     "bracketEnd": {
-        "message": "(Fim)"
-    },
-    "End": {
-        "message": "Fim",
-        "description": "Button that skips to the end of a segment"
+        "message": "(Slutt)"
     },
     "hiddenDueToDownvote": {
-        "message": "oculto: voto negativo"
+        "message": "skjult: stemt ned"
     },
     "hiddenDueToDuration": {
-        "message": "oculto: muito curto"
-    },
-    "manuallyHidden": {
-        "message": "oculto manualmente"
+        "message": "skjult: for kort"
     },
     "channelDataNotFound": {
         "description": "This error appears in an alert when they try to whitelist a channel and the extension is unable to determine what channel they are looking at.",
-        "message": "O ID do canal ainda não foi carregado. Se você estiver usando um vídeo incorporado, tente usar a página inicial do YouTube. Isso também pode ser causado por mudanças no layout do YouTube, se este for o caso, comente aqui:"
-    },
-    "invidiousPermissionRefresh": {
-        "message": "O navegador revogou a permissão necessária para funcionar em Invidious e em outros sites de terceiros. Por favor, clique no botão abaixo para reativar essa permissão."
+        "message": "Kanal-ID er ikke lastet enda. Hvis du bruker en innebygd video, prøv å bruke YouTube-hjemmesiden i stedet. Dette kan også forårsakes av endringer i YouTube-oppsett, hvis du mistenker det, kommenter her:"
     },
     "acceptPermission": {
-        "message": "Aceitar permissão"
+        "message": "Godta tillatelse"
     },
     "permissionRequestSuccess": {
-        "message": "Solicitação de permissão bem-sucedida!"
+        "message": "Tillatelsesforespørselen lyktes!"
     },
     "permissionRequestFailed": {
-        "message": "Falha na solicitação de permissão, você clicou em negar?"
+        "message": "Tillatelsesforespørselen mislyktes, klikket du på Avvis?"
     },
     "adblockerIssueWhitelist": {
-        "message": "Se você não consegue resolver isso, desative a opção 'Forçar verificação do canal antes de pular', pois o SponsorBlock não pode recuperar as informações deste vídeo"
+        "message": "Om du ikke er i stand til å løse dette, forsøk å deaktiver innstillingen 'Fremtving kanalsjekk før hopp', siden SponorBlock ikke kan hente kanalinformasjon for denne videoen"
     },
     "forceChannelCheck": {
-        "message": "Forçar verificação do canal antes de pular"
+        "message": "Fremtving kanalsjekk før hopp"
     },
     "whatForceChannelCheck": {
-        "message": "Por padrão, ele pulará segmentos imediatamente antes mesmo de saber qual é o canal. Alguns segmentos no início do vídeo podem ser ignorados nos canais da lista de permissões. A ativação dessa opção evitará isso, mas irá fazer com que todos os pulos tenham um pequeno atraso, pois a obtenção do ID do canal pode levar algum tempo. Esse atraso pode ser imperceptível se você possuir uma internet rápida."
+        "message": "Som standard, vil den hoppe over segmenter umiddelbart før den engang vet hvilken kanal det er. Som standard vil noen segmenter i begynnelsen av videoen bli hoppet over på hvitelistede kanaler. Å skru på denne innstillingen vil forhindre dette, men også føre til at all hopping har en liten forsinkelse siden innhentingen av kanal-ID-en kan ta litt tid. Denne forsinkelsen vil kanskje ikke bli lagt merke til hvis du har raskt internett."
     },
     "forceChannelCheckPopup": {
-        "message": "Considere ativar \"Forçar verificação do canal antes de pular\""
+        "message": "Vurder å skru på «Fremtving kanalsjekk før hopp»"
     },
     "downvoteDescription": {
-        "message": "Tempo errado/incorreto"
-    },
-    "incorrectVote": {
-        "message": "Incorreto"
-    },
-    "harmfulVote": {
-        "message": "Nocivo",
-        "description": "Used for chapter segments when the text is harmful/offensive to remove it faster"
+        "message": "Feil tidtaking"
     },
     "incorrectCategory": {
-        "message": "Mudar categoria"
+        "message": "Endre kategori"
     },
     "nonMusicCategoryOnMusic": {
-        "message": "Esse vídeo é categorizado como música. Tem certeza de que é patrocinado? Se realmente for um trecho sem música, abra as opções da extensão e ative a categoria. Assim, você pode enviar esse segmento como \"sem música\" em vez de \"patrocinador\". Leia as diretrizes se tiver dúvidas."
+        "message": "Denne videoen er kategorisert som musikk. Er du sikker på at dette har en sponor? Hvis det egentlig er et \"Ikke-musikk-segment\", åpne opp innstillingene til utvidelsen og skru på denne kategorien. Deretter kan du sende dette segmentet som \"Ikke-musikk\" i stedet for som sponsing. Vennligst les retningslinjene hvis du er forvirret."
     },
     "multipleSegments": {
-        "message": "Múltiplos segmentos"
+        "message": "Flere segmenter"
     },
     "guidelines": {
-        "message": "Diretrizes"
+        "message": "Retningslinjer"
     },
     "readTheGuidelines": {
-        "message": "Leia as Diretrizes!!",
+        "message": "Les retningslinjene!!",
         "description": "Show the first time they submit or if they are \"high risk\""
     },
     "categoryUpdate1": {
-        "message": "As categorias estão aqui!"
+        "message": "Kategorier er her!"
     },
     "categoryUpdate2": {
-        "message": "Abra as opções para ignorar as introduções, créditos finais, promoção de mercadoria, etc."
+        "message": "Åpne innstillingene for å hoppe over introer, outro-er, merchandise, osv."
     },
     "help": {
-        "message": "Ajuda"
+        "message": "Hjelp"
     },
     "GotIt": {
-        "message": "Entendi",
+        "message": "Jeg forstår",
         "description": "Used as the button to dismiss a tooltip"
     },
     "fullVideoTooltipWarning": {
-        "message": "Este segmento é grande. Se o vídeo inteiro for sobre um tópico, altere de \"Pular\" para \"Vídeo completo\". Consulte as diretrizes para obter mais informações."
+        "message": "Dette segmentet er stort. Dersom hele videoen er omtrent ett emne, så endre fra \"Hopp Over\" til \"Full Video\". Se retningslinjene for mer informasjon."
     },
     "categoryPillTitleText": {
-        "message": "Este vídeo inteiro está rotulado como esta categoria e está muito integrado para poder ser separado"
-    },
-    "chapterNameTooltipWarning": {
-        "message": "Um de seus nomes de capítulo é semelhante a uma categoria. Sempre que possível, você deve usar categorias."
+        "message": "Hele denne videoen er merket som denne kategorien og er for tett knyttet til å kunne separeres"
     },
     "experiementOptOut": {
-        "message": "Optar por sair de todos os experimentos futuros",
+        "message": "Reservér deg mot alle fremtidige eksperimenter",
         "description": "This is used in a popup about a new experiment to get a list of unlisted videos to back up since all unlisted videos uploaded before 2017 will be set to private."
     },
     "hideForever": {
-        "message": "Ocultar para sempre"
-    },
-    "warningChatInfo": {
-        "message": "Percebemos que você estava cometendo alguns erros comuns. Apreciamos muito o seu trabalho até agora, mas nos esforçamos para alcançar a perfeição aqui, então mesmo os pequenos erros são importantes :)"
+        "message": "Skjul for alltid"
     },
     "questionButton": {
-        "message": "Eu tenho uma dúvida"
-    },
-    "askAQuestion": {
-        "message": "Pergunte algo"
-    },
-    "warningConfirmButton": {
-        "message": "Eu entendo o motivo"
-    },
-    "warningError": {
-        "message": "Erro ao tentar reconhecer o aviso:"
-    },
-    "deArrowMessageRecieved": {
-        "message": "Você recebeu uma dica de um moderador"
+        "message": "SpørsmålsKnapp"
     },
     "Donate": {
-        "message": "Doar"
-    },
-    "considerDonating": {
-        "message": "Ajude a financiar o desenvolvimento"
+        "message": "Donér"
     },
     "hideDonationLink": {
-        "message": "Ocultar o link de doação"
+        "message": "Skjul donasjonslenke"
     },
     "darkModeOptionsPage": {
-        "message": "Modo escuro na página de opções"
+        "message": "Mørk modus på instillingssiden"
     },
     "helpPageThanksForInstalling": {
-        "message": "Obrigado por instalar o SponsorBlock."
+        "message": "Takk for at du installerte SponorBlock."
     },
     "helpPageReviewOptions": {
-        "message": "Por favor, revise as opções abaixo"
+        "message": "Vennligst se gjennom innstillingene nedenfor"
     },
     "helpPageFeatureDisclaimer": {
-        "message": "Muitos recursos são desativados por padrão. Se você deseja pular introduções, encerramentos, usar o Invidious, entre outros, ative as opções abaixo. Você também pode ocultar/mostrar elementos da interface."
+        "message": "Mange funksjoner er deaktivert som standard. Om du vil hoppe over introer, outro-er, benytte Invidious osv., aktiver dem nedenfor. Du kan også vise eller skjule UI-elementer."
     },
     "helpPageHowSkippingWorks": {
-        "message": "Como a função pular funciona"
+        "message": "Hvordan hopping fungerer"
     },
     "helpPageHowSkippingWorks1": {
-        "message": "Segmentos do vídeo serão pulados automaticamente se forem encontrados na base de dados. Você pode abrir o pop-up clicando no ícone da extensão para ter uma prévia de quais são."
+        "message": "Videosegmenter vil automatisk bli hoppet over hvis de finnes i databasen. Du kan åpne oppsprettsvinduet ved å klikke på utvidelsesikonet for å få en forhåndsvisning av hva de er."
     },
     "helpPageHowSkippingWorks2": {
-        "message": "Sempre que você pular um segmento, você receberá um aviso. Se o tempo estiver errado vote contra clicando no voto negativo! Você também pode votar no pop-up."
+        "message": "Hver gang du hopper over et segment vil du få et varsel. Hvis tidtakingen ser feil ut stem ned ved å klikke på nedstemme! Du kan også stemme i oppsprettsvinduet."
     },
     "Submitting": {
-        "message": "Enviando"
+        "message": "Innsending"
     },
     "helpPageSubmitting1": {
-        "message": "O envio pode ser feito no pop-up apertando o botão \"O segmento começa agora\" ou no reprodutor de vídeo com os botões no reprodutor."
+        "message": "Innsending kan enten gjøres i oppsprettsvinduet ved å klikke på \"Segmentet starter nå\"-knappen eller i videoavspilleren ved å klikke på knappene på avspilleren."
     },
     "helpPageSubmitting2": {
-        "message": "Clicar no botão de começar indica o início de um segmento e clicar no ícone de parada indica o fim. Você pode preparar vários patrocinadores antes de enviar. Clicar no botão de enviar enviará. Clicar na lata de lixo excluirá."
+        "message": "Klikk på avspillingsknappen angir starten av et segment og klikk på stopp-ikonet angir slutten. Du kan gjøre klar flere sponorer før du sender inn. Klikk på opplastningsknappen for å sende inn. Klikk på papirkurven for å slette."
     },
     "Editing": {
-        "message": "Editando"
+        "message": "Redigering"
     },
     "helpPageEditing1": {
-        "message": "Se você errar, você pode editar ou deletar seus segmentos clicando na seta para cima."
+        "message": "Hvis du rotet det til kan du redigere eller slette segmentene dine etter at du har klikket på pil opp-knappen."
     },
     "helpPageTooSlow": {
-        "message": "Isto está muito devagar"
+        "message": "Dette er for tidkrevende"
     },
     "helpPageTooSlow1": {
-        "message": "Há teclas de atalho se você quiser usá-las. Pressione a tecla ponto e vírgula para indicar o início/fim de um segmento de patrocinador e clique no apóstrofo para enviar. Estas podem ser alteradas nas opções. Se você não usa QWERTY, você provavelmente deve alterar as teclas vinculadas."
+        "message": "Om du vil kan du bruke hurtigtaster. Trykk på semikolon-tasten for å angi start/stopp av et sponorsegment og klikk på apostrof for å sende inn. Disse kan endres i innstillinger. Om du ikke bruker QWERTY bør du sannsynligvis endre hurtigtastene."
     },
     "helpPageCopyOfDatabase": {
-        "message": "Posso baixar uma cópia do banco de dados? O que acontece se vocês desaparecerem?"
+        "message": "Kan jeg få en kopi av databasen? Hva hender hvis du forsvinner?"
     },
     "helpPageCopyOfDatabase1": {
-        "message": "O banco de dados é público e está disponível em"
+        "message": "Databasen er offentlig og tilgjengelig på"
     },
     "helpPageCopyOfDatabase2": {
-        "message": "O código-fonte está disponível gratuitamente. Então, mesmo que algo aconteça comigo, seus envios não estarão perdidos."
+        "message": "Kildekoden er fritt tilgjengelig. Så selv om noe skulle skje med meg vil ikke dine bidrag gå tapt."
     },
     "helpPageNews": {
-        "message": "Notícias e como tudo é feito"
+        "message": "Nyheter og hvordan det er laget"
     },
     "helpPageSourceCode": {
-        "message": "Onde posso obter o código-fonte?"
+        "message": "Hvor kan jeg finne kildekoden?"
     },
     "Credits": {
-        "message": "Créditos"
+        "message": "Anerkjennelser"
     },
     "LearnMore": {
-        "message": "Saiba mais"
-    },
-    "FullDetails": {
-        "message": "Detalhes completos"
+        "message": "Les mer"
     },
     "CopyDownvoteButtonInfo": {
-        "message": "Vota negativamente e cria uma cópia local para você reenviar"
+        "message": "Stemmer ned og oppretter en lokal kopi som du kan sende inn på nytt"
     },
     "OpenCategoryWikiPage": {
-        "message": "Abrir a página wiki desta categoria."
+        "message": "Åpne denne kategoriens wiki-side."
     },
     "CopyAndDownvote": {
-        "message": "Copiar e votar negativamente"
+        "message": "Kopiér og stem ned"
     },
     "ContinueVoting": {
-        "message": "Continuar votando"
+        "message": "Fortsett å stemme"
     },
     "ChangeCategoryTooltip": {
-        "message": "Isto irá aplicar instantaneamente aos seus segmentos"
-    },
-    "downvote": {
-        "message": "Voto negativo"
-    },
-    "upvote": {
-        "message": "Voto positivo"
+        "message": "Dette vil umiddelbart gjelde for dine segmenter"
     },
     "hideSegment": {
-        "message": "Ocultar segmento"
-    },
-    "skipSegment": {
-        "message": "Pular segmento"
-    },
-    "playChapter": {
-        "message": "Reproduzir capítulo"
+        "message": "Skjul segment"
     },
     "SponsorTimeEditScrollNewFeature": {
-        "message": "Use a roda do mouse enquanto mantêm o cursor sobre a caixa de edição para ajustar o tempo rapidamente. Combinações das teclas ctrl e shift podem ser usadas para refinar as mudanças."
+        "message": "Bruk musehjulet mens du peker over redigeringsboksen for å raskt justere tiden. Kombinasjoner av ctrl- eller shift-tasten kan brukes til å finjustere endringene."
     },
     "categoryPillNewFeature": {
-        "message": "Novo! Veja quando um vídeo é inteiramente patrocinado ou de auto-promoção"
-    },
-    "yearAbbreviation": {
-        "message": "a",
-        "description": "100y"
+        "message": "Nyhet! Se om en video er fullstendig sponset eller selvpromotert"
     },
     "dayAbbreviation": {
         "message": "d",
         "description": "100d"
     },
     "hourAbbreviation": {
-        "message": "h",
+        "message": "t",
         "description": "100h"
     },
     "optionsTabBehavior": {
-        "message": "Comportamento",
+        "message": "Oppførsel",
         "description": "Appears in Options as a tab header for options related to categories and skipping behavior. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width)."
     },
     "optionsTabInterface": {
-        "message": "Interface",
+        "message": "Grensesnitt",
         "description": "Appears in Options as a tab header for options related to GUI and sounds. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width)."
     },
     "optionsTabKeyBinds": {
-        "message": "Teclas de atalho",
+        "message": "Hurtigtaster",
         "description": "Appears in Options as a tab header for keybinds. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width)."
     },
     "optionsTabBackup": {
-        "message": "Backup/Restauração",
+        "message": "Sikkerhetskopiér/gjenskap",
         "description": "Appears in Options as a tab header for options related to saving/restoring your settings. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width)."
     },
     "optionsTabAdvanced": {
-        "message": "Diversos",
+        "message": "Diverse",
         "description": "Appears in Options as a tab header for advanced/niche options. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width)."
     },
     "noticeVisibilityLabel": {
-        "message": "Quando mostrar aviso de pulo",
+        "message": "Hopp over-varselutseende",
         "description": "Option label"
     },
     "unbind": {
-        "message": "Desvincular",
+        "message": "Fjern",
         "description": "Unbind keyboard shortcut"
     },
     "notSet": {
-        "message": "Não configurado"
+        "message": "Ikke angitt"
     },
     "change": {
-        "message": "Alterar"
+        "message": "Endre"
     },
     "youtubeKeybindWarning": {
-        "message": "Este já é um atalho padrão do YouTube. Tem certeza que deseja utilizá-lo?"
+        "message": "Dette er en innebygget YouTube-hurtigtast. Er du sikker på at du vil bruke den?"
     },
     "betaServerWarning": {
-        "message": "O servidor BETA está habilitado!"
+        "message": "BETA Server er aktivert!"
     },
     "openOptionsPage": {
-        "message": "Abrir página de opções"
+        "message": "Åpne innstillingsside"
     },
     "resetToDefault": {
-        "message": "Redefinir configurações para o padrão"
+        "message": "Tilbakestill innstillinger til standard"
     },
     "confirmResetToDefault": {
-        "message": "Tem certeza de que deseja redefinir todas as configurações para os valores padrão? Essa ação não poderá ser desfeita."
-    },
-    "exportSegments": {
-        "message": "Exportar segmentos"
-    },
-    "importSegments": {
-        "message": "Importar segmentos"
-    },
-    "Import": {
-        "message": "Importar",
-        "description": "Button to initiate importing segments. Appears under the textbox where they paste in the data"
-    },
-    "redeemSuccess": {
-        "message": "Resgatado com sucesso!"
-    },
-    "redeemFailed": {
-        "message": "A chave de licença é inválida"
-    },
-    "hideUpsells": {
-        "message": "Ocultar opções não disponíveis sem pagamento extra"
-    },
-    "hideNewFeatureUpdates": {
-        "message": "Ocultar avisos sobre novos recursos"
-    },
-    "chooseACountry": {
-        "message": "Escolha um país"
-    },
-    "noDiscount": {
-        "message": "Você não se qualifica para um desconto"
-    },
-    "discountLink": {
-        "message": "Link para desconto (veja o preço rosa)"
-    },
-    "selectYourCountry": {
-        "message": "Selecione o seu país"
-    },
-    "cantAfford": {
-        "message": "Se você não puder comprar uma licença, clique {aqui} para ver se você tem direito a um desconto",
-        "description": "Keep the curly braces. The word 'here' should be translated as well."
-    },
-    "patreonSignIn": {
-        "message": "Entrar com Patreon"
-    },
-    "redeem": {
-        "message": "Resgatar"
-    },
-    "joinOnPatreon": {
-        "message": "Inscreva-se no Patreon"
-    },
-    "oneTimePurchase": {
-        "message": "Compra única"
-    },
-    "enterLicenseKey": {
-        "message": "Inserir chave de licença"
-    },
-    "unsubmittedSegmentCounts": {
-        "message": "Você tem atualmente {0} em {1}",
-        "description": "Example: You currently have 12 unsubmitted segments on 5 videos"
-    },
-    "unsubmittedSegmentCountsZero": {
-        "message": "No momento, você não tem segmentos não enviados",
-        "description": "Replaces 'unsubmittedSegmentCounts' string when there are no unsubmitted segments"
-    },
-    "unsubmittedSegmentsSingular": {
-        "message": "segmento não enviado",
-        "description": "Example: You currently have 1 *unsubmitted segment* on 1 video"
-    },
-    "unsubmittedSegmentsPlural": {
-        "message": "segmentos não enviados",
-        "description": "Example: You currently have 12 *unsubmitted segments* on 5 videos"
-    },
-    "videosSingular": {
-        "message": "vídeo",
-        "description": "Example: You currently have 3 unsubmitted segments on 1 *video*"
-    },
-    "videosPlural": {
-        "message": "vídeos",
-        "description": "Example: You currently have 12 unsubmitted segments on 5 *videos*"
-    },
-    "clearUnsubmittedSegments": {
-        "message": "Limpar todos os segmentos",
-        "description": "Label for a button in settings"
-    },
-    "clearUnsubmittedSegmentsConfirm": {
-        "message": "Tem certeza de que deseja limpar todos os segmentos não enviados?",
-        "description": "Confirmation message for the Clear unsubmitted segments button"
-    },
-    "showUnsubmittedSegments": {
-        "message": "Mostrar segmentos",
-        "description": "Show/hide button for the unsubmitted segments list"
-    },
-    "hideUnsubmittedSegments": {
-        "message": "Ocultar segmentos",
-        "description": "Show/hide button for the unsubmitted segments list"
-    },
-    "videoID": {
-        "message": "ID do vídeo",
-        "description": "Header of the unsubmitted segments list"
-    },
-    "segmentCount": {
-        "message": "Contagem de segmentos",
-        "description": "Header of the unsubmitted segments list"
-    },
-    "actions": {
-        "message": "Ações",
-        "description": "Header of the unsubmitted segments list"
-    },
-    "exportSegmentsAsURL": {
-        "message": "Compartilhar como URL"
-    },
-    "segmentFetchFailureWarning": {
-        "message": "Alerta: o servidor ainda não respondeu com segmentos. Pode ser que os segmentos desse vídeo já tenham sido enviados, mas ainda não foram recebidos devido a problemas do servidor."
-    },
-    "allowScrollingToEdit": {
-        "message": "Permitir rolagem para editar tempos"
-    },
-    "NoticeTimeAfterSkip": {
-        "message": "{seconds}s",
-        "description": "This is used on the popup to show how much time left. It will look like \"5s\". The word {seconds} will be replaced, so keep it here. Translations should only change the \"s\""
-    },
-    "deArrowFullName": {
-        "message": "DeArrow - Miniaturas e títulos objetivos no YouTube",
-        "description": "Name of the Clickbait extension. The name refers to removing arrows from thumbnails"
-    },
-    "deArrowDescription": {
-        "message": "Miniaturas e títulos selecionados pela comunidade para descrever os vídeos de forma objetiva, sem sensacionalismo e sem truques para ganhar cliques.",
-        "description": "Description of the Clickbait extension."
-    },
-    "chooseDescriptive": {
-        "message": "Escolha o que mais bem descreve"
-    },
-    "Original": {
-        "message": "Original"
-    },
-    "OriginalTitle": {
-        "message": "Título original"
-    },
-    "CurrentTime": {
-        "message": "Momento atual"
-    },
-    "resetCustomTitle": {
-        "message": "Voltar ao título original"
-    },
-    "resetIcon": {
-        "message": "Redefinir ícone"
-    },
-    "Vote": {
-        "message": "Votar"
-    },
-    "TypeYourOwnTitleHere": {
-        "message": "Digite um título melhor"
-    },
-    "VideoNotReady": {
-        "message": "O vídeo não está pronto"
-    },
-    "FailedToRender": {
-        "message": "Falha ao renderizar",
-        "description": "Thumbnail preview failed to render"
-    },
-    "CanvasMissing": {
-        "message": "Quadro não encontrado",
-        "description": "Canvas is the name of an HTML element used to draw thumbnails onto"
-    },
-    "ExceptionWhileRendering": {
-        "message": "Erro ao renderizar",
-        "description": "Displayed if there is a general error when trying to render the thumbnail"
-    },
-    "FailedToLoad": {
-        "message": "Falha ao carregar",
-        "description": "Thumbnail failed to load"
-    },
-    "titleFormatting": {
-        "message": "Formatação do título"
-    },
-    "Disabled": {
-        "message": "Desativado (recomendado para PT-BR)"
-    },
-    "CapitalizeWords": {
-        "message": "Todas As Palavras Começam Com Letras Maiúsculas"
-    },
-    "TitleCase": {
-        "message": "Maioria em Maiúsculas, Exceto Preposições em Inglês"
-    },
-    "SentenceCase": {
-        "message": "Só a primeira letra maiúscula, todo o resto, incluindo substantivos próprios, em minúsculas"
-    },
-    "LowerCase": {
-        "message": "tudo minúsculo"
-    },
-    "FirstLetterUppercase": {
-        "message": "Primeira letra em maiúscula"
-    },
-    "shouldCleanEmojis": {
-        "message": "Remover emojis"
-    },
-    "thumbnailFallbackOption": {
-        "message": "Quando não houver nenhuma miniatura enviada"
-    },
-    "whatThumbnailFallbackOption": {
-        "message": "Ao optar por aleatório, dados do SponsorBlock vão garantir que nenhum segmento promocional seja selecionado.",
-        "description": "Describing the option for the crowdsourced thumbnail system if no thumbnail has been submitted. It can use a random time instead."
-    },
-    "RandomTime": {
-        "message": "Usar quadro de momento aleatório"
-    },
-    "TheOriginalThumbnail": {
-        "message": "Usar a miniatura original"
-    },
-    "showABlankBox": {
-        "message": "Usar em branco"
-    },
-    "AutoGenerated": {
-        "message": "Exibir as miniaturas auto-geradas pelo YouTube",
-        "description": "A DeArrow fallback method that will use the YouTube auto-generated thumbnails instead of a randomly selected time or the original thumbnail"
-    },
-    "Start": {
-        "message": "Inicio"
-    },
-    "Middle": {
-        "message": "Meio"
-    },
-    "keepUnsubmitted": {
-        "message": "Armazenar votos enviados"
-    },
-    "ignoreAbThumbnails": {
-        "message": "Nunca usar miniaturas testadas por A/B"
-    },
-    "ignoreAbThumbnailsDescription": {
-        "message": "Assim como na Netflix, alguns canais podem configurar testes em seus vídeos onde o YouTube mostrará miniaturas diferentes para cada pessoa. Esta opção sempre usará a primeira miniatura para manter a consistência."
-    },
-    "abThumbnailsWarning": {
-        "message": "Aviso: Este vídeo atualmente tem um teste de miniatura A/B em execução. Isto significa que a miniatura pode mudar com frequência. Provavelmente, não deverá votar a favor da miniatura original devido a este risco."
-    },
-    "whatKeepUnsubmitted": {
-        "message": "Manter votos enviados após votar para mostrar os títulos e miniaturas que você escolheu em vez do mais votado no servidor."
-    },
-    "keepUnsubmittedInPrivate": {
-        "message": "Registrar votos de navegação anônima"
-    },
-    "useThumbnailGenerationService": {
-        "message": "Usar serviço de geração de miniaturas"
-    },
-    "titleMaxLines": {
-        "message": "Máximo de linhas para o título"
-    },
-    "titleMaxLinesDescription": {
-        "message": "Os títulos do vídeo serão quebrados por esta quantidade de linhas nas sugestões."
-    },
-    "onAllPages": {
-        "message": "Em todas as páginas",
-        "description": "Setting for when the server-side thumbnail generator should be used for the thumbnail replacement feature."
-    },
-    "onAllPagesExceptVideo": {
-        "message": "Em todas as páginas, exceto de vídeos",
-        "description": "Setting for when the server-side thumbnail generator should be used for the thumbnail replacement feature."
-    },
-    "Never": {
-        "message": "Nunca"
-    },
-    "thumbnailGeneratorDescription1": {
-        "message": "O serviço de geração de miniaturas acelera bastante o processo porque envia anonimamente a identificação do vídeo para um servidor remoto. Uma miniatura será então gerada, ou captada de um arquivo pré-existente."
-    },
-    "thumbnailGeneratorDescription2": {
-        "message": "Usar o serviço em páginas de vídeos traz o risco de vazar identificação de vídeos não-listados para o servidor. Selecione a opção \"Em todas as páginas, exceto de vídeos\" para que isso não ocorra. Outra opção é hospedar seu próprio serviço de geração de miniaturas."
-    },
-    "thumbnailGeneratorDescription3": {
-        "message": "Se o serviço de geração de miniaturas estiver desativado, todas as solicitações usarão um sistema anônimo de consultas, dificultando para o servidor prever quais vídeos já foram buscados, e um servidor local mais lento será usado.",
-        "description": "https://en.wikipedia.org/wiki/K-anonymity is a system used to anonymise requests."
-    },
-    "thumbnailGeneratorSourceCode": {
-        "message": "Código-fonte do serviço de geração de miniaturas"
-    },
-    "moreAboutKAnonymity": {
-        "message": "Mais informações sobre o anonimato",
-        "description": "https://en.wikipedia.org/wiki/K-anonymity is a system used to anonymise requests."
-    },
-    "alwaysShowShowOriginalButton": {
-        "message": "Sempre exibir o botão \"Mostrar Original\""
-    },
-    "whatAlwaysShowShowOriginalButton": {
-        "message": "Se você sempre quiser saber se um título/miniatura mudou, ative isso."
-    },
-    "showOriginalOnHover": {
-        "message": "Mostrar detalhes originais quando passar o ponteiro"
-    },
-    "showIconForFormattedTitles": {
-        "message": "Mostre o botão \"Mostrar original\" para Títulos Auto-Formatados"
-    },
-    "fetchTimeout": {
-        "message": "Tempo limite de busca de dados (ms)"
-    },
-    "fetchTimeoutDescription": {
-        "message": "Mostrar títulos e miniaturas originais se o servidor não responder neste período."
-    },
-    "renderTimeout": {
-        "message": "Tempo limite da miniatura de renderização (ms)"
-    },
-    "renderTimeoutDescription": {
-        "message": "Mostrar miniaturas originais se não for possível gerar uma miniatura nesse período."
-    },
-    "startLocalRenderTimeout": {
-        "message": "Tempo limite (em ms) para iniciar criação local de miniatura",
-        "description": "If the server takes this long to generate a thumbnail, it start trying to generate one locally."
-    },
-    "startLocalRenderTimeoutDescription": {
-        "message": "Se o servidor não gerar uma miniatura nesse período, tentará criar uma versão na sua máquina."
-    },
-    "Enable": {
-        "message": "Ativar"
-    },
-    "Titles": {
-        "message": "Títulos",
-        "description": "Referring to titles of YouTube videos"
-    },
-    "Thumbnails": {
-        "message": "Miniaturas",
-        "description": "Referring to thumbnails of YouTube videos"
-    },
-    "Error": {
-        "message": "Erro"
-    },
-    "ShowOriginal": {
-        "message": "Mostrar detalhes originais"
-    },
-    "ShowModified": {
-        "message": "Mostrar Detalhes Modificados"
-    },
-    "FillerWarning": {
-        "message": "Atenção: essa categoria é altamente rigorosa. Pode ser que você precise reverter pulos ou desabilitá-los por um tempo. Saiba que alguns vídeos podem ter pulos com mais da metade da duração total. Entretanto, lembre-se de que ainda há orientações específicas a seguir ao submeter segmentos.",
-        "description": "Warning that appears when enabling the filler tangent category"
-    },
-    "chatboxDescription": {
-        "message": "Entre no Discord ou Matrix para continuarmos a conversa",
-        "description": "Appears on the top of the integrated chatbox"
-    },
-    "showGuidelineHelp": {
-        "message": "Exibir orientações",
-        "description": "Setting to show a summary of the guidelines on the submission page"
-    },
-    "tip1": {
-        "message": "Evite expressões faciais exageradas",
-        "description": "Referring to the thumbnail of a video"
-    },
-    "tip2": {
-        "message": "Reflita aquilo que assistiu e escreva algo revelante ao Video, não responda apenas a pergunta do título original",
-        "description": "This is a tip about submitting a new DeArrow replacement title. If the original title is an attention grabbing title, the DeArrow title shouldn't just be an answer to that. It instead should be based on the contents of the video."
-    },
-    "tip3": {
-        "message": "Evite descrever reações sobre o vídeo (\"chocante\")",
-        "description": "Referring to the title of a YouTube video. Shocking being when something is described as shocking"
-    },
-    "tip4": {
-        "message": "Antes de clicar, forneça informações suficientes para uma melhor seleção"
-    },
-    "tip5": {
-        "message": "Comece as frases com maiúsculas",
-        "description": "Tip about submitting titles to DeArrow"
-    },
-    "dearrowHelpSponsorBlockImported": {
-        "message": "Observação: suas configurações do SponsorBlock foram importadas automaticamente!"
-    },
-    "howItWorks": {
-        "message": "Como funciona"
-    },
-    "discordPromotion": {
-        "message": "Deixe sua contribuição, sugestões ou ajude outros usuários no {discord} ou {matrix}"
-    },
-    "deArrowDonationText": {
-        "message": "Se você está satisfeito com a extensão e gostaria de fazer uma contribuição em dinheiro, acesse este link"
-    },
-    "termsAgreement": {
-        "message": "Ao usar essa extensão, você concorda com a {privacy-policy} e {terms}"
-    },
-    "privacyPolicy": {
-        "message": "Política de privacidade"
-    },
-    "termsOfUse": {
-        "message": "Termos de uso"
-    },
-    "openSourceLicenses": {
-        "message": "Licenças de código aberto"
-    },
-    "defaultToOriginals": {
-        "message": "Informações padrão para o vídeo original"
-    },
-    "whatDefaultToOriginals": {
-        "message": "Exibir o título e a miniatura original por padrão, mas tem um botão que aparece ao passar o mouse para ver os títulos e miniaturas personalizados."
-    },
-    "replaceTitles": {
-        "message": "Substituir títulos"
-    },
-    "replaceThumbnails": {
-        "message": "Substituir miniaturas"
-    },
-    "useCrowdsourcedTitles": {
-        "message": "Use as alterações dos Títulos da Comunidade de DeArrow"
-    },
-    "whatUseCrowdsourcedTitles": {
-        "message": "Se desabilitado, formatação de títulos ainda funcionará, mas não usará os títulos da comunidade",
-        "description": "Description under the \"Use Crowdsourced Titles\" option"
-    },
-    "areYouSureDeleteConfig": {
-        "message": "Deseja mesmo apagar esse ajuste?",
-        "description": "Appears when deleting a configuration for channel-based settings"
-    },
-    "NewConfiguration": {
-        "message": "Novo ajuste"
-    },
-    "DeleteConfiguration": {
-        "message": "Apagar Configuração"
-    },
-    "ChannelAllowlist": {
-        "message": "Canais permitidos"
-    },
-    "ConfigurationName": {
-        "message": "Nome do ajuste"
-    },
-    "ChannelListInstructions": {
-        "message": "Insira na caixa os canais que receberão os ajustes, separados por quebra de linha (Enter). São aceitos o nome de exibição ou ID do canal. Nomes de usuários (@) não são aceitos. A ID do canal pode ser encontrada na página Sobre, clicando no botão Compartilhar (seta).",
-        "description": "Instructions for the channel allowlist feature in DeArrow to configure settings for specific channels"
-    },
-    "NoConfigurationsSetup": {
-        "message": "Nenhum ajuste salvo. Clique no botão Novo ajuste.",
-        "description": "Appears when there are no channel configurations setup yet on the channel allow list page"
-    },
-    "DeArrowPromotionMessage": {
-        "message": "Parar clickbait substituindo títulos e miniaturas com mais precisão"
-    },
-    "DeArrowPromotionMessage2": {
-        "message": "Cansado de clickbait? Confira minha nova extensão para melhorar os títulos e miniaturas"
-    },
-    "RandomThumbnailExplanation": {
-        "message": "Esta miniatura é escolhida de um horário aleatório porque ainda não há envio neste vídeo",
-        "description": "A description during on boarding to explain the random thumbnail setting"
-    },
-    "RandomThumbnailAndAutoFormattedExplanation": {
-        "message": "Esta miniatura é escolhida de um horário aleatório porque ainda não há envio neste vídeo",
-        "description": "A description during on boarding to explain the random thumbnail and autoformatting setting"
-    },
-    "YouCanChangeThisDefaultBelow": {
-        "message": "Você pode alterar este padrão abaixo",
-        "description": "Appears in onboarding below explanation of random thumbnail and autoformatting"
-    },
-    "dearrowStatsMessage": {
-        "message": "{titles} títulos e miniaturas de {thumbnails} foram substituídos desde que você instalou esta extensão",
-        "description": "Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
-    },
-    "dearrowStatsMessageTitlePart": {
-        "message": "{titles} título",
-        "description": "Title singular part of message. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
-    },
-    "dearrowStatsMessageTitlesPart": {
-        "message": "{titles} títulos ",
-        "description": "Title plural part of message. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
-    },
-    "dearrowStatsMessageThumbnailPart": {
-        "message": "e {thumbnails} miniaturas",
-        "description": "Thumbnail singular part of message. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
-    },
-    "dearrowStatsMessageThumbnailsPart": {
-        "message": "e {thumbnails} miniaturas",
-        "description": "Thumbnail plural part of message. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
-    },
-    "dearrowStatsMessage2": {
-        "message": "{titleAndThumbnailMessage} títulos e miniaturas foram substituídos desde que você instalou esta extensão",
-        "description": "{titleAndThumbnailMessage} will become '{titles} titles and {thumbnails} thumbnails' from the other messages. It can be moved to a different part of the message if needed. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install"
-    },
-    "countReplacements": {
-        "message": "Contagem de títulos e miniaturas substituídos"
-    },
-    "countReplacementsDescription": {
-        "message": "Usado para fornecer estatísticas no popup.",
-        "description": "On options page describing the setting for counting how many times titles and thumbnails have been replaced in DeArrow"
-    },
-    "YtNeuterMessage": {
-        "message": "Adicionar uma lista de filtros para bloquear pesquisas, juntar prateleiras e outros elementos promocionais da página usando yt-neuter"
-    },
-    "requiresUblock": {
-        "message": "Requer o uBlock Origin"
-    },
-    "videoIDWrongWhenSubmittingError": {
-        "message": "Algo deu errado com a detecção de videoID. Por favor, tente atualizar antes de enviar para garantir que ele seja enviado para o vídeo correto. Se isso está acontecendo muito, por favor, envie um relatório disso junto com outras extensões ou scripts que você instalou através do GitHub, Discord ou Matriz."
-    },
-    "dearrowLogoCredit": {
-        "message": "Logotipo baseado em Twemoji licenciado sob CC-BY 4.0"
-    },
-    "zoomToFillUnsupported": {
-        "message": "O SponsorBlock não é compatível com a extensão \"Zoom to Fill\". Há muitas alternativas que você pode usar que funcionarão corretamente."
-    },
-    "freeTrialStarted": {
-        "message": "Sua avaliação gratuita foi iniciada com sucesso. Visite o YouTube para testá-lo"
-    },
-    "freeTrialEnded": {
-        "message": "Sua avaliação gratuita terminou"
-    },
-    "freeTrialPrompt": {
-        "message": "Se você quiser testá-lo por uma hora, você pode iniciar um teste gratuito com o botão abaixo."
-    },
-    "startFreeTrial": {
-        "message": "Iniciar avaliação gratuita"
-    },
-    "youCannotVoteDuringTrial": {
-        "message": "Você não pode votar durante o teste gratuito",
-        "description": "Refers to voting for DeArrow titles and thumbnails"
-    },
-    "freeAccessRequested": {
-        "message": "Você está registrado com sucesso para acesso gratuito. Você será notificado quando o acesso gratuito for concedido."
-    },
-    "freeAccessComplete": {
-        "message": "Parabéns! Agora você tem acesso gratuito à DeArrow <3"
-    },
-    "DeArrowNotActivated": {
-        "message": "DeArrow não está ativado"
-    },
-    "ActivateDeArrow": {
-        "message": "Ative DeArrow"
-    },
-    "DeArrowIsActivated": {
-        "message": "DeArrow foi ativado com sucesso"
-    },
-    "Close": {
-        "message": "Fechar"
-    },
-    "ViewLicenseKey": {
-        "message": "Visualizar Chave de Licença"
-    },
-    "SharingIsCaring": {
-        "message": "Compartilhar é cuidar"
+        "message": "Er du sikker på at du vil tilbakestille alle innstillingene til standardverdiene? Dette kan ikke angres."
     }
 }

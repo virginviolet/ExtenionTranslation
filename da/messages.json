@@ -1,6 +1,6 @@
 {
     "fullName": {
-        "message": "SponsorBlock til YouTube - Fjern reklamer",
+        "message": "SponorBlock til YouTube - Fjern reklamer",
         "description": "Name of the extension."
     },
     "Description": {
@@ -123,7 +123,7 @@
         "message": "Ryd Segmenter"
     },
     "openPopup": {
-        "message": "Åbn SponsorBloker Pop-op"
+        "message": "Åbn SponorBloker Pop-op"
     },
     "closePopup": {
         "message": "Luk Pop-op"
@@ -277,7 +277,7 @@
         "message": "Alle meddelelser om overspring udtonet"
     },
     "longDescription": {
-        "message": "SponsorBlock lader dig overspringe sponsorer, introer, outroer, abonnementspåmindelser og andre irriterende dele af YouTube-videoer. SponsorBlock er en crowdsourcet browserudvidelse, hvor alle kan indsende start- og sluttidspunkter for sponsorerede segmenter og andre segmenter i YouTube-videoer. Du kan også overspringe de dele af musikvideoer, som ikke er musik.",
+        "message": "SponorBlock lader dig overspringe sponorer, introer, outroer, abonnementspåmindelser og andre irriterende dele af YouTube-videoer. SponorBlock er en crowdsourcet browserudvidelse, hvor alle kan indsende start- og sluttidspunkter for sponorerede segmenter og andre segmenter i YouTube-videoer. Du kan også overspringe de dele af musikvideoer, som ikke er musik.",
         "description": "Full description of the extension on the store pages."
     },
     "website": {
@@ -346,7 +346,7 @@
     },
     "full": {
         "message": "Fuld video",
-        "description": "Used for the name of the option to label an entire video as sponsor or self promotion."
+        "description": "Used for the name of the option to label an entire video as sponor or self promotion."
     },
     "skip_category": {
         "message": "Spring {0} over?"
@@ -360,11 +360,11 @@
     },
     "skipped": {
         "message": "{0} sprunget over",
-        "description": "Example: Sponsor Skipped"
+        "description": "Example: Sponor Skipped"
     },
     "muted": {
         "message": "{0} gjort tavs",
-        "description": "Example: Sponsor Muted"
+        "description": "Example: Sponor Muted"
     },
     "skipped_to_category": {
         "message": "Sprunget til {0}",
@@ -473,7 +473,7 @@
         "message": "Spring manuelt over, når en fuld video etiket findes"
     },
     "whatManualSkipOnFullVideo": {
-        "message": "For folk, som ønsker at se videoen uforstyrret, hvis den er fuldt sponsoreret eller selvpromovering."
+        "message": "For folk, som ønsker at se videoen uforstyrret, hvis den er fuldt sponoreret eller selvpromovering."
     },
     "skipNoticeDuration": {
         "message": "Varighed af overspringsmeddelelse (sekunder):"
@@ -494,7 +494,7 @@
         "message": "SponsorBlock-serveradresse"
     },
     "customServerAddressDescription": {
-        "message": "Adressen SponsorBlock bruger til at foretage opkald til serveren. Medmindre du har din egen serverinstans, bør dette ikke ændres."
+        "message": "Adressen SponorBlock bruger til at foretage opkald til serveren. Medmindre du har din egen serverinstans, bør dette ikke ændres."
     },
     "dataFetchingServerAddress": {
         "message": "Adresse på datahentningsserver"
@@ -749,7 +749,7 @@
         "message": "Brugerdefinerede navngivne kapitler, der beskriver store afsnit af en video."
     },
     "category_chapter_guideline1": {
-        "message": "Undlad at nævne sponsor mærkenavne"
+        "message": "Undlad at nævne sponor mærkenavne"
     },
     "category_chapter_guideline2": {
         "message": "Brug større kapitler til generelle sektioner"
@@ -798,11 +798,11 @@
     },
     "fullVideoSegments": {
         "message": "Vis et ikon, når en video udelukkende er en reklame",
-        "description": "Referring to the category pill that is now shown on videos that are entirely sponsor or entirely selfpromo"
+        "description": "Referring to the category pill that is now shown on videos that are entirely sponor or entirely selfpromo"
     },
     "fullVideoLabelsOnThumbnails": {
         "message": "Vis også etiketter på videominiaturer",
-        "description": "Referring to the category pill that is shown on videos that are entirely sponsor or entirely selfpromo on recommended videos, in searches or on the homepage."
+        "description": "Referring to the category pill that is shown on videos that are entirely sponor or entirely selfpromo on recommended videos, in searches or on the homepage."
     },
     "previewColor": {
         "message": "Ikke-indsendt farve",
@@ -879,7 +879,7 @@
         "message": "Tilladelsesanmodning mislykkedes, klikkede du på afvis?"
     },
     "adblockerIssueWhitelist": {
-        "message": "Hvis du ikke kan løse dette problem, skal du deaktivere indstillingen 'Tving Kanaltjek Inden Springning', da SponsorBlock ikke er i stand til at hente kanaloplysningerne for denne video"
+        "message": "Hvis du ikke kan løse dette problem, skal du deaktivere indstillingen 'Tving Kanaltjek Inden Springning', da SponorBlock ikke er i stand til at hente kanaloplysningerne for denne video"
     },
     "forceChannelCheck": {
         "message": "Gennemtving kanaltjek inden overspringning"
@@ -904,7 +904,7 @@
         "message": "Skift Kategori"
     },
     "nonMusicCategoryOnMusic": {
-        "message": "Denne video er kategoriseret som musik. Er du sikker på, at denne har en sponsor? Hvis dette faktisk er et \"Ikke-musik segment\", skal du åbne udvidelsesindstillingerne og aktivere denne kategori. Derefter kan du indsende dette segment som \"Ikke-musik\" i stedet for sponsor. Læs venligst retningslinjerne, hvis du er forvirret."
+        "message": "Denne video er kategoriseret som musik. Er du sikker på, at denne har en sponor? Hvis dette faktisk er et \"Ikke-musik segment\", skal du åbne udvidelsesindstillingerne og aktivere denne kategori. Derefter kan du indsende dette segment som \"Ikke-musik\" i stedet for sponor. Læs venligst retningslinjerne, hvis du er forvirret."
     },
     "multipleSegments": {
         "message": "Adskillige Segmenter"
@@ -973,7 +973,7 @@
         "message": "Mørk tilstand på indstillingssiden"
     },
     "helpPageThanksForInstalling": {
-        "message": "Tak for at installere SponsorBlock."
+        "message": "Tak for at installere SponorBlock."
     },
     "helpPageReviewOptions": {
         "message": "Gennemgå venligst indstillingerne nedenfor"
@@ -997,7 +997,7 @@
         "message": "Indsendelse kan enten ske i pop op-vinduet ved at trykke på \"Segment begynder nu\"-knappen eller i videoafspilleren med knapperne på afspilleren."
     },
     "helpPageSubmitting2": {
-        "message": "Ved at klikke på afspilningsknappen indikeres starten af et segment, og ved at klikke på stop-ikonet indikeres slutningen. Du kan forberede flere sponsorer, før du trykker på Indsend. Hvis du klikker på upload-knappen, sendes det. Hvis du klikker på skraldespanden, slettes det."
+        "message": "Ved at klikke på afspilningsknappen indikeres starten af et segment, og ved at klikke på stop-ikonet indikeres slutningen. Du kan forberede flere sponorer, før du trykker på Indsend. Hvis du klikker på upload-knappen, sendes det. Hvis du klikker på skraldespanden, slettes det."
     },
     "Editing": {
         "message": "Redigering"
@@ -1009,7 +1009,7 @@
         "message": "Det er for langsomt"
     },
     "helpPageTooSlow1": {
-        "message": "Der er genvejstaster, hvis du vil bruge dem. Tryk på semikolon-tasten for at angive start/slutning af et sponsorsegment og klik på apostrof for at indsende. Disse kan ændres i indstillingerne. Hvis du ikke bruger et engelsk QWERTY-tastatur, er det nok en god idé at ændre tastebindingen."
+        "message": "Der er genvejstaster, hvis du vil bruge dem. Tryk på semikolon-tasten for at angive start/slutning af et sponorsegment og klik på apostrof for at indsende. Disse kan ændres i indstillingerne. Hvis du ikke bruger et engelsk QWERTY-tastatur, er det nok en god idé at ændre tastebindingen."
     },
     "helpPageCopyOfDatabase": {
         "message": "Kan jeg få en kopi af databasen? Hvad sker der, hvis du forsvinder?"
@@ -1069,7 +1069,7 @@
         "message": "Brug musehjulet, mens du holder musen over redigeringsfeltet for hurtigt at justere tiden. Kombinationer af ctrl eller shift-tastenerne kan bruges til at finjustere ændringerne."
     },
     "categoryPillNewFeature": {
-        "message": "Ny! Se når en video er helt sponsoreret eller selvpromoverende"
+        "message": "Ny! Se når en video er helt sponoreret eller selvpromoverende"
     },
     "dayAbbreviation": {
         "message": "d",

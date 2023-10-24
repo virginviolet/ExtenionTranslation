@@ -1,17 +1,17 @@
 {
     "fullName": {
-        "message": "SponsorBlock untuk YouTube - Lewati Sponsor",
+        "message": "SponorBlock untuk YouTube - Lewati Sponor",
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Lewati sponsor, meminta subscriber dan lain-lain di video YouTube. Laporkan sponsor di video yang anda tonton untuk menghemat waktu orang lain.",
+        "message": "Lewati sponor, meminta subscriber dan lain-lain di video YouTube. Laporkan sponor di video yang anda tonton untuk menghemat waktu orang lain.",
         "description": "Description of the extension."
     },
     "400": {
         "message": "Server menyatakan permintaan ini tidak valid"
     },
     "429": {
-        "message": "Anda terlalu banyak mengirim waktu sponsor pada video ini, apakah anda yakin ada sebanyak ini?"
+        "message": "Anda terlalu banyak mengirim waktu sponor pada video ini, apakah anda yakin ada sebanyak ini?"
     },
     "409": {
         "message": "Ini sudah dikirim sebelumnya"
@@ -81,7 +81,7 @@
         "message": "Apa anda yakin ingin menghapus ini?\n\n"
     },
     "Unknown": {
-        "message": "Terjadi kesalahan mengirim waktu sponsor, mohon coba lagi nanti."
+        "message": "Terjadi kesalahan mengirim waktu sponor, mohon coba lagi nanti."
     },
     "sponsorFound": {
         "message": "Video ini memiliki segmen di basis data!"
@@ -123,7 +123,7 @@
         "message": "Hapus Segmen"
     },
     "openPopup": {
-        "message": "Buka Popup SponsorBlock"
+        "message": "Buka Popup SponorBlock"
     },
     "closePopup": {
         "message": "Tutup Popup"
@@ -244,7 +244,7 @@
         "message": "Fetch Ulang Segmen Di Video Baru"
     },
     "whatRefetchWhenNotFound": {
-        "message": "Jika ini merupakan video baru, dan tidak ada segmen yang ditemukan, SponsorBlock akan terus merefetch setiap beberapa menit saat anda menonton."
+        "message": "Jika ini merupakan video baru, dan tidak ada segmen yang ditemukan, SponorBlock akan terus merefetch setiap beberapa menit saat anda menonton."
     },
     "enableShowCategoryWithoutPermission": {
         "message": "Tampilkan kategori di dalam menu submisi bahkan tanpa izin submisi"
@@ -277,7 +277,7 @@
         "message": "Semua Pemberitahuan Lewati Pudar"
     },
     "longDescription": {
-        "message": "SponsorBlock membuat anda melewati sponsor, intro, outro, pengingat berlangganan dan segmen mengganggu lainnya di video YouTube. SponsorBlock adalah ekstensi browser crowdsourced yang membolehkan siapa saja mengirim waktu awal dan akhir dari segmen sponsor dan segmen video YouTube lainnya. Setelah seseorang mengirim informasi ini, orang lain yang memakai ekstensi ini akan melewati segmen sponsor di video yang sama. Anda juga dapat melewati bagian non-musik di musik video.",
+        "message": "SponorBlock membuat anda melewati sponor, intro, outro, pengingat berlangganan dan segmen mengganggu lainnya di video YouTube. SponorBlock adalah ekstensi browser crowdsourced yang membolehkan siapa saja mengirim waktu awal dan akhir dari segmen sponor dan segmen video YouTube lainnya. Setelah seseorang mengirim informasi ini, orang lain yang memakai ekstensi ini akan melewati segmen sponor di video yang sama. Anda juga dapat melewati bagian non-musik di musik video.",
         "description": "Full description of the extension on the store pages."
     },
     "website": {
@@ -346,7 +346,7 @@
     },
     "full": {
         "message": "Video Penuh",
-        "description": "Used for the name of the option to label an entire video as sponsor or self promotion."
+        "description": "Used for the name of the option to label an entire video as sponor or self promotion."
     },
     "skip_category": {
         "message": "Lewati {0}?"
@@ -360,11 +360,11 @@
     },
     "skipped": {
         "message": "{0} dilewati",
-        "description": "Example: Sponsor Skipped"
+        "description": "Example: Sponor Skipped"
     },
     "muted": {
         "message": "{0} Dibisukan",
-        "description": "Example: Sponsor Muted"
+        "description": "Example: Sponor Muted"
     },
     "skipped_to_category": {
         "message": "Melewati ke {0}",
@@ -491,10 +491,10 @@
         "message": "Tampilkan Tombol Unggah"
     },
     "customServerAddress": {
-        "message": "Alamat Server SponsorBlock"
+        "message": "Alamat Server SponorBlock"
     },
     "customServerAddressDescription": {
-        "message": "Alamat yang SponsorBlock gunakan untuk memanggil server.\nKecuali jika anda mempunyai instansi server sendiri, ini tidak perlu diubah."
+        "message": "Alamat yang SponorBlock gunakan untuk memanggil server.\nKecuali jika anda mempunyai instansi server sendiri, ini tidak perlu diubah."
     },
     "dataFetchingServerAddress": {
         "message": "Alamat Server Ambil Data"
@@ -746,7 +746,7 @@
         "message": "Bab bernama khusus yang menjelaskan bagian utama video."
     },
     "category_chapter_guideline1": {
-        "message": "Jangan menyebutkan nama merek sponsor"
+        "message": "Jangan menyebutkan nama merek sponor"
     },
     "category_chapter_guideline2": {
         "message": "Gunakan bab yang lebih besar untuk bagian umum"
@@ -795,11 +795,11 @@
     },
     "fullVideoSegments": {
         "message": "Tunjukkan ikon ketika keseluruhan video merupakan iklan",
-        "description": "Referring to the category pill that is now shown on videos that are entirely sponsor or entirely selfpromo"
+        "description": "Referring to the category pill that is now shown on videos that are entirely sponor or entirely selfpromo"
     },
     "fullVideoLabelsOnThumbnails": {
         "message": "Perlihatkan label di thumbnail video juga",
-        "description": "Referring to the category pill that is shown on videos that are entirely sponsor or entirely selfpromo on recommended videos, in searches or on the homepage."
+        "description": "Referring to the category pill that is shown on videos that are entirely sponor or entirely selfpromo on recommended videos, in searches or on the homepage."
     },
     "previewColor": {
         "message": "Warna yang Belum Dikirim",
@@ -879,7 +879,7 @@
         "message": "Permintaan izin gagal, apakah anda mengklik tolak?"
     },
     "adblockerIssueWhitelist": {
-        "message": "Apabila anda tidak dapat menyelesaikan masalah ini, maka nonaktifkan pengaturan 'Paksa Cek Channel Sebelum Melewati', dikarenakan SponsorBlock tidak dapat menerima informasi channel untuk video ini"
+        "message": "Apabila anda tidak dapat menyelesaikan masalah ini, maka nonaktifkan pengaturan 'Paksa Cek Channel Sebelum Melewati', dikarenakan SponorBlock tidak dapat menerima informasi channel untuk video ini"
     },
     "forceChannelCheck": {
         "message": "Paksa Cek Channel Sebelum Melewati"
@@ -904,7 +904,7 @@
         "message": "Ubah Kategori"
     },
     "nonMusicCategoryOnMusic": {
-        "message": "Video ini dikategorikan sebagai musik. Apakah anda yakin ini berisi sponsor? Jika ini ternyata adalah \"Segmen non-musik\", buka pengaturan ekstensi dan aktifkan kategorinya. Lalu, anda bisa mengirim segmen ini sebagai \"Non-musik\" bukannya sponsor. Harap membaca panduan jika anda kebingungan."
+        "message": "Video ini dikategorikan sebagai musik. Apakah anda yakin ini berisi sponor? Jika ini ternyata adalah \"Segmen non-musik\", buka pengaturan ekstensi dan aktifkan kategorinya. Lalu, anda bisa mengirim segmen ini sebagai \"Non-musik\" bukannya sponor. Harap membaca panduan jika anda kebingungan."
     },
     "multipleSegments": {
         "message": "Banyak Segmen"
@@ -976,7 +976,7 @@
         "message": "Mode Gelap Di Halaman Opsi"
     },
     "helpPageThanksForInstalling": {
-        "message": "Terima kasih telah menginstall SponsorBlock."
+        "message": "Terima kasih telah menginstall SponorBlock."
     },
     "helpPageReviewOptions": {
         "message": "Haram ditinjau opsi di bawah ini"
@@ -1000,7 +1000,7 @@
         "message": "Mengirim bisa baik dilakukan di maklumat dengan menekan tombol \"Mulai Segmen Sekarang\" atau di pemutar video dengan tombol di pemutar."
     },
     "helpPageSubmitting2": {
-        "message": "Klik tombol putar indikasikan memulai segmen dan klik tombol ikon stop indikasikan mengakhiri. Kamu bisa persiapkan beberapa sponsor sebelum menekan kirim. Klik tombol unggah akan mengirimkan. Klik tombol sampah akan menghapuskan."
+        "message": "Klik tombol putar indikasikan memulai segmen dan klik tombol ikon stop indikasikan mengakhiri. Kamu bisa persiapkan beberapa sponor sebelum menekan kirim. Klik tombol unggah akan mengirimkan. Klik tombol sampah akan menghapuskan."
     },
     "Editing": {
         "message": "Sunting"
@@ -1012,7 +1012,7 @@
         "message": "Ini terlalu lambat"
     },
     "helpPageTooSlow1": {
-        "message": "Terdapat tombol pintas jika kamu ingin menggunakannya. Tekan tombol semikolon untuk indikasi mulai/akhir segmen sponsor dan tekan tombol kutip untuk mengirimkan. Ini bisa diganti di opsi. Jika kamu tidak menggunakan QWERTY, kamu dimungkinkan harus mengubah tombol."
+        "message": "Terdapat tombol pintas jika kamu ingin menggunakannya. Tekan tombol semikolon untuk indikasi mulai/akhir segmen sponor dan tekan tombol kutip untuk mengirimkan. Ini bisa diganti di opsi. Jika kamu tidak menggunakan QWERTY, kamu dimungkinkan harus mengubah tombol."
     },
     "helpPageCopyOfDatabase": {
         "message": "Bisakah saya mendapatkan salinan Databasis? Apa yang terjadi jika kamu tiada?"

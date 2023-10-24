@@ -1,14 +1,14 @@
 {
     "fullName": {
-        "message": "SponsorBlock para YouTube - I-skip ang mga Sponsorships",
+        "message": "SponorBlock para YouTube - I-skip ang mga Sponorships",
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "I-skip ang mga sponsorships, subscription begging at marami pa sa mga YouTube videos. I-report ang mga sponsor sa videos na napapanood mo upang makatipid sa oras ng iba.",
+        "message": "I-skip ang mga sponorships, subscription begging at marami pa sa mga YouTube videos. I-report ang mga sponor sa videos na napapanood mo upang makatipid sa oras ng iba.",
         "description": "Description of the extension."
     },
     "429": {
-        "message": "Masyadong kang maraming beses na nagsumite ng sponsor times para sa video na ito, sigurado ka na marami yan?"
+        "message": "Masyadong kang maraming beses na nagsumite ng sponor times para sa video na ito, sigurado ka na marami yan?"
     },
     "409": {
         "message": "Naisumite na ito noon"
@@ -65,7 +65,7 @@
         "message": "Sigurado ka bang gusto mong tanggalin ito?"
     },
     "Unknown": {
-        "message": "May error na nagkaroon sa pagsusumite sa iyong sponsor times, subukang muli mamaya."
+        "message": "May error na nagkaroon sa pagsusumite sa iyong sponor times, subukang muli mamaya."
     },
     "sponsorFound": {
         "message": "May mga segments sa database para sa video na ito!"
@@ -101,7 +101,7 @@
         "message": "I-clear ang mga segments"
     },
     "openPopup": {
-        "message": "I-buksan ang SponsorBlock popup"
+        "message": "I-buksan ang SponorBlock popup"
     },
     "closePopup": {
         "message": "Isara ang Popup"

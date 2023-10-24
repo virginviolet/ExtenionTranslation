@@ -1,17 +1,17 @@
 {
     "fullName": {
-        "message": "SponsorBlock for YouTube - Skip Sponsorships",
+        "message": "SponorBlock for YouTube - Skip Sponorships",
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Skip sponsorships, subscription begging and more on YouTube videos. Report sponsors on videos you watch to save others' time.",
+        "message": "Skip sponorships, subscription begging and more on YouTube videos. Report sponors on videos you watch to save others' time.",
         "description": "Description of the extension."
     },
     "400": {
         "message": "Server said this request was invalid"
     },
     "429": {
-        "message": "You have submitted too many sponsor times for this one video, are you sure there are this many?"
+        "message": "You have submitted too many sponor times for this one video, are you sure there are this many?"
     },
     "409": {
         "message": "This has already been submitted before"
@@ -81,7 +81,7 @@
         "message": "Are you sure you want to clear this?\n\n"
     },
     "Unknown": {
-        "message": "There was an error submitting your sponsor times, please try again later."
+        "message": "There was an error submitting your sponor times, please try again later."
     },
     "sponsorFound": {
         "message": "This video has segments in the database!"
@@ -123,7 +123,7 @@
         "message": "Clear Segments"
     },
     "openPopup": {
-        "message": "Open SponsorBlock Popup"
+        "message": "Open SponorBlock Popup"
     },
     "closePopup": {
         "message": "Close Popup"
@@ -277,7 +277,7 @@
         "message": "All Faded Skip Notices"
     },
     "longDescription": {
-        "message": "SponsorBlock lets you skip over sponsors, intros, outros, subscription reminders, and other annoying parts of YouTube videos. SponsorBlock is a crowdsourced browser extension that lets anyone submit the start and end times of sponsored segments and other segments of YouTube videos. Once one person submits this information, everyone else with this extension will skip right over the sponsored segment. You can also skip over non music sections of music videos.",
+        "message": "SponorBlock lets you skip over sponors, intros, outros, subscription reminders, and other annoying parts of YouTube videos. SponorBlock is a crowdsourced browser extension that lets anyone submit the start and end times of sponored segments and other segments of YouTube videos. Once one person submits this information, everyone else with this extension will skip right over the sponored segment. You can also skip over non music sections of music videos.",
         "description": "Full description of the extension on the store pages."
     },
     "website": {
@@ -346,7 +346,7 @@
     },
     "full": {
         "message": "Full Video",
-        "description": "Used for the name of the option to label an entire video as sponsor or self promotion."
+        "description": "Used for the name of the option to label an entire video as sponor or self promotion."
     },
     "skip_category": {
         "message": "Skip {0}?"
@@ -360,11 +360,11 @@
     },
     "skipped": {
         "message": "{0} Skipped",
-        "description": "Example: Sponsor Skipped"
+        "description": "Example: Sponor Skipped"
     },
     "muted": {
         "message": "{0} Muted",
-        "description": "Example: Sponsor Muted"
+        "description": "Example: Sponor Muted"
     },
     "skipped_to_category": {
         "message": "Skipped to {0}",
@@ -473,7 +473,7 @@
         "message": "Use manual skip when a full video label exists"
     },
     "whatManualSkipOnFullVideo": {
-        "message": "For people who want to watch the video uninterrupted if it is fully sponsored or self promotion."
+        "message": "For people who want to watch the video uninterrupted if it is fully sponored or self promotion."
     },
     "skipNoticeDuration": {
         "message": "Skip notice duration (seconds):"
@@ -491,10 +491,10 @@
         "message": "Show Upload Button"
     },
     "customServerAddress": {
-        "message": "SponsorBlock Server Address"
+        "message": "SponorBlock Server Address"
     },
     "customServerAddressDescription": {
-        "message": "The address SponsorBlock uses to make calls to the server.\nUnless you have your own server instance, this should not be changed."
+        "message": "The address SponorBlock uses to make calls to the server.\nUnless you have your own server instance, this should not be changed."
     },
     "dataFetchingServerAddress": {
         "message": "Data Fetching Server Address"
@@ -749,7 +749,7 @@
         "message": "Custom named chapters describing major sections of a video."
     },
     "category_chapter_guideline1": {
-        "message": "Don't mention sponsor brand names"
+        "message": "Don't mention sponor brand names"
     },
     "category_chapter_guideline2": {
         "message": "Use larger chapters for general sections"
@@ -798,11 +798,11 @@
     },
     "fullVideoSegments": {
         "message": "Show an icon when a video is entirely an advertisement",
-        "description": "Referring to the category pill that is now shown on videos that are entirely sponsor or entirely selfpromo"
+        "description": "Referring to the category pill that is now shown on videos that are entirely sponor or entirely selfpromo"
     },
     "fullVideoLabelsOnThumbnails": {
         "message": "Show labels on video thumbnails as well",
-        "description": "Referring to the category pill that is shown on videos that are entirely sponsor or entirely selfpromo on recommended videos, in searches or on the homepage."
+        "description": "Referring to the category pill that is shown on videos that are entirely sponor or entirely selfpromo on recommended videos, in searches or on the homepage."
     },
     "previewColor": {
         "message": "Unsubmitted Color",
@@ -882,7 +882,7 @@
         "message": "Permission request failed, did you click deny?"
     },
     "adblockerIssueWhitelist": {
-        "message": "If you are unable to resolve this, then disable the setting 'Force Channel Check Before Skipping', as SponsorBlock is unable to retrieve the channel information for this video"
+        "message": "If you are unable to resolve this, then disable the setting 'Force Channel Check Before Skipping', as SponorBlock is unable to retrieve the channel information for this video"
     },
     "forceChannelCheck": {
         "message": "Force Channel Check Before Skipping"
@@ -907,7 +907,7 @@
         "message": "Change Category"
     },
     "nonMusicCategoryOnMusic": {
-        "message": "This video is categorized as music. Are you sure this has a sponsor? If this is actually a \"Non-Music segment\", open up the extension options and enable this category. Then, you can submit this segment as \"Non-Music\" instead of sponsor. Please read the guidelines if you are confused."
+        "message": "This video is categorized as music. Are you sure this has a sponor? If this is actually a \"Non-Music segment\", open up the extension options and enable this category. Then, you can submit this segment as \"Non-Music\" instead of sponor. Please read the guidelines if you are confused."
     },
     "multipleSegments": {
         "message": "Multiple Segments"
@@ -979,7 +979,7 @@
         "message": "Dark Mode On Options Page"
     },
     "helpPageThanksForInstalling": {
-        "message": "Thanks for installing SponsorBlock."
+        "message": "Thanks for installing SponorBlock."
     },
     "helpPageReviewOptions": {
         "message": "Please review the options below"
@@ -1003,7 +1003,7 @@
         "message": "Submitting can either be done in the popup by hitting the \"Segment Starts Now\" button or in the video player with the buttons on the player."
     },
     "helpPageSubmitting2": {
-        "message": "Clicking the play button indicates the start of a segment and clicking the stop icon indicates the end. You can prepare multiple sponsors before hitting submit. Clicking the upload button will submit. Clicking the garbage can will delete."
+        "message": "Clicking the play button indicates the start of a segment and clicking the stop icon indicates the end. You can prepare multiple sponors before hitting submit. Clicking the upload button will submit. Clicking the garbage can will delete."
     },
     "Editing": {
         "message": "Editing"
@@ -1015,7 +1015,7 @@
         "message": "This is too slow"
     },
     "helpPageTooSlow1": {
-        "message": "There are hotkeys if you want to use them. Press the semicolon key to indicate the start/end of a sponsor segment and click the apostrophe to submit. These can be changed in the options. If you don't use QWERTY, you should probably change the keybinding."
+        "message": "There are hotkeys if you want to use them. Press the semicolon key to indicate the start/end of a sponor segment and click the apostrophe to submit. These can be changed in the options. If you don't use QWERTY, you should probably change the keybinding."
     },
     "helpPageCopyOfDatabase": {
         "message": "Can I get a copy of the Database? What happens if you disappear?"
@@ -1075,7 +1075,7 @@
         "message": "Use your mousewheel while hovering over the edit box to quickly adjust the time. Combinations of the ctrl or shift key can be used to fine tune the changes."
     },
     "categoryPillNewFeature": {
-        "message": "New! See when a video is entirely sponsored or self-promotion"
+        "message": "New! See when a video is entirely sponored or self-promotion"
     },
 	"yearAbbreviation": {
         "message": "y",
@@ -1335,7 +1335,7 @@
         "message": "When No Submitted Thumbnail Exists"
     },
     "whatThumbnailFallbackOption": {
-        "message": "When selecting a random time, it will use SponsorBlock data to ensure a time in a promotional segment is not selected.",
+        "message": "When selecting a random time, it will use SponorBlock data to ensure a time in a promotional segment is not selected.",
         "description": "Describing the option for the crowdsourced thumbnail system if no thumbnail has been submitted. It can use a random time instead."
     },
     "RandomTime": {
@@ -1495,7 +1495,7 @@
         "description": "Tip about submitting titles to DeArrow"
     },
     "dearrowHelpSponsorBlockImported": {
-        "message": "Note: Your SponsorBlock settings have been automatically imported!"
+        "message": "Note: Your SponorBlock settings have been automatically imported!"
     },
     "howItWorks": {
         "message": "How it works"
@@ -1623,7 +1623,7 @@
         "message": "Logo based on Twemoji licensed under CC-BY 4.0"
     },
     "zoomToFillUnsupported": {
-        "message": "SponsorBlock is not compatible with the extension \"Zoom to Fill\". There are many alternatives you can use instead that will work properly."
+        "message": "SponorBlock is not compatible with the extension \"Zoom to Fill\". There are many alternatives you can use instead that will work properly."
     },
     "freeTrialStarted": {
         "message": "Your free trial has successfully started. Visit YouTube to test it out"

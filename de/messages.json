@@ -1,10 +1,10 @@
 {
     "fullName": {
-        "message": "SponsorBlock für YouTube - Überspringe gesponserte Videosegmente",
+        "message": "SponorBlock für YouTube - Überspringe gesponserte Videosegmente",
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Überspringe gesponserte Inhalte, Aufforderungen zum Interagieren und mehr in YouTube-Videos. Markiere Sponsoren in Videos, um anderen die Zeit zu ersparen.",
+        "message": "Überspringe gesponserte Inhalte, Aufforderungen zum Interagieren und mehr in YouTube-Videos. Markiere Sponoren in Videos, um anderen die Zeit zu ersparen.",
         "description": "Description of the extension."
     },
     "400": {
@@ -277,7 +277,7 @@
         "message": "Alles verblasste Skip-Meldungen"
     },
     "longDescription": {
-        "message": "SponsorBlock lässt dich gesponserte Videosegmente, Intros, Outros, Interaktions-Erinnerungen, Musikvideoteile ohne Musik und andere nervige Teile von YouTube-Videos überspringen. SponsorBlock ist eine crowdsourced Browser-Erweiterung, in der jeder die Start- und Endzeit gesponserter Videosegmente und anderer Segmente von YouTube-Videos einreicht. Sobald eine Person diese Informationen einreicht, überspringen alle anderen mit dieser Erweiterung das gesponserte Segment.",
+        "message": "SponorBlock lässt dich gesponserte Videosegmente, Intros, Outros, Interaktions-Erinnerungen, Musikvideoteile ohne Musik und andere nervige Teile von YouTube-Videos überspringen. SponorBlock ist eine crowdsourced Browser-Erweiterung, in der jeder die Start- und Endzeit gesponserter Videosegmente und anderer Segmente von YouTube-Videos einreicht. Sobald eine Person diese Informationen einreicht, überspringen alle anderen mit dieser Erweiterung das gesponserte Segment.",
         "description": "Full description of the extension on the store pages."
     },
     "website": {
@@ -346,7 +346,7 @@
     },
     "full": {
         "message": "Vollständiges Video",
-        "description": "Used for the name of the option to label an entire video as sponsor or self promotion."
+        "description": "Used for the name of the option to label an entire video as sponor or self promotion."
     },
     "skip_category": {
         "message": "{0} überspringen?"
@@ -360,11 +360,11 @@
     },
     "skipped": {
         "message": "{0} übersprungen",
-        "description": "Example: Sponsor Skipped"
+        "description": "Example: Sponor Skipped"
     },
     "muted": {
         "message": "{0} stummgeschaltet",
-        "description": "Example: Sponsor Muted"
+        "description": "Example: Sponor Muted"
     },
     "skipped_to_category": {
         "message": "Zu {0} gesprungen",
@@ -491,10 +491,10 @@
         "message": "Upload-Knopf anzeigen"
     },
     "customServerAddress": {
-        "message": "SponsorBlock Serveradresse"
+        "message": "SponorBlock Serveradresse"
     },
     "customServerAddressDescription": {
-        "message": "Die Adresse die SponsorBlock verwendet um Anfragen an den Server zu senden. Solange du keine eigene Serverinstanz hast, sollte das nicht geändert werden."
+        "message": "Die Adresse die SponorBlock verwendet um Anfragen an den Server zu senden. Solange du keine eigene Serverinstanz hast, sollte das nicht geändert werden."
     },
     "dataFetchingServerAddress": {
         "message": "Server-Adresse für Datenabfrage"
@@ -798,11 +798,11 @@
     },
     "fullVideoSegments": {
         "message": "Ein Symbol anzeigen, wenn ein Video vollständig aus Werbung besteht",
-        "description": "Referring to the category pill that is now shown on videos that are entirely sponsor or entirely selfpromo"
+        "description": "Referring to the category pill that is now shown on videos that are entirely sponor or entirely selfpromo"
     },
     "fullVideoLabelsOnThumbnails": {
         "message": "Labels auch auf Video-Thumbnails anzeigen",
-        "description": "Referring to the category pill that is shown on videos that are entirely sponsor or entirely selfpromo on recommended videos, in searches or on the homepage."
+        "description": "Referring to the category pill that is shown on videos that are entirely sponor or entirely selfpromo on recommended videos, in searches or on the homepage."
     },
     "previewColor": {
         "message": "Nicht eingereichte Farbe",
@@ -882,13 +882,13 @@
         "message": "Berechtigungsanfrage fehlgeschlagen, hast du sie abgelehnt?"
     },
     "adblockerIssueWhitelist": {
-        "message": "Falls du dies nicht beheben kannst, deaktiviere die Einstellung 'Kanalprüfung vor dem Überspringen von Segmenten erzwingen', da SponsorBlock nicht in der Lage ist die Kanal-Informationen für dieses Video abzurufen"
+        "message": "Falls du dies nicht beheben kannst, deaktiviere die Einstellung 'Kanalprüfung vor dem Überspringen von Segmenten erzwingen', da SponorBlock nicht in der Lage ist die Kanal-Informationen für dieses Video abzurufen"
     },
     "forceChannelCheck": {
         "message": "Kanalprüfung vor dem Überspringen von Segmenten erzwingen"
     },
     "whatForceChannelCheck": {
-        "message": "Standardmäßig werden Segmente übersprungen, bevor SponsorBlock überhapt weiss, welcher Kanal das ist. Normalerweise führt dies dazu, dass Videosegmente von erlaubten Kanälen am Anfang übersprungen werden. Das aktivieren dieser Option verhindert dies, hat jedoch eine leichte Verzögerung beim überspringen zur folge, da die Kanal-ID erst eingelesen werden muss. Diese sollte bei einer schnellen Internetverbindung jedoch kaum bemerkbar sein."
+        "message": "Standardmäßig werden Segmente übersprungen, bevor SponorBlock überhapt weiss, welcher Kanal das ist. Normalerweise führt dies dazu, dass Videosegmente von erlaubten Kanälen am Anfang übersprungen werden. Das aktivieren dieser Option verhindert dies, hat jedoch eine leichte Verzögerung beim überspringen zur folge, da die Kanal-ID erst eingelesen werden muss. Diese sollte bei einer schnellen Internetverbindung jedoch kaum bemerkbar sein."
     },
     "forceChannelCheckPopup": {
         "message": "Eventuell solltest du die Option \"Kanalprüfung vor dem Überspringen von Segmenten erzwingen\" aktivieren."
@@ -907,7 +907,7 @@
         "message": "Kategorie ändern"
     },
     "nonMusicCategoryOnMusic": {
-        "message": "Dieses Video ist als Musikvideo kategorisiert. Bist du dir sicher, dass es ein gesponsertes Videosegment hat? Wenn dies tatsächlich ein Musikvideoteil ohne Musik ist, öffne die Optionen von SponsorBlock und aktiviere diese Kategorie. Danach kannst du dieses Segment als solches markieren. Bitte lese die Richtlinien, wenn du dir nicht sicher bist."
+        "message": "Dieses Video ist als Musikvideo kategorisiert. Bist du dir sicher, dass es ein gesponsertes Videosegment hat? Wenn dies tatsächlich ein Musikvideoteil ohne Musik ist, öffne die Optionen von SponorBlock und aktiviere diese Kategorie. Danach kannst du dieses Segment als solches markieren. Bitte lese die Richtlinien, wenn du dir nicht sicher bist."
     },
     "multipleSegments": {
         "message": "Mehrere Segmente"
@@ -979,7 +979,7 @@
         "message": "Dunkler Modus auf der Optionsseite"
     },
     "helpPageThanksForInstalling": {
-        "message": "Danke fürs installieren von SponsorBlock."
+        "message": "Danke fürs installieren von SponorBlock."
     },
     "helpPageReviewOptions": {
         "message": "Bitte überprüfe die unten stehenden Optionen"
@@ -1015,7 +1015,7 @@
         "message": "Das ist zu langsam"
     },
     "helpPageTooSlow1": {
-        "message": "Es gibt Hotkeys, wenn du diese verwenden möchtest. Drücke die Semikolon-Taste um den Anfang/das Ende eines Sponsor-Segments zu markieren und die Abostrophe-Taste um es zu übermitteln. Diese können in den Optionen geändert werden. Wenn du keine QWERTY-Tastatur verwendest, solltest du eventuell die Keybinds ändern."
+        "message": "Es gibt Hotkeys, wenn du diese verwenden möchtest. Drücke die Semikolon-Taste um den Anfang/das Ende eines Sponor-Segments zu markieren und die Abostrophe-Taste um es zu übermitteln. Diese können in den Optionen geändert werden. Wenn du keine QWERTY-Tastatur verwendest, solltest du eventuell die Keybinds ändern."
     },
     "helpPageCopyOfDatabase": {
         "message": "Kann ich eine kopie der Datenbank erhalten? Was passiert wenn du verschwindest?"
@@ -1075,7 +1075,7 @@
         "message": "Benutze das Mausrad während der Mauszeiger über dem Eingabefeld schwebt, um die Zeit schnell anzupassen. Kombinationen mit der Strg- oder Shift-Taste können zur Feinabstimmung der Änderungen verwendet werden."
     },
     "categoryPillNewFeature": {
-        "message": "Neu! Sieh, wenn ein Video ausschließlich Sponsor oder Eigenwerbung ist"
+        "message": "Neu! Sieh, wenn ein Video ausschließlich Sponor oder Eigenwerbung ist"
     },
     "yearAbbreviation": {
         "message": "J",
@@ -1335,7 +1335,7 @@
         "message": "Wenn kein Thumbnail eingereicht wurde"
     },
     "whatThumbnailFallbackOption": {
-        "message": "Bei der Auswahl einer zufälligen Zeit wird mittels SponsorBlock Daten sichergestellt, dass keine Zeit in einem Werbesegment ausgewählt wird.",
+        "message": "Bei der Auswahl einer zufälligen Zeit wird mittels SponorBlock Daten sichergestellt, dass keine Zeit in einem Werbesegment ausgewählt wird.",
         "description": "Describing the option for the crowdsourced thumbnail system if no thumbnail has been submitted. It can use a random time instead."
     },
     "RandomTime": {
@@ -1495,7 +1495,7 @@
         "description": "Tip about submitting titles to DeArrow"
     },
     "dearrowHelpSponsorBlockImported": {
-        "message": "Hinweis: Deine SponsorBlock Einstellungen wurden automatisch importiert!"
+        "message": "Hinweis: Deine SponorBlock Einstellungen wurden automatisch importiert!"
     },
     "howItWorks": {
         "message": "So funktioniert es"
@@ -1623,7 +1623,7 @@
         "message": "Logo basierend auf Twemoji lizenziert unter CC-BY 4.0"
     },
     "zoomToFillUnsupported": {
-        "message": "SponsorBlock ist nicht mit der Erweiterung \"Zoom to Fill\" kompatibel. Es gibt viele Alternativen, die problemlos funktionieren werden."
+        "message": "SponorBlock ist nicht mit der Erweiterung \"Zoom to Fill\" kompatibel. Es gibt viele Alternativen, die problemlos funktionieren werden."
     },
     "freeTrialStarted": {
         "message": "Deine gratis Probezeit wurde erfolgreich gestartet. Besuche YouTube, um es auszuprobieren"
